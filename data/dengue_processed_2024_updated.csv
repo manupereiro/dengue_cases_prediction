@@ -1,0 +1,1177 @@
+year,week,departament_name,departament_id,province,trends_dengue,prec_2weeks,temp_2weeks_avg,humd_2weeks_avg,target_cases
+2024,1,Almirante Brown,16,Buenos Aires,,13.37,24.56,65.57,3
+2024,1,Avellaneda,17,Buenos Aires,,10.95,25.14,67.61,6
+2024,1,Berazategui,18,Buenos Aires,,13.37,24.56,65.57,2
+2024,1,Brandsen,20,Buenos Aires,,13.37,24.56,65.57,1
+2024,1,COMUNA 1,1,CABA,,17.26,26.2,57.61,5
+2024,1,COMUNA 10,10,CABA,,17.26,26.2,57.61,2
+2024,1,COMUNA 11,11,CABA,,17.26,26.2,57.61,3
+2024,1,COMUNA 12,12,CABA,,17.26,26.2,57.61,3
+2024,1,COMUNA 13,13,CABA,,17.26,26.2,57.61,1
+2024,1,COMUNA 15,15,CABA,,17.26,26.2,57.61,5
+2024,1,COMUNA 2,2,CABA,,17.26,26.2,57.61,3
+2024,1,COMUNA 3,3,CABA,,17.26,26.2,57.61,4
+2024,1,COMUNA 4,4,CABA,,17.26,26.2,57.61,4
+2024,1,COMUNA 5,5,CABA,,17.26,26.2,57.61,4
+2024,1,COMUNA 6,6,CABA,,17.26,26.2,57.61,3
+2024,1,COMUNA 7,7,CABA,,17.26,26.2,57.61,2
+2024,1,COMUNA 8,8,CABA,,17.26,26.2,57.61,5
+2024,1,Escobar,24,Buenos Aires,,17.26,26.2,57.61,1
+2024,1,Esteban Echeverría,25,Buenos Aires,,15.2,25.29,61.14,8
+2024,1,Exaltación de la Cruz,26,Buenos Aires,,14.85,26.58,56.75,1
+2024,1,Ezeiza,27,Buenos Aires,,15.2,25.29,61.14,3
+2024,1,Florencio Varela,28,Buenos Aires,,13.37,24.56,65.57,10
+2024,1,General San Martín,31,Buenos Aires,,17.26,26.2,57.61,7
+2024,1,Hurlingham,32,Buenos Aires,,17.26,26.2,57.61,2
+2024,1,José C. Paz,34,Buenos Aires,,17.26,26.2,57.61,5
+2024,1,La Matanza,35,Buenos Aires,,17.26,26.2,57.61,6
+2024,1,La Plata,37,Buenos Aires,,13.37,24.56,65.57,12
+2024,1,Lanús,36,Buenos Aires,,10.95,25.14,67.61,7
+2024,1,Lomas de Zamora,38,Buenos Aires,,10.95,25.14,67.61,12
+2024,1,Malvinas Argentinas,41,Buenos Aires,,17.26,26.2,57.61,1
+2024,1,Moreno,42,Buenos Aires,,17.26,26.2,57.61,1
+2024,1,Morón,44,Buenos Aires,,17.26,26.2,57.61,6
+2024,1,Pilar,45,Buenos Aires,,17.26,26.2,57.61,4
+2024,1,Presidente Perón,46,Buenos Aires,,15.2,25.29,61.14,3
+2024,1,Quilmes,47,Buenos Aires,,13.37,24.56,65.57,11
+2024,1,San Fernando,48,Buenos Aires,,17.26,26.2,57.61,3
+2024,1,San Isidro,49,Buenos Aires,,17.26,26.2,57.61,3
+2024,1,San Miguel,50,Buenos Aires,,17.26,26.2,57.61,7
+2024,1,Tigre,52,Buenos Aires,,17.26,26.2,57.61,13
+2024,1,Tres de Febrero,53,Buenos Aires,,17.26,26.2,57.61,3
+2024,1,Vicente López,54,Buenos Aires,,17.26,26.2,57.61,6
+2024,2,Almirante Brown,16,Buenos Aires,,14.93,24.53,63.73,12
+2024,2,Avellaneda,17,Buenos Aires,,16.31,25.66,65.47,10
+2024,2,Berazategui,18,Buenos Aires,,14.93,24.53,63.73,2
+2024,2,Brandsen,20,Buenos Aires,,14.93,24.53,63.73,1
+2024,2,COMUNA 1,1,CABA,,19.64,25.23,60.68,33
+2024,2,COMUNA 10,10,CABA,,19.64,25.23,60.68,1
+2024,2,COMUNA 11,11,CABA,,19.64,25.23,60.68,3
+2024,2,COMUNA 12,12,CABA,,19.64,25.23,60.68,4
+2024,2,COMUNA 13,13,CABA,,19.64,25.23,60.68,6
+2024,2,COMUNA 14,14,CABA,,19.64,25.23,60.68,5
+2024,2,COMUNA 15,15,CABA,,19.64,25.23,60.68,7
+2024,2,COMUNA 2,2,CABA,,19.64,25.23,60.68,3
+2024,2,COMUNA 3,3,CABA,,19.64,25.23,60.68,7
+2024,2,COMUNA 4,4,CABA,,19.64,25.23,60.68,12
+2024,2,COMUNA 5,5,CABA,,19.64,25.23,60.68,3
+2024,2,COMUNA 6,6,CABA,,19.64,25.23,60.68,4
+2024,2,COMUNA 7,7,CABA,,19.64,25.23,60.68,3
+2024,2,COMUNA 8,8,CABA,,19.64,25.23,60.68,9
+2024,2,COMUNA 9,9,CABA,,19.64,25.23,60.68,1
+2024,2,Campana,21,Buenos Aires,,16.62,25.66,60.06,4
+2024,2,Cañuelas,22,Buenos Aires,,16.01,24.67,60.07,1
+2024,2,Escobar,24,Buenos Aires,,19.64,25.23,60.68,3
+2024,2,Esteban Echeverría,25,Buenos Aires,,16.01,24.67,60.07,11
+2024,2,Exaltación de la Cruz,26,Buenos Aires,,16.62,25.66,60.06,1
+2024,2,Ezeiza,27,Buenos Aires,,16.01,24.67,60.07,6
+2024,2,Florencio Varela,28,Buenos Aires,,14.93,24.53,63.73,17
+2024,2,General Rodríguez,30,Buenos Aires,,19.64,25.23,60.68,6
+2024,2,General San Martín,31,Buenos Aires,,19.64,25.23,60.68,8
+2024,2,Hurlingham,32,Buenos Aires,,19.64,25.23,60.68,9
+2024,2,Ituzaingó,33,Buenos Aires,,19.64,25.23,60.68,1
+2024,2,José C. Paz,34,Buenos Aires,,19.64,25.23,60.68,7
+2024,2,La Matanza,35,Buenos Aires,,19.64,25.23,60.68,14
+2024,2,La Plata,37,Buenos Aires,,14.93,24.53,63.73,18
+2024,2,Lanús,36,Buenos Aires,,16.31,25.66,65.47,13
+2024,2,Lomas de Zamora,38,Buenos Aires,,16.31,25.66,65.47,24
+2024,2,Malvinas Argentinas,41,Buenos Aires,,19.64,25.23,60.68,6
+2024,2,Merlo,43,Buenos Aires,,19.64,25.23,60.68,7
+2024,2,Moreno,42,Buenos Aires,,19.64,25.23,60.68,13
+2024,2,Morón,44,Buenos Aires,,19.64,25.23,60.68,6
+2024,2,Pilar,45,Buenos Aires,,19.64,25.23,60.68,20
+2024,2,Presidente Perón,46,Buenos Aires,,16.01,24.67,60.07,1
+2024,2,Quilmes,47,Buenos Aires,,14.93,24.53,63.73,6
+2024,2,San Fernando,48,Buenos Aires,,19.64,25.23,60.68,7
+2024,2,San Isidro,49,Buenos Aires,,19.64,25.23,60.68,9
+2024,2,San Miguel,50,Buenos Aires,,19.64,25.23,60.68,15
+2024,2,San Vicente,51,Buenos Aires,,16.01,24.67,60.07,1
+2024,2,Tigre,52,Buenos Aires,,19.64,25.23,60.68,13
+2024,2,Tres de Febrero,53,Buenos Aires,,19.64,25.23,60.68,5
+2024,2,Vicente López,54,Buenos Aires,,19.64,25.23,60.68,6
+2024,2,Zárate,55,Buenos Aires,,16.62,25.66,60.06,1
+2024,3,Almirante Brown,16,Buenos Aires,,28.3,24.55,64.65,19
+2024,3,Avellaneda,17,Buenos Aires,,27.26,25.4,66.54,14
+2024,3,Berazategui,18,Buenos Aires,,28.3,24.55,64.65,6
+2024,3,Berisso,19,Buenos Aires,,28.3,24.55,64.65,1
+2024,3,Brandsen,20,Buenos Aires,,28.3,24.55,64.65,1
+2024,3,COMUNA 1,1,CABA,,36.9,25.71,59.14,41
+2024,3,COMUNA 11,11,CABA,,36.9,25.71,59.14,7
+2024,3,COMUNA 12,12,CABA,,36.9,25.71,59.14,6
+2024,3,COMUNA 13,13,CABA,,36.9,25.71,59.14,5
+2024,3,COMUNA 14,14,CABA,,36.9,25.71,59.14,4
+2024,3,COMUNA 15,15,CABA,,36.9,25.71,59.14,8
+2024,3,COMUNA 3,3,CABA,,36.9,25.71,59.14,6
+2024,3,COMUNA 4,4,CABA,,36.9,25.71,59.14,8
+2024,3,COMUNA 5,5,CABA,,36.9,25.71,59.14,3
+2024,3,COMUNA 6,6,CABA,,36.9,25.71,59.14,1
+2024,3,COMUNA 7,7,CABA,,36.9,25.71,59.14,3
+2024,3,COMUNA 8,8,CABA,,36.9,25.71,59.14,8
+2024,3,COMUNA 9,9,CABA,,36.9,25.71,59.14,3
+2024,3,Cañuelas,22,Buenos Aires,,31.21,24.98,60.61,1
+2024,3,Escobar,24,Buenos Aires,,36.9,25.71,59.14,2
+2024,3,Esteban Echeverría,25,Buenos Aires,,31.21,24.98,60.61,9
+2024,3,Ezeiza,27,Buenos Aires,,31.21,24.98,60.61,11
+2024,3,Florencio Varela,28,Buenos Aires,,28.3,24.55,64.65,15
+2024,3,General Rodríguez,30,Buenos Aires,,36.9,25.71,59.14,1
+2024,3,General San Martín,31,Buenos Aires,,36.9,25.71,59.14,8
+2024,3,Hurlingham,32,Buenos Aires,,36.9,25.71,59.14,8
+2024,3,Ituzaingó,33,Buenos Aires,,36.9,25.71,59.14,4
+2024,3,José C. Paz,34,Buenos Aires,,36.9,25.71,59.14,4
+2024,3,La Matanza,35,Buenos Aires,,36.9,25.71,59.14,17
+2024,3,La Plata,37,Buenos Aires,,28.3,24.55,64.65,9
+2024,3,Lanús,36,Buenos Aires,,27.26,25.4,66.54,13
+2024,3,Lomas de Zamora,38,Buenos Aires,,27.26,25.4,66.54,27
+2024,3,Malvinas Argentinas,41,Buenos Aires,,36.9,25.71,59.14,7
+2024,3,Merlo,43,Buenos Aires,,36.9,25.71,59.14,7
+2024,3,Moreno,42,Buenos Aires,,36.9,25.71,59.14,11
+2024,3,Morón,44,Buenos Aires,,36.9,25.71,59.14,11
+2024,3,Pilar,45,Buenos Aires,,36.9,25.71,59.14,11
+2024,3,Presidente Perón,46,Buenos Aires,,31.21,24.98,60.61,2
+2024,3,Quilmes,47,Buenos Aires,,28.3,24.55,64.65,14
+2024,3,San Fernando,48,Buenos Aires,,36.9,25.71,59.14,7
+2024,3,San Isidro,49,Buenos Aires,,36.9,25.71,59.14,12
+2024,3,San Miguel,50,Buenos Aires,,36.9,25.71,59.14,13
+2024,3,Tigre,52,Buenos Aires,,36.9,25.71,59.14,9
+2024,3,Tres de Febrero,53,Buenos Aires,,36.9,25.71,59.14,4
+2024,3,Vicente López,54,Buenos Aires,,36.9,25.71,59.14,5
+2024,3,Zárate,55,Buenos Aires,,31.47,26.12,58.41,2
+2024,4,Almirante Brown,16,Buenos Aires,,25.73,24.02,63.91,24
+2024,4,Avellaneda,17,Buenos Aires,,28.64,25.01,66.1,10
+2024,4,Berazategui,18,Buenos Aires,,25.73,24.02,63.91,6
+2024,4,COMUNA 1,1,CABA,,35.7,24.66,61.4,63
+2024,4,COMUNA 10,10,CABA,,35.7,24.66,61.4,2
+2024,4,COMUNA 11,11,CABA,,35.7,24.66,61.4,9
+2024,4,COMUNA 12,12,CABA,,35.7,24.66,61.4,2
+2024,4,COMUNA 13,13,CABA,,35.7,24.66,61.4,2
+2024,4,COMUNA 14,14,CABA,,35.7,24.66,61.4,3
+2024,4,COMUNA 15,15,CABA,,35.7,24.66,61.4,12
+2024,4,COMUNA 2,2,CABA,,35.7,24.66,61.4,1
+2024,4,COMUNA 3,3,CABA,,35.7,24.66,61.4,2
+2024,4,COMUNA 4,4,CABA,,35.7,24.66,61.4,14
+2024,4,COMUNA 5,5,CABA,,35.7,24.66,61.4,1
+2024,4,COMUNA 6,6,CABA,,35.7,24.66,61.4,2
+2024,4,COMUNA 7,7,CABA,,35.7,24.66,61.4,5
+2024,4,COMUNA 8,8,CABA,,35.7,24.66,61.4,10
+2024,4,COMUNA 9,9,CABA,,35.7,24.66,61.4,4
+2024,4,Cañuelas,22,Buenos Aires,,27.53,24.22,60.69,1
+2024,4,Escobar,24,Buenos Aires,,35.7,24.66,61.4,4
+2024,4,Esteban Echeverría,25,Buenos Aires,,27.53,24.22,60.69,10
+2024,4,Exaltación de la Cruz,26,Buenos Aires,,40.59,24.96,61.61,1
+2024,4,Ezeiza,27,Buenos Aires,,27.53,24.22,60.69,12
+2024,4,Florencio Varela,28,Buenos Aires,,25.73,24.02,63.91,25
+2024,4,General Rodríguez,30,Buenos Aires,,35.7,24.66,61.4,1
+2024,4,General San Martín,31,Buenos Aires,,35.7,24.66,61.4,22
+2024,4,Hurlingham,32,Buenos Aires,,35.7,24.66,61.4,3
+2024,4,Ituzaingó,33,Buenos Aires,,35.7,24.66,61.4,3
+2024,4,José C. Paz,34,Buenos Aires,,35.7,24.66,61.4,11
+2024,4,La Matanza,35,Buenos Aires,,35.7,24.66,61.4,36
+2024,4,La Plata,37,Buenos Aires,,25.73,24.02,63.91,14
+2024,4,Lanús,36,Buenos Aires,,28.64,25.01,66.1,29
+2024,4,Lomas de Zamora,38,Buenos Aires,,28.64,25.01,66.1,35
+2024,4,Luján,39,Buenos Aires,,35.7,24.66,61.4,2
+2024,4,Malvinas Argentinas,41,Buenos Aires,,35.7,24.66,61.4,12
+2024,4,Marcos Paz,40,Buenos Aires,,27.53,24.22,60.69,1
+2024,4,Merlo,43,Buenos Aires,,35.7,24.66,61.4,5
+2024,4,Moreno,42,Buenos Aires,,35.7,24.66,61.4,13
+2024,4,Morón,44,Buenos Aires,,35.7,24.66,61.4,5
+2024,4,Pilar,45,Buenos Aires,,35.7,24.66,61.4,9
+2024,4,Presidente Perón,46,Buenos Aires,,27.53,24.22,60.69,2
+2024,4,Quilmes,47,Buenos Aires,,25.73,24.02,63.91,19
+2024,4,San Fernando,48,Buenos Aires,,35.7,24.66,61.4,4
+2024,4,San Isidro,49,Buenos Aires,,35.7,24.66,61.4,32
+2024,4,San Miguel,50,Buenos Aires,,35.7,24.66,61.4,16
+2024,4,Tigre,52,Buenos Aires,,35.7,24.66,61.4,8
+2024,4,Tres de Febrero,53,Buenos Aires,,35.7,24.66,61.4,12
+2024,4,Vicente López,54,Buenos Aires,,35.7,24.66,61.4,9
+2024,4,Zárate,55,Buenos Aires,,40.59,24.96,61.61,1
+2024,5,Almirante Brown,16,Buenos Aires,,10.8,23.91,61.55,29
+2024,5,Avellaneda,17,Buenos Aires,,12.33,24.7,63.84,43
+2024,5,Berazategui,18,Buenos Aires,,10.8,23.91,61.55,14
+2024,5,Berisso,19,Buenos Aires,,10.8,23.91,61.55,1
+2024,5,Brandsen,20,Buenos Aires,,10.8,23.91,61.55,1
+2024,5,COMUNA 1,1,CABA,,16.06,24.68,57.77,103
+2024,5,COMUNA 10,10,CABA,,16.06,24.68,57.77,4
+2024,5,COMUNA 11,11,CABA,,16.06,24.68,57.77,16
+2024,5,COMUNA 12,12,CABA,,16.06,24.68,57.77,2
+2024,5,COMUNA 13,13,CABA,,16.06,24.68,57.77,9
+2024,5,COMUNA 14,14,CABA,,16.06,24.68,57.77,8
+2024,5,COMUNA 15,15,CABA,,16.06,24.68,57.77,24
+2024,5,COMUNA 2,2,CABA,,16.06,24.68,57.77,2
+2024,5,COMUNA 3,3,CABA,,16.06,24.68,57.77,10
+2024,5,COMUNA 4,4,CABA,,16.06,24.68,57.77,20
+2024,5,COMUNA 5,5,CABA,,16.06,24.68,57.77,7
+2024,5,COMUNA 6,6,CABA,,16.06,24.68,57.77,7
+2024,5,COMUNA 7,7,CABA,,16.06,24.68,57.77,9
+2024,5,COMUNA 8,8,CABA,,16.06,24.68,57.77,15
+2024,5,COMUNA 9,9,CABA,,16.06,24.68,57.77,5
+2024,5,Campana,21,Buenos Aires,,23.97,24.76,57.97,2
+2024,5,Cañuelas,22,Buenos Aires,,11.52,24.3,58.39,1
+2024,5,Ensenada,23,Buenos Aires,,10.8,23.91,61.55,2
+2024,5,Escobar,24,Buenos Aires,,16.06,24.68,57.77,4
+2024,5,Esteban Echeverría,25,Buenos Aires,,11.52,24.3,58.39,30
+2024,5,Exaltación de la Cruz,26,Buenos Aires,,23.97,24.76,57.97,1
+2024,5,Ezeiza,27,Buenos Aires,,11.52,24.3,58.39,12
+2024,5,Florencio Varela,28,Buenos Aires,,10.8,23.91,61.55,30
+2024,5,General San Martín,31,Buenos Aires,,16.06,24.68,57.77,39
+2024,5,Hurlingham,32,Buenos Aires,,16.06,24.68,57.77,13
+2024,5,Ituzaingó,33,Buenos Aires,,16.06,24.68,57.77,8
+2024,5,José C. Paz,34,Buenos Aires,,16.06,24.68,57.77,22
+2024,5,La Matanza,35,Buenos Aires,,16.06,24.68,57.77,49
+2024,5,La Plata,37,Buenos Aires,,10.8,23.91,61.55,16
+2024,5,Lanús,36,Buenos Aires,,12.33,24.7,63.84,59
+2024,5,Lomas de Zamora,38,Buenos Aires,,12.33,24.7,63.84,68
+2024,5,Luján,39,Buenos Aires,,16.06,24.68,57.77,4
+2024,5,Malvinas Argentinas,41,Buenos Aires,,16.06,24.68,57.77,9
+2024,5,Merlo,43,Buenos Aires,,16.06,24.68,57.77,21
+2024,5,Moreno,42,Buenos Aires,,16.06,24.68,57.77,18
+2024,5,Morón,44,Buenos Aires,,16.06,24.68,57.77,6
+2024,5,Pilar,45,Buenos Aires,,16.06,24.68,57.77,9
+2024,5,Presidente Perón,46,Buenos Aires,,11.52,24.3,58.39,3
+2024,5,Quilmes,47,Buenos Aires,,10.8,23.91,61.55,43
+2024,5,San Fernando,48,Buenos Aires,,16.06,24.68,57.77,5
+2024,5,San Isidro,49,Buenos Aires,,16.06,24.68,57.77,48
+2024,5,San Miguel,50,Buenos Aires,,16.06,24.68,57.77,14
+2024,5,San Vicente,51,Buenos Aires,,11.52,24.3,58.39,1
+2024,5,Tigre,52,Buenos Aires,,16.06,24.68,57.77,11
+2024,5,Tres de Febrero,53,Buenos Aires,,16.06,24.68,57.77,14
+2024,5,Vicente López,54,Buenos Aires,,16.06,24.68,57.77,11
+2024,5,Zárate,55,Buenos Aires,,23.97,24.76,57.97,5
+2024,6,Almirante Brown,16,Buenos Aires,,2.14,26.52,55.43,76
+2024,6,Avellaneda,17,Buenos Aires,,0.21,26.78,60.1,52
+2024,6,Berazategui,18,Buenos Aires,,2.14,26.52,55.43,32
+2024,6,Berisso,19,Buenos Aires,,2.14,26.52,55.43,5
+2024,6,COMUNA 1,1,CABA,,0.11,27.77,48.25,242
+2024,6,COMUNA 10,10,CABA,,0.11,27.77,48.25,8
+2024,6,COMUNA 11,11,CABA,,0.11,27.77,48.25,30
+2024,6,COMUNA 12,12,CABA,,0.11,27.77,48.25,10
+2024,6,COMUNA 13,13,CABA,,0.11,27.77,48.25,10
+2024,6,COMUNA 14,14,CABA,,0.11,27.77,48.25,11
+2024,6,COMUNA 15,15,CABA,,0.11,27.77,48.25,37
+2024,6,COMUNA 2,2,CABA,,0.11,27.77,48.25,4
+2024,6,COMUNA 3,3,CABA,,0.11,27.77,48.25,17
+2024,6,COMUNA 4,4,CABA,,0.11,27.77,48.25,29
+2024,6,COMUNA 5,5,CABA,,0.11,27.77,48.25,8
+2024,6,COMUNA 6,6,CABA,,0.11,27.77,48.25,11
+2024,6,COMUNA 7,7,CABA,,0.11,27.77,48.25,19
+2024,6,COMUNA 8,8,CABA,,0.11,27.77,48.25,28
+2024,6,COMUNA 9,9,CABA,,0.11,27.77,48.25,10
+2024,6,Campana,21,Buenos Aires,,0.0,27.81,48.28,1
+2024,6,Escobar,24,Buenos Aires,,0.11,27.77,48.25,8
+2024,6,Esteban Echeverría,25,Buenos Aires,,1.1,27.27,50.09,62
+2024,6,Exaltación de la Cruz,26,Buenos Aires,,0.0,27.81,48.28,1
+2024,6,Ezeiza,27,Buenos Aires,,1.1,27.27,50.09,18
+2024,6,Florencio Varela,28,Buenos Aires,,2.14,26.52,55.43,65
+2024,6,General Rodríguez,30,Buenos Aires,,0.11,27.77,48.25,2
+2024,6,General San Martín,31,Buenos Aires,,0.11,27.77,48.25,93
+2024,6,Hurlingham,32,Buenos Aires,,0.11,27.77,48.25,37
+2024,6,Ituzaingó,33,Buenos Aires,,0.11,27.77,48.25,13
+2024,6,José C. Paz,34,Buenos Aires,,0.11,27.77,48.25,66
+2024,6,La Matanza,35,Buenos Aires,,0.11,27.77,48.25,179
+2024,6,La Plata,37,Buenos Aires,,2.14,26.52,55.43,20
+2024,6,Lanús,36,Buenos Aires,,0.21,26.78,60.1,163
+2024,6,Lomas de Zamora,38,Buenos Aires,,0.21,26.78,60.1,175
+2024,6,Luján,39,Buenos Aires,,0.11,27.77,48.25,1
+2024,6,Malvinas Argentinas,41,Buenos Aires,,0.11,27.77,48.25,33
+2024,6,Merlo,43,Buenos Aires,,0.11,27.77,48.25,38
+2024,6,Moreno,42,Buenos Aires,,0.11,27.77,48.25,66
+2024,6,Morón,44,Buenos Aires,,0.11,27.77,48.25,24
+2024,6,Pilar,45,Buenos Aires,,0.11,27.77,48.25,29
+2024,6,Presidente Perón,46,Buenos Aires,,1.1,27.27,50.09,4
+2024,6,Quilmes,47,Buenos Aires,,2.14,26.52,55.43,89
+2024,6,San Fernando,48,Buenos Aires,,0.11,27.77,48.25,11
+2024,6,San Isidro,49,Buenos Aires,,0.11,27.77,48.25,98
+2024,6,San Miguel,50,Buenos Aires,,0.11,27.77,48.25,48
+2024,6,San Vicente,51,Buenos Aires,,1.1,27.27,50.09,5
+2024,6,Tigre,52,Buenos Aires,,0.11,27.77,48.25,20
+2024,6,Tres de Febrero,53,Buenos Aires,,0.11,27.77,48.25,62
+2024,6,Vicente López,54,Buenos Aires,,0.11,27.77,48.25,46
+2024,6,Zárate,55,Buenos Aires,,0.0,27.81,48.28,5
+2024,7,Almirante Brown,16,Buenos Aires,,117.65,28.27,60.42,180
+2024,7,Avellaneda,17,Buenos Aires,,73.85,28.49,64.25,150
+2024,7,Berazategui,18,Buenos Aires,,117.65,28.27,60.42,65
+2024,7,Berisso,19,Buenos Aires,,117.65,28.27,60.42,4
+2024,7,Brandsen,20,Buenos Aires,,117.65,28.27,60.42,2
+2024,7,COMUNA 1,1,CABA,,68.96,29.97,51.97,443
+2024,7,COMUNA 10,10,CABA,,68.96,29.97,51.97,16
+2024,7,COMUNA 11,11,CABA,,68.96,29.97,51.97,56
+2024,7,COMUNA 12,12,CABA,,68.96,29.97,51.97,30
+2024,7,COMUNA 13,13,CABA,,68.96,29.97,51.97,24
+2024,7,COMUNA 14,14,CABA,,68.96,29.97,51.97,22
+2024,7,COMUNA 15,15,CABA,,68.96,29.97,51.97,70
+2024,7,COMUNA 2,2,CABA,,68.96,29.97,51.97,13
+2024,7,COMUNA 3,3,CABA,,68.96,29.97,51.97,25
+2024,7,COMUNA 4,4,CABA,,68.96,29.97,51.97,32
+2024,7,COMUNA 5,5,CABA,,68.96,29.97,51.97,14
+2024,7,COMUNA 6,6,CABA,,68.96,29.97,51.97,17
+2024,7,COMUNA 7,7,CABA,,68.96,29.97,51.97,38
+2024,7,COMUNA 8,8,CABA,,68.96,29.97,51.97,40
+2024,7,COMUNA 9,9,CABA,,68.96,29.97,51.97,19
+2024,7,Campana,21,Buenos Aires,,63.87,30.46,50.97,5
+2024,7,Cañuelas,22,Buenos Aires,,93.81,29.05,55.16,1
+2024,7,Escobar,24,Buenos Aires,,68.96,29.97,51.97,38
+2024,7,Esteban Echeverría,25,Buenos Aires,,93.81,29.05,55.16,93
+2024,7,Exaltación de la Cruz,26,Buenos Aires,,63.87,30.46,50.97,3
+2024,7,Ezeiza,27,Buenos Aires,,93.81,29.05,55.16,42
+2024,7,Florencio Varela,28,Buenos Aires,,117.65,28.27,60.42,192
+2024,7,General Rodríguez,30,Buenos Aires,,68.96,29.97,51.97,10
+2024,7,General San Martín,31,Buenos Aires,,68.96,29.97,51.97,220
+2024,7,Hurlingham,32,Buenos Aires,,68.96,29.97,51.97,73
+2024,7,Ituzaingó,33,Buenos Aires,,68.96,29.97,51.97,25
+2024,7,José C. Paz,34,Buenos Aires,,68.96,29.97,51.97,189
+2024,7,La Matanza,35,Buenos Aires,,68.96,29.97,51.97,427
+2024,7,La Plata,37,Buenos Aires,,117.65,28.27,60.42,44
+2024,7,Lanús,36,Buenos Aires,,73.85,28.49,64.25,426
+2024,7,Lomas de Zamora,38,Buenos Aires,,73.85,28.49,64.25,391
+2024,7,Luján,39,Buenos Aires,,68.96,29.97,51.97,4
+2024,7,Malvinas Argentinas,41,Buenos Aires,,68.96,29.97,51.97,83
+2024,7,Marcos Paz,40,Buenos Aires,,93.81,29.05,55.16,3
+2024,7,Merlo,43,Buenos Aires,,68.96,29.97,51.97,114
+2024,7,Moreno,42,Buenos Aires,,68.96,29.97,51.97,113
+2024,7,Morón,44,Buenos Aires,,68.96,29.97,51.97,84
+2024,7,Pilar,45,Buenos Aires,,68.96,29.97,51.97,63
+2024,7,Presidente Perón,46,Buenos Aires,,93.81,29.05,55.16,12
+2024,7,Quilmes,47,Buenos Aires,,117.65,28.27,60.42,243
+2024,7,San Fernando,48,Buenos Aires,,68.96,29.97,51.97,27
+2024,7,San Isidro,49,Buenos Aires,,68.96,29.97,51.97,233
+2024,7,San Miguel,50,Buenos Aires,,68.96,29.97,51.97,114
+2024,7,San Vicente,51,Buenos Aires,,93.81,29.05,55.16,3
+2024,7,Tigre,52,Buenos Aires,,68.96,29.97,51.97,56
+2024,7,Tres de Febrero,53,Buenos Aires,,68.96,29.97,51.97,121
+2024,7,Vicente López,54,Buenos Aires,,68.96,29.97,51.97,143
+2024,7,Zárate,55,Buenos Aires,,63.87,30.46,50.97,8
+2024,8,Almirante Brown,16,Buenos Aires,,147.94,24.62,72.35,299
+2024,8,Avellaneda,17,Buenos Aires,,95.43,25.84,71.4,218
+2024,8,Berazategui,18,Buenos Aires,,147.94,24.62,72.35,121
+2024,8,Berisso,19,Buenos Aires,,147.94,24.62,72.35,10
+2024,8,Brandsen,20,Buenos Aires,,147.94,24.62,72.35,2
+2024,8,COMUNA 1,1,CABA,,91.9,25.8,66.92,722
+2024,8,COMUNA 10,10,CABA,,91.9,25.8,66.92,44
+2024,8,COMUNA 11,11,CABA,,91.9,25.8,66.92,65
+2024,8,COMUNA 12,12,CABA,,91.9,25.8,66.92,56
+2024,8,COMUNA 13,13,CABA,,91.9,25.8,66.92,54
+2024,8,COMUNA 14,14,CABA,,91.9,25.8,66.92,37
+2024,8,COMUNA 15,15,CABA,,91.9,25.8,66.92,130
+2024,8,COMUNA 2,2,CABA,,91.9,25.8,66.92,16
+2024,8,COMUNA 3,3,CABA,,91.9,25.8,66.92,42
+2024,8,COMUNA 4,4,CABA,,91.9,25.8,66.92,87
+2024,8,COMUNA 5,5,CABA,,91.9,25.8,66.92,32
+2024,8,COMUNA 6,6,CABA,,91.9,25.8,66.92,40
+2024,8,COMUNA 7,7,CABA,,91.9,25.8,66.92,62
+2024,8,COMUNA 8,8,CABA,,91.9,25.8,66.92,74
+2024,8,COMUNA 9,9,CABA,,91.9,25.8,66.92,33
+2024,8,Campana,21,Buenos Aires,,84.58,26.58,64.22,4
+2024,8,Cañuelas,22,Buenos Aires,,118.97,24.76,70.07,9
+2024,8,Ensenada,23,Buenos Aires,,147.94,24.62,72.35,2
+2024,8,Escobar,24,Buenos Aires,,91.9,25.8,66.92,29
+2024,8,Esteban Echeverría,25,Buenos Aires,,118.97,24.76,70.07,144
+2024,8,Exaltación de la Cruz,26,Buenos Aires,,84.58,26.58,64.22,3
+2024,8,Ezeiza,27,Buenos Aires,,118.97,24.76,70.07,80
+2024,8,Florencio Varela,28,Buenos Aires,,147.94,24.62,72.35,363
+2024,8,General Rodríguez,30,Buenos Aires,,91.9,25.8,66.92,24
+2024,8,General San Martín,31,Buenos Aires,,91.9,25.8,66.92,344
+2024,8,Hurlingham,32,Buenos Aires,,91.9,25.8,66.92,132
+2024,8,Ituzaingó,33,Buenos Aires,,91.9,25.8,66.92,72
+2024,8,José C. Paz,34,Buenos Aires,,91.9,25.8,66.92,373
+2024,8,La Matanza,35,Buenos Aires,,91.9,25.8,66.92,795
+2024,8,La Plata,37,Buenos Aires,,147.94,24.62,72.35,120
+2024,8,Lanús,36,Buenos Aires,,95.43,25.84,71.4,716
+2024,8,Lomas de Zamora,38,Buenos Aires,,95.43,25.84,71.4,601
+2024,8,Luján,39,Buenos Aires,,91.9,25.8,66.92,6
+2024,8,Malvinas Argentinas,41,Buenos Aires,,91.9,25.8,66.92,243
+2024,8,Marcos Paz,40,Buenos Aires,,118.97,24.76,70.07,2
+2024,8,Merlo,43,Buenos Aires,,91.9,25.8,66.92,186
+2024,8,Moreno,42,Buenos Aires,,91.9,25.8,66.92,204
+2024,8,Morón,44,Buenos Aires,,91.9,25.8,66.92,179
+2024,8,Pilar,45,Buenos Aires,,91.9,25.8,66.92,74
+2024,8,Presidente Perón,46,Buenos Aires,,118.97,24.76,70.07,11
+2024,8,Quilmes,47,Buenos Aires,,147.94,24.62,72.35,514
+2024,8,San Fernando,48,Buenos Aires,,91.9,25.8,66.92,72
+2024,8,San Isidro,49,Buenos Aires,,91.9,25.8,66.92,411
+2024,8,San Miguel,50,Buenos Aires,,91.9,25.8,66.92,224
+2024,8,San Vicente,51,Buenos Aires,,118.97,24.76,70.07,6
+2024,8,Tigre,52,Buenos Aires,,91.9,25.8,66.92,91
+2024,8,Tres de Febrero,53,Buenos Aires,,91.9,25.8,66.92,246
+2024,8,Vicente López,54,Buenos Aires,,91.9,25.8,66.92,260
+2024,8,Zárate,55,Buenos Aires,,84.58,26.58,64.22,8
+2024,9,Almirante Brown,16,Buenos Aires,,34.55,22.7,73.77,319
+2024,9,Avellaneda,17,Buenos Aires,,22.33,24.13,73.44,389
+2024,9,Berazategui,18,Buenos Aires,,34.55,22.7,73.77,190
+2024,9,Berisso,19,Buenos Aires,,34.55,22.7,73.77,15
+2024,9,Brandsen,20,Buenos Aires,,34.55,22.7,73.77,3
+2024,9,COMUNA 1,1,CABA,,24.78,23.51,70.11,914
+2024,9,COMUNA 10,10,CABA,,24.78,23.51,70.11,41
+2024,9,COMUNA 11,11,CABA,,24.78,23.51,70.11,103
+2024,9,COMUNA 12,12,CABA,,24.78,23.51,70.11,69
+2024,9,COMUNA 13,13,CABA,,24.78,23.51,70.11,56
+2024,9,COMUNA 14,14,CABA,,24.78,23.51,70.11,42
+2024,9,COMUNA 15,15,CABA,,24.78,23.51,70.11,160
+2024,9,COMUNA 2,2,CABA,,24.78,23.51,70.11,16
+2024,9,COMUNA 3,3,CABA,,24.78,23.51,70.11,59
+2024,9,COMUNA 4,4,CABA,,24.78,23.51,70.11,111
+2024,9,COMUNA 5,5,CABA,,24.78,23.51,70.11,56
+2024,9,COMUNA 6,6,CABA,,24.78,23.51,70.11,38
+2024,9,COMUNA 7,7,CABA,,24.78,23.51,70.11,73
+2024,9,COMUNA 8,8,CABA,,24.78,23.51,70.11,68
+2024,9,COMUNA 9,9,CABA,,24.78,23.51,70.11,28
+2024,9,Campana,21,Buenos Aires,,22.29,24.18,67.93,1
+2024,9,Cañuelas,22,Buenos Aires,,29.01,22.62,71.71,7
+2024,9,Ensenada,23,Buenos Aires,,34.55,22.7,73.77,5
+2024,9,Escobar,24,Buenos Aires,,24.78,23.51,70.11,63
+2024,9,Esteban Echeverría,25,Buenos Aires,,29.01,22.62,71.71,135
+2024,9,Exaltación de la Cruz,26,Buenos Aires,,22.29,24.18,67.93,8
+2024,9,Ezeiza,27,Buenos Aires,,29.01,22.62,71.71,68
+2024,9,Florencio Varela,28,Buenos Aires,,34.55,22.7,73.77,366
+2024,9,General Las Heras,29,Buenos Aires,,29.01,22.62,71.71,3
+2024,9,General Rodríguez,30,Buenos Aires,,24.78,23.51,70.11,48
+2024,9,General San Martín,31,Buenos Aires,,24.78,23.51,70.11,493
+2024,9,Hurlingham,32,Buenos Aires,,24.78,23.51,70.11,94
+2024,9,Ituzaingó,33,Buenos Aires,,24.78,23.51,70.11,122
+2024,9,José C. Paz,34,Buenos Aires,,24.78,23.51,70.11,791
+2024,9,La Matanza,35,Buenos Aires,,24.78,23.51,70.11,1023
+2024,9,La Plata,37,Buenos Aires,,34.55,22.7,73.77,210
+2024,9,Lanús,36,Buenos Aires,,22.33,24.13,73.44,664
+2024,9,Lomas de Zamora,38,Buenos Aires,,22.33,24.13,73.44,689
+2024,9,Luján,39,Buenos Aires,,24.78,23.51,70.11,11
+2024,9,Malvinas Argentinas,41,Buenos Aires,,24.78,23.51,70.11,376
+2024,9,Marcos Paz,40,Buenos Aires,,29.01,22.62,71.71,7
+2024,9,Merlo,43,Buenos Aires,,24.78,23.51,70.11,240
+2024,9,Moreno,42,Buenos Aires,,24.78,23.51,70.11,429
+2024,9,Morón,44,Buenos Aires,,24.78,23.51,70.11,222
+2024,9,Pilar,45,Buenos Aires,,24.78,23.51,70.11,135
+2024,9,Presidente Perón,46,Buenos Aires,,29.01,22.62,71.71,21
+2024,9,Quilmes,47,Buenos Aires,,34.55,22.7,73.77,567
+2024,9,San Fernando,48,Buenos Aires,,24.78,23.51,70.11,116
+2024,9,San Isidro,49,Buenos Aires,,24.78,23.51,70.11,418
+2024,9,San Miguel,50,Buenos Aires,,24.78,23.51,70.11,710
+2024,9,San Vicente,51,Buenos Aires,,29.01,22.62,71.71,5
+2024,9,Tigre,52,Buenos Aires,,24.78,23.51,70.11,144
+2024,9,Tres de Febrero,53,Buenos Aires,,24.78,23.51,70.11,291
+2024,9,Vicente López,54,Buenos Aires,,24.78,23.51,70.11,353
+2024,9,Zárate,55,Buenos Aires,,22.29,24.18,67.93,20
+2024,10,Almirante Brown,16,Buenos Aires,,22.73,23.73,71.53,459
+2024,10,Avellaneda,17,Buenos Aires,,24.69,24.77,72.84,471
+2024,10,Berazategui,18,Buenos Aires,,22.73,23.73,71.53,203
+2024,10,Berisso,19,Buenos Aires,,22.73,23.73,71.53,27
+2024,10,Brandsen,20,Buenos Aires,,22.73,23.73,71.53,2
+2024,10,COMUNA 1,1,CABA,,28.44,24.64,68.33,1029
+2024,10,COMUNA 10,10,CABA,,28.44,24.64,68.33,48
+2024,10,COMUNA 11,11,CABA,,28.44,24.64,68.33,110
+2024,10,COMUNA 12,12,CABA,,28.44,24.64,68.33,109
+2024,10,COMUNA 13,13,CABA,,28.44,24.64,68.33,94
+2024,10,COMUNA 14,14,CABA,,28.44,24.64,68.33,50
+2024,10,COMUNA 15,15,CABA,,28.44,24.64,68.33,195
+2024,10,COMUNA 2,2,CABA,,28.44,24.64,68.33,22
+2024,10,COMUNA 3,3,CABA,,28.44,24.64,68.33,78
+2024,10,COMUNA 4,4,CABA,,28.44,24.64,68.33,147
+2024,10,COMUNA 5,5,CABA,,28.44,24.64,68.33,77
+2024,10,COMUNA 6,6,CABA,,28.44,24.64,68.33,74
+2024,10,COMUNA 7,7,CABA,,28.44,24.64,68.33,75
+2024,10,COMUNA 8,8,CABA,,28.44,24.64,68.33,86
+2024,10,COMUNA 9,9,CABA,,28.44,24.64,68.33,35
+2024,10,Campana,21,Buenos Aires,,47.45,25.12,67.73,10
+2024,10,Cañuelas,22,Buenos Aires,,24.75,23.84,69.13,5
+2024,10,Ensenada,23,Buenos Aires,,22.73,23.73,71.53,4
+2024,10,Escobar,24,Buenos Aires,,28.44,24.64,68.33,77
+2024,10,Esteban Echeverría,25,Buenos Aires,,24.75,23.84,69.13,172
+2024,10,Exaltación de la Cruz,26,Buenos Aires,,47.45,25.12,67.73,8
+2024,10,Ezeiza,27,Buenos Aires,,24.75,23.84,69.13,50
+2024,10,Florencio Varela,28,Buenos Aires,,22.73,23.73,71.53,523
+2024,10,General Las Heras,29,Buenos Aires,,24.75,23.84,69.13,1
+2024,10,General Rodríguez,30,Buenos Aires,,28.44,24.64,68.33,66
+2024,10,General San Martín,31,Buenos Aires,,28.44,24.64,68.33,643
+2024,10,Hurlingham,32,Buenos Aires,,28.44,24.64,68.33,119
+2024,10,Ituzaingó,33,Buenos Aires,,28.44,24.64,68.33,143
+2024,10,José C. Paz,34,Buenos Aires,,28.44,24.64,68.33,1168
+2024,10,La Matanza,35,Buenos Aires,,28.44,24.64,68.33,1462
+2024,10,La Plata,37,Buenos Aires,,22.73,23.73,71.53,294
+2024,10,Lanús,36,Buenos Aires,,24.69,24.77,72.84,808
+2024,10,Lomas de Zamora,38,Buenos Aires,,24.69,24.77,72.84,840
+2024,10,Luján,39,Buenos Aires,,28.44,24.64,68.33,7
+2024,10,Malvinas Argentinas,41,Buenos Aires,,28.44,24.64,68.33,300
+2024,10,Marcos Paz,40,Buenos Aires,,24.75,23.84,69.13,16
+2024,10,Merlo,43,Buenos Aires,,28.44,24.64,68.33,311
+2024,10,Moreno,42,Buenos Aires,,28.44,24.64,68.33,855
+2024,10,Morón,44,Buenos Aires,,28.44,24.64,68.33,314
+2024,10,Pilar,45,Buenos Aires,,28.44,24.64,68.33,143
+2024,10,Presidente Perón,46,Buenos Aires,,24.75,23.84,69.13,14
+2024,10,Quilmes,47,Buenos Aires,,22.73,23.73,71.53,831
+2024,10,San Fernando,48,Buenos Aires,,28.44,24.64,68.33,152
+2024,10,San Isidro,49,Buenos Aires,,28.44,24.64,68.33,463
+2024,10,San Miguel,50,Buenos Aires,,28.44,24.64,68.33,696
+2024,10,San Vicente,51,Buenos Aires,,24.75,23.84,69.13,4
+2024,10,Tigre,52,Buenos Aires,,28.44,24.64,68.33,150
+2024,10,Tres de Febrero,53,Buenos Aires,,28.44,24.64,68.33,429
+2024,10,Vicente López,54,Buenos Aires,,28.44,24.64,68.33,389
+2024,10,Zárate,55,Buenos Aires,,47.45,25.12,67.73,11
+2024,11,Almirante Brown,16,Buenos Aires,,30.7,22.59,66.35,560
+2024,11,Avellaneda,17,Buenos Aires,,32.0,23.93,67.19,575
+2024,11,Berazategui,18,Buenos Aires,,30.7,22.59,66.35,148
+2024,11,Berisso,19,Buenos Aires,,30.7,22.59,66.35,12
+2024,11,Brandsen,20,Buenos Aires,,30.7,22.59,66.35,2
+2024,11,COMUNA 1,1,CABA,,39.07,23.52,63.64,1165
+2024,11,COMUNA 10,10,CABA,,39.07,23.52,63.64,60
+2024,11,COMUNA 11,11,CABA,,39.07,23.52,63.64,132
+2024,11,COMUNA 12,12,CABA,,39.07,23.52,63.64,129
+2024,11,COMUNA 13,13,CABA,,39.07,23.52,63.64,126
+2024,11,COMUNA 14,14,CABA,,39.07,23.52,63.64,76
+2024,11,COMUNA 15,15,CABA,,39.07,23.52,63.64,187
+2024,11,COMUNA 2,2,CABA,,39.07,23.52,63.64,27
+2024,11,COMUNA 3,3,CABA,,39.07,23.52,63.64,94
+2024,11,COMUNA 4,4,CABA,,39.07,23.52,63.64,217
+2024,11,COMUNA 5,5,CABA,,39.07,23.52,63.64,102
+2024,11,COMUNA 6,6,CABA,,39.07,23.52,63.64,81
+2024,11,COMUNA 7,7,CABA,,39.07,23.52,63.64,98
+2024,11,COMUNA 8,8,CABA,,39.07,23.52,63.64,62
+2024,11,COMUNA 9,9,CABA,,39.07,23.52,63.64,46
+2024,11,Campana,21,Buenos Aires,,71.12,23.69,65.87,5
+2024,11,Cañuelas,22,Buenos Aires,,34.35,22.7,64.22,19
+2024,11,Ensenada,23,Buenos Aires,,30.7,22.59,66.35,8
+2024,11,Escobar,24,Buenos Aires,,39.07,23.52,63.64,110
+2024,11,Esteban Echeverría,25,Buenos Aires,,34.35,22.7,64.22,174
+2024,11,Exaltación de la Cruz,26,Buenos Aires,,71.12,23.69,65.87,6
+2024,11,Ezeiza,27,Buenos Aires,,34.35,22.7,64.22,51
+2024,11,Florencio Varela,28,Buenos Aires,,30.7,22.59,66.35,621
+2024,11,General Las Heras,29,Buenos Aires,,34.35,22.7,64.22,1
+2024,11,General Rodríguez,30,Buenos Aires,,39.07,23.52,63.64,99
+2024,11,General San Martín,31,Buenos Aires,,39.07,23.52,63.64,539
+2024,11,Hurlingham,32,Buenos Aires,,39.07,23.52,63.64,214
+2024,11,Ituzaingó,33,Buenos Aires,,39.07,23.52,63.64,174
+2024,11,José C. Paz,34,Buenos Aires,,39.07,23.52,63.64,1759
+2024,11,La Matanza,35,Buenos Aires,,39.07,23.52,63.64,1399
+2024,11,La Plata,37,Buenos Aires,,30.7,22.59,66.35,347
+2024,11,Lanús,36,Buenos Aires,,32.0,23.93,67.19,897
+2024,11,Lomas de Zamora,38,Buenos Aires,,32.0,23.93,67.19,764
+2024,11,Luján,39,Buenos Aires,,39.07,23.52,63.64,18
+2024,11,Malvinas Argentinas,41,Buenos Aires,,39.07,23.52,63.64,412
+2024,11,Marcos Paz,40,Buenos Aires,,34.35,22.7,64.22,34
+2024,11,Merlo,43,Buenos Aires,,39.07,23.52,63.64,401
+2024,11,Moreno,42,Buenos Aires,,39.07,23.52,63.64,1103
+2024,11,Morón,44,Buenos Aires,,39.07,23.52,63.64,377
+2024,11,Pilar,45,Buenos Aires,,39.07,23.52,63.64,140
+2024,11,Presidente Perón,46,Buenos Aires,,34.35,22.7,64.22,21
+2024,11,Quilmes,47,Buenos Aires,,30.7,22.59,66.35,793
+2024,11,San Fernando,48,Buenos Aires,,39.07,23.52,63.64,170
+2024,11,San Isidro,49,Buenos Aires,,39.07,23.52,63.64,591
+2024,11,San Miguel,50,Buenos Aires,,39.07,23.52,63.64,852
+2024,11,San Vicente,51,Buenos Aires,,34.35,22.7,64.22,13
+2024,11,Tigre,52,Buenos Aires,,39.07,23.52,63.64,168
+2024,11,Tres de Febrero,53,Buenos Aires,,39.07,23.52,63.64,519
+2024,11,Vicente López,54,Buenos Aires,,39.07,23.52,63.64,494
+2024,11,Zárate,55,Buenos Aires,,71.12,23.69,65.87,28
+2024,12,Almirante Brown,16,Buenos Aires,,152.82,22.06,72.28,514
+2024,12,Avellaneda,17,Buenos Aires,,155.45,23.65,72.48,639
+2024,12,Berazategui,18,Buenos Aires,,152.82,22.06,72.28,192
+2024,12,Berisso,19,Buenos Aires,,152.82,22.06,72.28,14
+2024,12,Brandsen,20,Buenos Aires,,152.82,22.06,72.28,9
+2024,12,COMUNA 1,1,CABA,,180.83,22.93,71.1,1387
+2024,12,COMUNA 10,10,CABA,,180.83,22.93,71.1,69
+2024,12,COMUNA 11,11,CABA,,180.83,22.93,71.1,132
+2024,12,COMUNA 12,12,CABA,,180.83,22.93,71.1,153
+2024,12,COMUNA 13,13,CABA,,180.83,22.93,71.1,146
+2024,12,COMUNA 14,14,CABA,,180.83,22.93,71.1,78
+2024,12,COMUNA 15,15,CABA,,180.83,22.93,71.1,210
+2024,12,COMUNA 2,2,CABA,,180.83,22.93,71.1,34
+2024,12,COMUNA 3,3,CABA,,180.83,22.93,71.1,112
+2024,12,COMUNA 4,4,CABA,,180.83,22.93,71.1,237
+2024,12,COMUNA 5,5,CABA,,180.83,22.93,71.1,118
+2024,12,COMUNA 6,6,CABA,,180.83,22.93,71.1,101
+2024,12,COMUNA 7,7,CABA,,180.83,22.93,71.1,111
+2024,12,COMUNA 8,8,CABA,,180.83,22.93,71.1,92
+2024,12,COMUNA 9,9,CABA,,180.83,22.93,71.1,49
+2024,12,Campana,21,Buenos Aires,,206.38,23.24,73.4,13
+2024,12,Cañuelas,22,Buenos Aires,,160.82,21.98,71.4,18
+2024,12,Ensenada,23,Buenos Aires,,152.82,22.06,72.28,8
+2024,12,Escobar,24,Buenos Aires,,180.83,22.93,71.1,265
+2024,12,Esteban Echeverría,25,Buenos Aires,,160.82,21.98,71.4,153
+2024,12,Exaltación de la Cruz,26,Buenos Aires,,206.38,23.24,73.4,24
+2024,12,Ezeiza,27,Buenos Aires,,160.82,21.98,71.4,47
+2024,12,Florencio Varela,28,Buenos Aires,,152.82,22.06,72.28,665
+2024,12,General Las Heras,29,Buenos Aires,,160.82,21.98,71.4,3
+2024,12,General Rodríguez,30,Buenos Aires,,180.83,22.93,71.1,157
+2024,12,General San Martín,31,Buenos Aires,,180.83,22.93,71.1,624
+2024,12,Hurlingham,32,Buenos Aires,,180.83,22.93,71.1,252
+2024,12,Ituzaingó,33,Buenos Aires,,180.83,22.93,71.1,218
+2024,12,José C. Paz,34,Buenos Aires,,180.83,22.93,71.1,1710
+2024,12,La Matanza,35,Buenos Aires,,180.83,22.93,71.1,1571
+2024,12,La Plata,37,Buenos Aires,,152.82,22.06,72.28,439
+2024,12,Lanús,36,Buenos Aires,,155.45,23.65,72.48,860
+2024,12,Lomas de Zamora,38,Buenos Aires,,155.45,23.65,72.48,809
+2024,12,Luján,39,Buenos Aires,,180.83,22.93,71.1,26
+2024,12,Malvinas Argentinas,41,Buenos Aires,,180.83,22.93,71.1,323
+2024,12,Marcos Paz,40,Buenos Aires,,160.82,21.98,71.4,43
+2024,12,Merlo,43,Buenos Aires,,180.83,22.93,71.1,551
+2024,12,Moreno,42,Buenos Aires,,180.83,22.93,71.1,933
+2024,12,Morón,44,Buenos Aires,,180.83,22.93,71.1,387
+2024,12,Pilar,45,Buenos Aires,,180.83,22.93,71.1,364
+2024,12,Presidente Perón,46,Buenos Aires,,160.82,21.98,71.4,26
+2024,12,Quilmes,47,Buenos Aires,,152.82,22.06,72.28,818
+2024,12,San Fernando,48,Buenos Aires,,180.83,22.93,71.1,144
+2024,12,San Isidro,49,Buenos Aires,,180.83,22.93,71.1,500
+2024,12,San Miguel,50,Buenos Aires,,180.83,22.93,71.1,996
+2024,12,San Vicente,51,Buenos Aires,,160.82,21.98,71.4,6
+2024,12,Tigre,52,Buenos Aires,,180.83,22.93,71.1,198
+2024,12,Tres de Febrero,53,Buenos Aires,,180.83,22.93,71.1,563
+2024,12,Vicente López,54,Buenos Aires,,180.83,22.93,71.1,477
+2024,12,Zárate,55,Buenos Aires,,206.38,23.24,73.4,37
+2024,13,Almirante Brown,16,Buenos Aires,,260.0,21.46,81.98,421
+2024,13,Avellaneda,17,Buenos Aires,,264.65,23.11,79.96,461
+2024,13,Berazategui,18,Buenos Aires,,260.0,21.46,81.98,154
+2024,13,Berisso,19,Buenos Aires,,260.0,21.46,81.98,17
+2024,13,Brandsen,20,Buenos Aires,,260.0,21.46,81.98,5
+2024,13,COMUNA 1,1,CABA,,285.29,21.92,82.54,1391
+2024,13,COMUNA 10,10,CABA,,285.29,21.92,82.54,60
+2024,13,COMUNA 11,11,CABA,,285.29,21.92,82.54,122
+2024,13,COMUNA 12,12,CABA,,285.29,21.92,82.54,118
+2024,13,COMUNA 13,13,CABA,,285.29,21.92,82.54,110
+2024,13,COMUNA 14,14,CABA,,285.29,21.92,82.54,67
+2024,13,COMUNA 15,15,CABA,,285.29,21.92,82.54,153
+2024,13,COMUNA 2,2,CABA,,285.29,21.92,82.54,48
+2024,13,COMUNA 3,3,CABA,,285.29,21.92,82.54,120
+2024,13,COMUNA 4,4,CABA,,285.29,21.92,82.54,236
+2024,13,COMUNA 5,5,CABA,,285.29,21.92,82.54,107
+2024,13,COMUNA 6,6,CABA,,285.29,21.92,82.54,103
+2024,13,COMUNA 7,7,CABA,,285.29,21.92,82.54,108
+2024,13,COMUNA 8,8,CABA,,285.29,21.92,82.54,106
+2024,13,COMUNA 9,9,CABA,,285.29,21.92,82.54,45
+2024,13,Campana,21,Buenos Aires,,294.66,22.45,82.82,20
+2024,13,Cañuelas,22,Buenos Aires,,264.52,21.16,82.27,4
+2024,13,Ensenada,23,Buenos Aires,,260.0,21.46,81.98,10
+2024,13,Escobar,24,Buenos Aires,,285.29,21.92,82.54,221
+2024,13,Esteban Echeverría,25,Buenos Aires,,264.52,21.16,82.27,157
+2024,13,Exaltación de la Cruz,26,Buenos Aires,,294.66,22.45,82.82,26
+2024,13,Ezeiza,27,Buenos Aires,,264.52,21.16,82.27,53
+2024,13,Florencio Varela,28,Buenos Aires,,260.0,21.46,81.98,504
+2024,13,General Las Heras,29,Buenos Aires,,264.52,21.16,82.27,1
+2024,13,General Rodríguez,30,Buenos Aires,,285.29,21.92,82.54,176
+2024,13,General San Martín,31,Buenos Aires,,285.29,21.92,82.54,480
+2024,13,Hurlingham,32,Buenos Aires,,285.29,21.92,82.54,320
+2024,13,Ituzaingó,33,Buenos Aires,,285.29,21.92,82.54,171
+2024,13,José C. Paz,34,Buenos Aires,,285.29,21.92,82.54,825
+2024,13,La Matanza,35,Buenos Aires,,285.29,21.92,82.54,1145
+2024,13,La Plata,37,Buenos Aires,,260.0,21.46,81.98,398
+2024,13,Lanús,36,Buenos Aires,,264.65,23.11,79.96,578
+2024,13,Lomas de Zamora,38,Buenos Aires,,264.65,23.11,79.96,740
+2024,13,Luján,39,Buenos Aires,,285.29,21.92,82.54,38
+2024,13,Malvinas Argentinas,41,Buenos Aires,,285.29,21.92,82.54,310
+2024,13,Marcos Paz,40,Buenos Aires,,264.52,21.16,82.27,25
+2024,13,Merlo,43,Buenos Aires,,285.29,21.92,82.54,357
+2024,13,Moreno,42,Buenos Aires,,285.29,21.92,82.54,689
+2024,13,Morón,44,Buenos Aires,,285.29,21.92,82.54,228
+2024,13,Pilar,45,Buenos Aires,,285.29,21.92,82.54,621
+2024,13,Presidente Perón,46,Buenos Aires,,264.52,21.16,82.27,25
+2024,13,Quilmes,47,Buenos Aires,,260.0,21.46,81.98,629
+2024,13,San Fernando,48,Buenos Aires,,285.29,21.92,82.54,103
+2024,13,San Isidro,49,Buenos Aires,,285.29,21.92,82.54,347
+2024,13,San Miguel,50,Buenos Aires,,285.29,21.92,82.54,959
+2024,13,San Vicente,51,Buenos Aires,,264.52,21.16,82.27,5
+2024,13,Tigre,52,Buenos Aires,,285.29,21.92,82.54,170
+2024,13,Tres de Febrero,53,Buenos Aires,,285.29,21.92,82.54,378
+2024,13,Vicente López,54,Buenos Aires,,285.29,21.92,82.54,435
+2024,13,Zárate,55,Buenos Aires,,294.66,22.45,82.82,15
+2024,14,Almirante Brown,16,Buenos Aires,,119.34,20.39,79.05,407
+2024,14,Avellaneda,17,Buenos Aires,,119.36,22.46,73.69,378
+2024,14,Berazategui,18,Buenos Aires,,119.34,20.39,79.05,163
+2024,14,Berisso,19,Buenos Aires,,119.34,20.39,79.05,15
+2024,14,Brandsen,20,Buenos Aires,,119.34,20.39,79.05,2
+2024,14,COMUNA 1,1,CABA,,120.15,20.76,78.22,1257
+2024,14,COMUNA 10,10,CABA,,120.15,20.76,78.22,50
+2024,14,COMUNA 11,11,CABA,,120.15,20.76,78.22,68
+2024,14,COMUNA 12,12,CABA,,120.15,20.76,78.22,81
+2024,14,COMUNA 13,13,CABA,,120.15,20.76,78.22,88
+2024,14,COMUNA 14,14,CABA,,120.15,20.76,78.22,53
+2024,14,COMUNA 15,15,CABA,,120.15,20.76,78.22,127
+2024,14,COMUNA 2,2,CABA,,120.15,20.76,78.22,34
+2024,14,COMUNA 3,3,CABA,,120.15,20.76,78.22,112
+2024,14,COMUNA 4,4,CABA,,120.15,20.76,78.22,296
+2024,14,COMUNA 5,5,CABA,,120.15,20.76,78.22,109
+2024,14,COMUNA 6,6,CABA,,120.15,20.76,78.22,83
+2024,14,COMUNA 7,7,CABA,,120.15,20.76,78.22,105
+2024,14,COMUNA 8,8,CABA,,120.15,20.76,78.22,81
+2024,14,COMUNA 9,9,CABA,,120.15,20.76,78.22,62
+2024,14,Campana,21,Buenos Aires,,126.51,21.11,78.94,22
+2024,14,Cañuelas,22,Buenos Aires,,117.75,20.01,79.02,2
+2024,14,Ensenada,23,Buenos Aires,,119.34,20.39,79.05,11
+2024,14,Escobar,24,Buenos Aires,,120.15,20.76,78.22,214
+2024,14,Esteban Echeverría,25,Buenos Aires,,117.75,20.01,79.02,124
+2024,14,Exaltación de la Cruz,26,Buenos Aires,,126.51,21.11,78.94,18
+2024,14,Ezeiza,27,Buenos Aires,,117.75,20.01,79.02,38
+2024,14,Florencio Varela,28,Buenos Aires,,119.34,20.39,79.05,380
+2024,14,General Las Heras,29,Buenos Aires,,117.75,20.01,79.02,1
+2024,14,General Rodríguez,30,Buenos Aires,,120.15,20.76,78.22,170
+2024,14,General San Martín,31,Buenos Aires,,120.15,20.76,78.22,501
+2024,14,Hurlingham,32,Buenos Aires,,120.15,20.76,78.22,193
+2024,14,Ituzaingó,33,Buenos Aires,,120.15,20.76,78.22,157
+2024,14,José C. Paz,34,Buenos Aires,,120.15,20.76,78.22,814
+2024,14,La Matanza,35,Buenos Aires,,120.15,20.76,78.22,1026
+2024,14,La Plata,37,Buenos Aires,,119.34,20.39,79.05,382
+2024,14,Lanús,36,Buenos Aires,,119.36,22.46,73.69,515
+2024,14,Lomas de Zamora,38,Buenos Aires,,119.36,22.46,73.69,600
+2024,14,Luján,39,Buenos Aires,,120.15,20.76,78.22,34
+2024,14,Malvinas Argentinas,41,Buenos Aires,,120.15,20.76,78.22,343
+2024,14,Marcos Paz,40,Buenos Aires,,117.75,20.01,79.02,30
+2024,14,Merlo,43,Buenos Aires,,120.15,20.76,78.22,394
+2024,14,Moreno,42,Buenos Aires,,120.15,20.76,78.22,827
+2024,14,Morón,44,Buenos Aires,,120.15,20.76,78.22,198
+2024,14,Pilar,45,Buenos Aires,,120.15,20.76,78.22,398
+2024,14,Presidente Perón,46,Buenos Aires,,117.75,20.01,79.02,19
+2024,14,Quilmes,47,Buenos Aires,,119.34,20.39,79.05,481
+2024,14,San Fernando,48,Buenos Aires,,120.15,20.76,78.22,110
+2024,14,San Isidro,49,Buenos Aires,,120.15,20.76,78.22,331
+2024,14,San Miguel,50,Buenos Aires,,120.15,20.76,78.22,447
+2024,14,San Vicente,51,Buenos Aires,,117.75,20.01,79.02,16
+2024,14,Tigre,52,Buenos Aires,,120.15,20.76,78.22,119
+2024,14,Tres de Febrero,53,Buenos Aires,,120.15,20.76,78.22,350
+2024,14,Vicente López,54,Buenos Aires,,120.15,20.76,78.22,383
+2024,14,Zárate,55,Buenos Aires,,126.51,21.11,78.94,25
+2024,15,Almirante Brown,16,Buenos Aires,,29.61,19.15,76.57,217
+2024,15,Avellaneda,17,Buenos Aires,,27.93,21.43,70.28,206
+2024,15,Berazategui,18,Buenos Aires,,29.61,19.15,76.57,85
+2024,15,Berisso,19,Buenos Aires,,29.61,19.15,76.57,9
+2024,15,Brandsen,20,Buenos Aires,,29.61,19.15,76.57,4
+2024,15,COMUNA 1,1,CABA,,34.02,19.36,75.56,810
+2024,15,COMUNA 10,10,CABA,,34.02,19.36,75.56,41
+2024,15,COMUNA 11,11,CABA,,34.02,19.36,75.56,52
+2024,15,COMUNA 12,12,CABA,,34.02,19.36,75.56,48
+2024,15,COMUNA 13,13,CABA,,34.02,19.36,75.56,39
+2024,15,COMUNA 14,14,CABA,,34.02,19.36,75.56,38
+2024,15,COMUNA 15,15,CABA,,34.02,19.36,75.56,63
+2024,15,COMUNA 2,2,CABA,,34.02,19.36,75.56,27
+2024,15,COMUNA 3,3,CABA,,34.02,19.36,75.56,82
+2024,15,COMUNA 4,4,CABA,,34.02,19.36,75.56,151
+2024,15,COMUNA 5,5,CABA,,34.02,19.36,75.56,54
+2024,15,COMUNA 6,6,CABA,,34.02,19.36,75.56,52
+2024,15,COMUNA 7,7,CABA,,34.02,19.36,75.56,55
+2024,15,COMUNA 8,8,CABA,,34.02,19.36,75.56,81
+2024,15,COMUNA 9,9,CABA,,34.02,19.36,75.56,32
+2024,15,Campana,21,Buenos Aires,,47.98,19.48,77.34,9
+2024,15,Cañuelas,22,Buenos Aires,,27.74,18.62,76.89,4
+2024,15,Ensenada,23,Buenos Aires,,29.61,19.15,76.57,13
+2024,15,Escobar,24,Buenos Aires,,34.02,19.36,75.56,129
+2024,15,Esteban Echeverría,25,Buenos Aires,,27.74,18.62,76.89,78
+2024,15,Exaltación de la Cruz,26,Buenos Aires,,47.98,19.48,77.34,16
+2024,15,Ezeiza,27,Buenos Aires,,27.74,18.62,76.89,53
+2024,15,Florencio Varela,28,Buenos Aires,,29.61,19.15,76.57,208
+2024,15,General Las Heras,29,Buenos Aires,,27.74,18.62,76.89,2
+2024,15,General Rodríguez,30,Buenos Aires,,34.02,19.36,75.56,106
+2024,15,General San Martín,31,Buenos Aires,,34.02,19.36,75.56,301
+2024,15,Hurlingham,32,Buenos Aires,,34.02,19.36,75.56,113
+2024,15,Ituzaingó,33,Buenos Aires,,34.02,19.36,75.56,105
+2024,15,José C. Paz,34,Buenos Aires,,34.02,19.36,75.56,417
+2024,15,La Matanza,35,Buenos Aires,,34.02,19.36,75.56,585
+2024,15,La Plata,37,Buenos Aires,,29.61,19.15,76.57,270
+2024,15,Lanús,36,Buenos Aires,,27.93,21.43,70.28,284
+2024,15,Lomas de Zamora,38,Buenos Aires,,27.93,21.43,70.28,330
+2024,15,Luján,39,Buenos Aires,,34.02,19.36,75.56,19
+2024,15,Malvinas Argentinas,41,Buenos Aires,,34.02,19.36,75.56,376
+2024,15,Marcos Paz,40,Buenos Aires,,27.74,18.62,76.89,18
+2024,15,Merlo,43,Buenos Aires,,34.02,19.36,75.56,214
+2024,15,Moreno,42,Buenos Aires,,34.02,19.36,75.56,434
+2024,15,Morón,44,Buenos Aires,,34.02,19.36,75.56,122
+2024,15,Pilar,45,Buenos Aires,,34.02,19.36,75.56,201
+2024,15,Presidente Perón,46,Buenos Aires,,27.74,18.62,76.89,9
+2024,15,Quilmes,47,Buenos Aires,,29.61,19.15,76.57,302
+2024,15,San Fernando,48,Buenos Aires,,34.02,19.36,75.56,43
+2024,15,San Isidro,49,Buenos Aires,,34.02,19.36,75.56,140
+2024,15,San Miguel,50,Buenos Aires,,34.02,19.36,75.56,292
+2024,15,San Vicente,51,Buenos Aires,,27.74,18.62,76.89,6
+2024,15,Tigre,52,Buenos Aires,,34.02,19.36,75.56,62
+2024,15,Tres de Febrero,53,Buenos Aires,,34.02,19.36,75.56,241
+2024,15,Vicente López,54,Buenos Aires,,34.02,19.36,75.56,189
+2024,15,Zárate,55,Buenos Aires,,47.98,19.48,77.34,18
+2024,16,Almirante Brown,16,Buenos Aires,,86.63,17.73,78.64,155
+2024,16,Avellaneda,17,Buenos Aires,,65.45,19.8,74.67,139
+2024,16,Berazategui,18,Buenos Aires,,86.63,17.73,78.64,50
+2024,16,Berisso,19,Buenos Aires,,86.63,17.73,78.64,4
+2024,16,Brandsen,20,Buenos Aires,,86.63,17.73,78.64,1
+2024,16,COMUNA 1,1,CABA,,75.57,17.96,77.44,651
+2024,16,COMUNA 10,10,CABA,,75.57,17.96,77.44,32
+2024,16,COMUNA 11,11,CABA,,75.57,17.96,77.44,38
+2024,16,COMUNA 12,12,CABA,,75.57,17.96,77.44,39
+2024,16,COMUNA 13,13,CABA,,75.57,17.96,77.44,45
+2024,16,COMUNA 14,14,CABA,,75.57,17.96,77.44,33
+2024,16,COMUNA 15,15,CABA,,75.57,17.96,77.44,78
+2024,16,COMUNA 2,2,CABA,,75.57,17.96,77.44,25
+2024,16,COMUNA 3,3,CABA,,75.57,17.96,77.44,54
+2024,16,COMUNA 4,4,CABA,,75.57,17.96,77.44,108
+2024,16,COMUNA 5,5,CABA,,75.57,17.96,77.44,57
+2024,16,COMUNA 6,6,CABA,,75.57,17.96,77.44,30
+2024,16,COMUNA 7,7,CABA,,75.57,17.96,77.44,44
+2024,16,COMUNA 8,8,CABA,,75.57,17.96,77.44,64
+2024,16,COMUNA 9,9,CABA,,75.57,17.96,77.44,32
+2024,16,Campana,21,Buenos Aires,,67.61,18.17,79.07,5
+2024,16,Cañuelas,22,Buenos Aires,,86.18,17.11,79.11,2
+2024,16,Ensenada,23,Buenos Aires,,86.63,17.73,78.64,8
+2024,16,Escobar,24,Buenos Aires,,75.57,17.96,77.44,80
+2024,16,Esteban Echeverría,25,Buenos Aires,,86.18,17.11,79.11,38
+2024,16,Exaltación de la Cruz,26,Buenos Aires,,67.61,18.17,79.07,10
+2024,16,Ezeiza,27,Buenos Aires,,86.18,17.11,79.11,24
+2024,16,Florencio Varela,28,Buenos Aires,,86.63,17.73,78.64,120
+2024,16,General Rodríguez,30,Buenos Aires,,75.57,17.96,77.44,55
+2024,16,General San Martín,31,Buenos Aires,,75.57,17.96,77.44,159
+2024,16,Hurlingham,32,Buenos Aires,,75.57,17.96,77.44,67
+2024,16,Ituzaingó,33,Buenos Aires,,75.57,17.96,77.44,64
+2024,16,José C. Paz,34,Buenos Aires,,75.57,17.96,77.44,363
+2024,16,La Matanza,35,Buenos Aires,,75.57,17.96,77.44,426
+2024,16,La Plata,37,Buenos Aires,,86.63,17.73,78.64,128
+2024,16,Lanús,36,Buenos Aires,,65.45,19.8,74.67,219
+2024,16,Lomas de Zamora,38,Buenos Aires,,65.45,19.8,74.67,173
+2024,16,Luján,39,Buenos Aires,,75.57,17.96,77.44,8
+2024,16,Malvinas Argentinas,41,Buenos Aires,,75.57,17.96,77.44,194
+2024,16,Marcos Paz,40,Buenos Aires,,86.18,17.11,79.11,14
+2024,16,Merlo,43,Buenos Aires,,75.57,17.96,77.44,175
+2024,16,Moreno,42,Buenos Aires,,75.57,17.96,77.44,289
+2024,16,Morón,44,Buenos Aires,,75.57,17.96,77.44,87
+2024,16,Pilar,45,Buenos Aires,,75.57,17.96,77.44,87
+2024,16,Presidente Perón,46,Buenos Aires,,86.18,17.11,79.11,4
+2024,16,Quilmes,47,Buenos Aires,,86.63,17.73,78.64,254
+2024,16,San Fernando,48,Buenos Aires,,75.57,17.96,77.44,47
+2024,16,San Isidro,49,Buenos Aires,,75.57,17.96,77.44,107
+2024,16,San Miguel,50,Buenos Aires,,75.57,17.96,77.44,205
+2024,16,San Vicente,51,Buenos Aires,,86.18,17.11,79.11,6
+2024,16,Tigre,52,Buenos Aires,,75.57,17.96,77.44,40
+2024,16,Tres de Febrero,53,Buenos Aires,,75.57,17.96,77.44,199
+2024,16,Vicente López,54,Buenos Aires,,75.57,17.96,77.44,143
+2024,16,Zárate,55,Buenos Aires,,67.61,18.17,79.07,13
+2024,17,Almirante Brown,16,Buenos Aires,,82.06,17.6,83.08,102
+2024,17,Avellaneda,17,Buenos Aires,,70.4,19.4,80.79,134
+2024,17,Berazategui,18,Buenos Aires,,82.06,17.6,83.08,33
+2024,17,Berisso,19,Buenos Aires,,82.06,17.6,83.08,1
+2024,17,COMUNA 1,1,CABA,,72.36,17.84,82.06,503
+2024,17,COMUNA 10,10,CABA,,72.36,17.84,82.06,20
+2024,17,COMUNA 11,11,CABA,,72.36,17.84,82.06,34
+2024,17,COMUNA 12,12,CABA,,72.36,17.84,82.06,34
+2024,17,COMUNA 13,13,CABA,,72.36,17.84,82.06,37
+2024,17,COMUNA 14,14,CABA,,72.36,17.84,82.06,28
+2024,17,COMUNA 15,15,CABA,,72.36,17.84,82.06,40
+2024,17,COMUNA 2,2,CABA,,72.36,17.84,82.06,18
+2024,17,COMUNA 3,3,CABA,,72.36,17.84,82.06,42
+2024,17,COMUNA 4,4,CABA,,72.36,17.84,82.06,112
+2024,17,COMUNA 5,5,CABA,,72.36,17.84,82.06,46
+2024,17,COMUNA 6,6,CABA,,72.36,17.84,82.06,35
+2024,17,COMUNA 7,7,CABA,,72.36,17.84,82.06,47
+2024,17,COMUNA 8,8,CABA,,72.36,17.84,82.06,29
+2024,17,COMUNA 9,9,CABA,,72.36,17.84,82.06,26
+2024,17,Campana,21,Buenos Aires,,68.5,18.28,83.13,2
+2024,17,Ensenada,23,Buenos Aires,,82.06,17.6,83.08,3
+2024,17,Escobar,24,Buenos Aires,,72.36,17.84,82.06,38
+2024,17,Esteban Echeverría,25,Buenos Aires,,83.04,16.99,83.28,47
+2024,17,Exaltación de la Cruz,26,Buenos Aires,,68.5,18.28,83.13,7
+2024,17,Ezeiza,27,Buenos Aires,,83.04,16.99,83.28,9
+2024,17,Florencio Varela,28,Buenos Aires,,82.06,17.6,83.08,88
+2024,17,General Las Heras,29,Buenos Aires,,83.04,16.99,83.28,3
+2024,17,General Rodríguez,30,Buenos Aires,,72.36,17.84,82.06,43
+2024,17,General San Martín,31,Buenos Aires,,72.36,17.84,82.06,77
+2024,17,Hurlingham,32,Buenos Aires,,72.36,17.84,82.06,18
+2024,17,Ituzaingó,33,Buenos Aires,,72.36,17.84,82.06,62
+2024,17,José C. Paz,34,Buenos Aires,,72.36,17.84,82.06,270
+2024,17,La Matanza,35,Buenos Aires,,72.36,17.84,82.06,326
+2024,17,La Plata,37,Buenos Aires,,82.06,17.6,83.08,102
+2024,17,Lanús,36,Buenos Aires,,70.4,19.4,80.79,165
+2024,17,Lomas de Zamora,38,Buenos Aires,,70.4,19.4,80.79,150
+2024,17,Luján,39,Buenos Aires,,72.36,17.84,82.06,5
+2024,17,Malvinas Argentinas,41,Buenos Aires,,72.36,17.84,82.06,38
+2024,17,Marcos Paz,40,Buenos Aires,,83.04,16.99,83.28,6
+2024,17,Merlo,43,Buenos Aires,,72.36,17.84,82.06,128
+2024,17,Moreno,42,Buenos Aires,,72.36,17.84,82.06,237
+2024,17,Morón,44,Buenos Aires,,72.36,17.84,82.06,56
+2024,17,Pilar,45,Buenos Aires,,72.36,17.84,82.06,29
+2024,17,Presidente Perón,46,Buenos Aires,,83.04,16.99,83.28,9
+2024,17,Quilmes,47,Buenos Aires,,82.06,17.6,83.08,160
+2024,17,San Fernando,48,Buenos Aires,,72.36,17.84,82.06,39
+2024,17,San Isidro,49,Buenos Aires,,72.36,17.84,82.06,74
+2024,17,San Miguel,50,Buenos Aires,,72.36,17.84,82.06,123
+2024,17,San Vicente,51,Buenos Aires,,83.04,16.99,83.28,3
+2024,17,Tigre,52,Buenos Aires,,72.36,17.84,82.06,39
+2024,17,Tres de Febrero,53,Buenos Aires,,72.36,17.84,82.06,177
+2024,17,Vicente López,54,Buenos Aires,,72.36,17.84,82.06,58
+2024,17,Zárate,55,Buenos Aires,,68.5,18.28,83.13,3
+2024,18,Almirante Brown,16,Buenos Aires,,75.34,16.07,83.02,56
+2024,18,Avellaneda,17,Buenos Aires,,67.13,18.37,77.95,98
+2024,18,Berazategui,18,Buenos Aires,,75.34,16.07,83.02,13
+2024,18,Berisso,19,Buenos Aires,,75.34,16.07,83.02,1
+2024,18,COMUNA 1,1,CABA,,69.21,16.2,82.48,359
+2024,18,COMUNA 10,10,CABA,,69.21,16.2,82.48,17
+2024,18,COMUNA 11,11,CABA,,69.21,16.2,82.48,15
+2024,18,COMUNA 12,12,CABA,,69.21,16.2,82.48,20
+2024,18,COMUNA 13,13,CABA,,69.21,16.2,82.48,10
+2024,18,COMUNA 14,14,CABA,,69.21,16.2,82.48,13
+2024,18,COMUNA 15,15,CABA,,69.21,16.2,82.48,16
+2024,18,COMUNA 2,2,CABA,,69.21,16.2,82.48,4
+2024,18,COMUNA 3,3,CABA,,69.21,16.2,82.48,24
+2024,18,COMUNA 4,4,CABA,,69.21,16.2,82.48,67
+2024,18,COMUNA 5,5,CABA,,69.21,16.2,82.48,20
+2024,18,COMUNA 6,6,CABA,,69.21,16.2,82.48,22
+2024,18,COMUNA 7,7,CABA,,69.21,16.2,82.48,21
+2024,18,COMUNA 8,8,CABA,,69.21,16.2,82.48,41
+2024,18,COMUNA 9,9,CABA,,69.21,16.2,82.48,23
+2024,18,Campana,21,Buenos Aires,,63.21,16.82,82.87,2
+2024,18,Cañuelas,22,Buenos Aires,,79.34,15.4,83.18,2
+2024,18,Ensenada,23,Buenos Aires,,75.34,16.07,83.02,3
+2024,18,Escobar,24,Buenos Aires,,69.21,16.2,82.48,21
+2024,18,Esteban Echeverría,25,Buenos Aires,,79.34,15.4,83.18,19
+2024,18,Exaltación de la Cruz,26,Buenos Aires,,63.21,16.82,82.87,2
+2024,18,Ezeiza,27,Buenos Aires,,79.34,15.4,83.18,6
+2024,18,Florencio Varela,28,Buenos Aires,,75.34,16.07,83.02,38
+2024,18,General Las Heras,29,Buenos Aires,,79.34,15.4,83.18,1
+2024,18,General Rodríguez,30,Buenos Aires,,69.21,16.2,82.48,23
+2024,18,General San Martín,31,Buenos Aires,,69.21,16.2,82.48,54
+2024,18,Hurlingham,32,Buenos Aires,,69.21,16.2,82.48,19
+2024,18,Ituzaingó,33,Buenos Aires,,69.21,16.2,82.48,18
+2024,18,José C. Paz,34,Buenos Aires,,69.21,16.2,82.48,137
+2024,18,La Matanza,35,Buenos Aires,,69.21,16.2,82.48,172
+2024,18,La Plata,37,Buenos Aires,,75.34,16.07,83.02,41
+2024,18,Lanús,36,Buenos Aires,,67.13,18.37,77.95,77
+2024,18,Lomas de Zamora,38,Buenos Aires,,67.13,18.37,77.95,76
+2024,18,Luján,39,Buenos Aires,,69.21,16.2,82.48,4
+2024,18,Malvinas Argentinas,41,Buenos Aires,,69.21,16.2,82.48,26
+2024,18,Marcos Paz,40,Buenos Aires,,79.34,15.4,83.18,4
+2024,18,Merlo,43,Buenos Aires,,69.21,16.2,82.48,109
+2024,18,Moreno,42,Buenos Aires,,69.21,16.2,82.48,88
+2024,18,Morón,44,Buenos Aires,,69.21,16.2,82.48,42
+2024,18,Pilar,45,Buenos Aires,,69.21,16.2,82.48,13
+2024,18,Presidente Perón,46,Buenos Aires,,79.34,15.4,83.18,3
+2024,18,Quilmes,47,Buenos Aires,,75.34,16.07,83.02,85
+2024,18,San Fernando,48,Buenos Aires,,69.21,16.2,82.48,15
+2024,18,San Isidro,49,Buenos Aires,,69.21,16.2,82.48,56
+2024,18,San Miguel,50,Buenos Aires,,69.21,16.2,82.48,96
+2024,18,Tigre,52,Buenos Aires,,69.21,16.2,82.48,10
+2024,18,Tres de Febrero,53,Buenos Aires,,69.21,16.2,82.48,77
+2024,18,Vicente López,54,Buenos Aires,,69.21,16.2,82.48,17
+2024,18,Zárate,55,Buenos Aires,,63.21,16.82,82.87,2
+2024,19,Almirante Brown,16,Buenos Aires,,55.33,13.95,81.41,42
+2024,19,Avellaneda,17,Buenos Aires,,40.2,16.73,74.91,50
+2024,19,Berazategui,18,Buenos Aires,,55.33,13.95,81.41,3
+2024,19,Berisso,19,Buenos Aires,,55.33,13.95,81.41,1
+2024,19,COMUNA 1,1,CABA,,46.41,14.11,80.5,121
+2024,19,COMUNA 10,10,CABA,,46.41,14.11,80.5,7
+2024,19,COMUNA 11,11,CABA,,46.41,14.11,80.5,8
+2024,19,COMUNA 12,12,CABA,,46.41,14.11,80.5,10
+2024,19,COMUNA 13,13,CABA,,46.41,14.11,80.5,6
+2024,19,COMUNA 14,14,CABA,,46.41,14.11,80.5,6
+2024,19,COMUNA 15,15,CABA,,46.41,14.11,80.5,14
+2024,19,COMUNA 2,2,CABA,,46.41,14.11,80.5,4
+2024,19,COMUNA 3,3,CABA,,46.41,14.11,80.5,12
+2024,19,COMUNA 4,4,CABA,,46.41,14.11,80.5,20
+2024,19,COMUNA 5,5,CABA,,46.41,14.11,80.5,16
+2024,19,COMUNA 6,6,CABA,,46.41,14.11,80.5,4
+2024,19,COMUNA 7,7,CABA,,46.41,14.11,80.5,11
+2024,19,COMUNA 8,8,CABA,,46.41,14.11,80.5,11
+2024,19,COMUNA 9,9,CABA,,46.41,14.11,80.5,11
+2024,19,Campana,21,Buenos Aires,,36.63,14.78,81.1,3
+2024,19,Cañuelas,22,Buenos Aires,,59.54,13.19,81.48,1
+2024,19,Ensenada,23,Buenos Aires,,55.33,13.95,81.41,1
+2024,19,Escobar,24,Buenos Aires,,46.41,14.11,80.5,12
+2024,19,Esteban Echeverría,25,Buenos Aires,,59.54,13.19,81.48,13
+2024,19,Ezeiza,27,Buenos Aires,,59.54,13.19,81.48,4
+2024,19,Florencio Varela,28,Buenos Aires,,55.33,13.95,81.41,22
+2024,19,General Rodríguez,30,Buenos Aires,,46.41,14.11,80.5,6
+2024,19,General San Martín,31,Buenos Aires,,46.41,14.11,80.5,15
+2024,19,Hurlingham,32,Buenos Aires,,46.41,14.11,80.5,9
+2024,19,Ituzaingó,33,Buenos Aires,,46.41,14.11,80.5,18
+2024,19,José C. Paz,34,Buenos Aires,,46.41,14.11,80.5,71
+2024,19,La Matanza,35,Buenos Aires,,46.41,14.11,80.5,89
+2024,19,La Plata,37,Buenos Aires,,55.33,13.95,81.41,36
+2024,19,Lanús,36,Buenos Aires,,40.2,16.73,74.91,32
+2024,19,Lomas de Zamora,38,Buenos Aires,,40.2,16.73,74.91,40
+2024,19,Luján,39,Buenos Aires,,46.41,14.11,80.5,5
+2024,19,Malvinas Argentinas,41,Buenos Aires,,46.41,14.11,80.5,7
+2024,19,Marcos Paz,40,Buenos Aires,,59.54,13.19,81.48,4
+2024,19,Merlo,43,Buenos Aires,,46.41,14.11,80.5,55
+2024,19,Moreno,42,Buenos Aires,,46.41,14.11,80.5,27
+2024,19,Morón,44,Buenos Aires,,46.41,14.11,80.5,18
+2024,19,Pilar,45,Buenos Aires,,46.41,14.11,80.5,6
+2024,19,Presidente Perón,46,Buenos Aires,,59.54,13.19,81.48,3
+2024,19,Quilmes,47,Buenos Aires,,55.33,13.95,81.41,56
+2024,19,San Fernando,48,Buenos Aires,,46.41,14.11,80.5,8
+2024,19,San Isidro,49,Buenos Aires,,46.41,14.11,80.5,30
+2024,19,San Miguel,50,Buenos Aires,,46.41,14.11,80.5,32
+2024,19,Tigre,52,Buenos Aires,,46.41,14.11,80.5,3
+2024,19,Tres de Febrero,53,Buenos Aires,,46.41,14.11,80.5,47
+2024,19,Vicente López,54,Buenos Aires,,46.41,14.11,80.5,10
+2024,19,Zárate,55,Buenos Aires,,36.63,14.78,81.1,2
+2024,20,Almirante Brown,16,Buenos Aires,,7.96,13.18,82.62,28
+2024,20,Avellaneda,17,Buenos Aires,,8.9,15.71,77.62,40
+2024,20,Berazategui,18,Buenos Aires,,7.96,13.18,82.62,6
+2024,20,Berisso,19,Buenos Aires,,7.96,13.18,82.62,1
+2024,20,Brandsen,20,Buenos Aires,,7.96,13.18,82.62,1
+2024,20,COMUNA 1,1,CABA,,10.27,13.33,81.13,55
+2024,20,COMUNA 10,10,CABA,,10.27,13.33,81.13,4
+2024,20,COMUNA 11,11,CABA,,10.27,13.33,81.13,2
+2024,20,COMUNA 12,12,CABA,,10.27,13.33,81.13,3
+2024,20,COMUNA 13,13,CABA,,10.27,13.33,81.13,2
+2024,20,COMUNA 14,14,CABA,,10.27,13.33,81.13,1
+2024,20,COMUNA 15,15,CABA,,10.27,13.33,81.13,7
+2024,20,COMUNA 2,2,CABA,,10.27,13.33,81.13,5
+2024,20,COMUNA 3,3,CABA,,10.27,13.33,81.13,11
+2024,20,COMUNA 4,4,CABA,,10.27,13.33,81.13,13
+2024,20,COMUNA 5,5,CABA,,10.27,13.33,81.13,2
+2024,20,COMUNA 6,6,CABA,,10.27,13.33,81.13,4
+2024,20,COMUNA 7,7,CABA,,10.27,13.33,81.13,9
+2024,20,COMUNA 8,8,CABA,,10.27,13.33,81.13,7
+2024,20,COMUNA 9,9,CABA,,10.27,13.33,81.13,4
+2024,20,Campana,21,Buenos Aires,,21.67,13.87,82.5,5
+2024,20,Ensenada,23,Buenos Aires,,7.96,13.18,82.62,1
+2024,20,Escobar,24,Buenos Aires,,10.27,13.33,81.13,7
+2024,20,Esteban Echeverría,25,Buenos Aires,,8.2,12.39,82.46,5
+2024,20,Exaltación de la Cruz,26,Buenos Aires,,21.67,13.87,82.5,1
+2024,20,Ezeiza,27,Buenos Aires,,8.2,12.39,82.46,5
+2024,20,Florencio Varela,28,Buenos Aires,,7.96,13.18,82.62,14
+2024,20,General Rodríguez,30,Buenos Aires,,10.27,13.33,81.13,3
+2024,20,General San Martín,31,Buenos Aires,,10.27,13.33,81.13,7
+2024,20,Hurlingham,32,Buenos Aires,,10.27,13.33,81.13,6
+2024,20,Ituzaingó,33,Buenos Aires,,10.27,13.33,81.13,6
+2024,20,José C. Paz,34,Buenos Aires,,10.27,13.33,81.13,14
+2024,20,La Matanza,35,Buenos Aires,,10.27,13.33,81.13,42
+2024,20,La Plata,37,Buenos Aires,,7.96,13.18,82.62,14
+2024,20,Lanús,36,Buenos Aires,,8.9,15.71,77.62,24
+2024,20,Lomas de Zamora,38,Buenos Aires,,8.9,15.71,77.62,12
+2024,20,Luján,39,Buenos Aires,,10.27,13.33,81.13,2
+2024,20,Malvinas Argentinas,41,Buenos Aires,,10.27,13.33,81.13,5
+2024,20,Marcos Paz,40,Buenos Aires,,8.2,12.39,82.46,1
+2024,20,Merlo,43,Buenos Aires,,10.27,13.33,81.13,47
+2024,20,Moreno,42,Buenos Aires,,10.27,13.33,81.13,16
+2024,20,Morón,44,Buenos Aires,,10.27,13.33,81.13,13
+2024,20,Pilar,45,Buenos Aires,,10.27,13.33,81.13,3
+2024,20,Presidente Perón,46,Buenos Aires,,8.2,12.39,82.46,2
+2024,20,Quilmes,47,Buenos Aires,,7.96,13.18,82.62,48
+2024,20,San Fernando,48,Buenos Aires,,10.27,13.33,81.13,3
+2024,20,San Isidro,49,Buenos Aires,,10.27,13.33,81.13,7
+2024,20,San Miguel,50,Buenos Aires,,10.27,13.33,81.13,23
+2024,20,Tigre,52,Buenos Aires,,10.27,13.33,81.13,3
+2024,20,Tres de Febrero,53,Buenos Aires,,10.27,13.33,81.13,14
+2024,20,Vicente López,54,Buenos Aires,,10.27,13.33,81.13,6
+2024,21,Almirante Brown,16,Buenos Aires,,5.0,10.66,82.53,2
+2024,21,Avellaneda,17,Buenos Aires,,5.26,13.54,76.21,5
+2024,21,Berazategui,18,Buenos Aires,,5.0,10.66,82.53,1
+2024,21,COMUNA 1,1,CABA,,5.59,10.81,80.47,18
+2024,21,COMUNA 10,10,CABA,,5.59,10.81,80.47,2
+2024,21,COMUNA 11,11,CABA,,5.59,10.81,80.47,1
+2024,21,COMUNA 13,13,CABA,,5.59,10.81,80.47,1
+2024,21,COMUNA 14,14,CABA,,5.59,10.81,80.47,2
+2024,21,COMUNA 15,15,CABA,,5.59,10.81,80.47,1
+2024,21,COMUNA 2,2,CABA,,5.59,10.81,80.47,1
+2024,21,COMUNA 3,3,CABA,,5.59,10.81,80.47,2
+2024,21,COMUNA 4,4,CABA,,5.59,10.81,80.47,4
+2024,21,COMUNA 7,7,CABA,,5.59,10.81,80.47,2
+2024,21,COMUNA 8,8,CABA,,5.59,10.81,80.47,1
+2024,21,COMUNA 9,9,CABA,,5.59,10.81,80.47,4
+2024,21,Campana,21,Buenos Aires,,12.36,11.31,81.13,1
+2024,21,Ensenada,23,Buenos Aires,,5.0,10.66,82.53,2
+2024,21,Escobar,24,Buenos Aires,,5.59,10.81,80.47,1
+2024,21,Exaltación de la Cruz,26,Buenos Aires,,12.36,11.31,81.13,1
+2024,21,Ezeiza,27,Buenos Aires,,5.11,9.92,82.79,1
+2024,21,Florencio Varela,28,Buenos Aires,,5.0,10.66,82.53,5
+2024,21,General Rodríguez,30,Buenos Aires,,5.59,10.81,80.47,1
+2024,21,General San Martín,31,Buenos Aires,,5.59,10.81,80.47,1
+2024,21,Hurlingham,32,Buenos Aires,,5.59,10.81,80.47,1
+2024,21,Ituzaingó,33,Buenos Aires,,5.59,10.81,80.47,1
+2024,21,José C. Paz,34,Buenos Aires,,5.59,10.81,80.47,5
+2024,21,La Matanza,35,Buenos Aires,,5.59,10.81,80.47,25
+2024,21,La Plata,37,Buenos Aires,,5.0,10.66,82.53,7
+2024,21,Lanús,36,Buenos Aires,,5.26,13.54,76.21,4
+2024,21,Lomas de Zamora,38,Buenos Aires,,5.26,13.54,76.21,6
+2024,21,Luján,39,Buenos Aires,,5.59,10.81,80.47,1
+2024,21,Malvinas Argentinas,41,Buenos Aires,,5.59,10.81,80.47,3
+2024,21,Marcos Paz,40,Buenos Aires,,5.11,9.92,82.79,2
+2024,21,Merlo,43,Buenos Aires,,5.59,10.81,80.47,29
+2024,21,Moreno,42,Buenos Aires,,5.59,10.81,80.47,8
+2024,21,Morón,44,Buenos Aires,,5.59,10.81,80.47,6
+2024,21,Pilar,45,Buenos Aires,,5.59,10.81,80.47,1
+2024,21,Quilmes,47,Buenos Aires,,5.0,10.66,82.53,14
+2024,21,San Fernando,48,Buenos Aires,,5.59,10.81,80.47,3
+2024,21,San Isidro,49,Buenos Aires,,5.59,10.81,80.47,2
+2024,21,San Miguel,50,Buenos Aires,,5.59,10.81,80.47,30
+2024,21,San Vicente,51,Buenos Aires,,5.11,9.92,82.79,1
+2024,21,Tigre,52,Buenos Aires,,5.59,10.81,80.47,1
+2024,21,Tres de Febrero,53,Buenos Aires,,5.59,10.81,80.47,3
+2024,21,Vicente López,54,Buenos Aires,,5.59,10.81,80.47,1
+2024,22,Avellaneda,17,Buenos Aires,,0.13,11.76,75.88,1
+2024,22,COMUNA 1,1,CABA,,0.32,8.89,80.38,7
+2024,22,COMUNA 2,2,CABA,,0.32,8.89,80.38,1
+2024,22,COMUNA 3,3,CABA,,0.32,8.89,80.38,2
+2024,22,COMUNA 9,9,CABA,,0.32,8.89,80.38,1
+2024,22,Escobar,24,Buenos Aires,,0.32,8.89,80.38,1
+2024,22,Esteban Echeverría,25,Buenos Aires,,0.02,8.18,82.56,1
+2024,22,Exaltación de la Cruz,26,Buenos Aires,,1.9,9.28,80.75,1
+2024,22,Florencio Varela,28,Buenos Aires,,0.01,8.83,82.37,4
+2024,22,General San Martín,31,Buenos Aires,,0.32,8.89,80.38,3
+2024,22,José C. Paz,34,Buenos Aires,,0.32,8.89,80.38,2
+2024,22,La Matanza,35,Buenos Aires,,0.32,8.89,80.38,3
+2024,22,La Plata,37,Buenos Aires,,0.01,8.83,82.37,1
+2024,22,Lanús,36,Buenos Aires,,0.13,11.76,75.88,4
+2024,22,Lomas de Zamora,38,Buenos Aires,,0.13,11.76,75.88,2
+2024,22,Malvinas Argentinas,41,Buenos Aires,,0.32,8.89,80.38,2
+2024,22,Marcos Paz,40,Buenos Aires,,0.02,8.18,82.56,1
+2024,22,Merlo,43,Buenos Aires,,0.32,8.89,80.38,1
+2024,22,Moreno,42,Buenos Aires,,0.32,8.89,80.38,2
+2024,22,Pilar,45,Buenos Aires,,0.32,8.89,80.38,1
+2024,22,Presidente Perón,46,Buenos Aires,,0.02,8.18,82.56,1
+2024,22,Quilmes,47,Buenos Aires,,0.01,8.83,82.37,7
+2024,22,San Fernando,48,Buenos Aires,,0.32,8.89,80.38,1
+2024,22,San Isidro,49,Buenos Aires,,0.32,8.89,80.38,2
+2024,22,San Miguel,50,Buenos Aires,,0.32,8.89,80.38,15
+2024,22,Tigre,52,Buenos Aires,,0.32,8.89,80.38,1
+2024,22,Tres de Febrero,53,Buenos Aires,,0.32,8.89,80.38,2
+2024,22,Vicente López,54,Buenos Aires,,0.32,8.89,80.38,1
+2024,23,Berazategui,18,Buenos Aires,,4.4,10.23,86.28,2
+2024,23,COMUNA 1,1,CABA,,2.0,10.31,83.92,3
+2024,23,COMUNA 12,12,CABA,,2.0,10.31,83.92,1
+2024,23,COMUNA 6,6,CABA,,2.0,10.31,83.92,1
+2024,23,Ensenada,23,Buenos Aires,,4.4,10.23,86.28,1
+2024,23,Exaltación de la Cruz,26,Buenos Aires,,3.83,10.71,84.35,1
+2024,23,Florencio Varela,28,Buenos Aires,,4.4,10.23,86.28,1
+2024,23,La Matanza,35,Buenos Aires,,2.0,10.31,83.92,3
+2024,23,La Plata,37,Buenos Aires,,4.4,10.23,86.28,1
+2024,23,Lanús,36,Buenos Aires,,3.24,12.36,82.48,1
+2024,23,Lomas de Zamora,38,Buenos Aires,,3.24,12.36,82.48,2
+2024,23,Merlo,43,Buenos Aires,,2.0,10.31,83.92,1
+2024,23,Moreno,42,Buenos Aires,,2.0,10.31,83.92,2
+2024,23,Quilmes,47,Buenos Aires,,4.4,10.23,86.28,2
+2024,23,San Miguel,50,Buenos Aires,,2.0,10.31,83.92,5
+2024,23,Tres de Febrero,53,Buenos Aires,,2.0,10.31,83.92,1
+2024,24,Almirante Brown,16,Buenos Aires,,7.17,12.29,88.76,1
+2024,24,COMUNA 2,2,CABA,,4.46,12.7,86.64,1
+2024,24,COMUNA 8,8,CABA,,4.46,12.7,86.64,1
+2024,24,Exaltación de la Cruz,26,Buenos Aires,,4.28,13.06,87.38,2
+2024,24,Florencio Varela,28,Buenos Aires,,7.17,12.29,88.76,3
+2024,24,José C. Paz,34,Buenos Aires,,4.46,12.7,86.64,2
+2024,24,La Matanza,35,Buenos Aires,,4.46,12.7,86.64,3
+2024,24,La Plata,37,Buenos Aires,,7.17,12.29,88.76,1
+2024,24,Lomas de Zamora,38,Buenos Aires,,6.25,13.63,86.64,1
+2024,24,Malvinas Argentinas,41,Buenos Aires,,4.46,12.7,86.64,1
+2024,24,Pilar,45,Buenos Aires,,4.46,12.7,86.64,3
+2024,24,Quilmes,47,Buenos Aires,,7.17,12.29,88.76,1
+2024,24,San Miguel,50,Buenos Aires,,4.46,12.7,86.64,2
+2024,25,Ituzaingó,33,Buenos Aires,,3.5,14.43,86.31,1
+2024,25,La Plata,37,Buenos Aires,,3.17,13.88,87.77,2
+2024,25,Luján,39,Buenos Aires,,3.5,14.43,86.31,1
+2024,25,Malvinas Argentinas,41,Buenos Aires,,3.5,14.43,86.31,1
+2024,25,Pilar,45,Buenos Aires,,3.5,14.43,86.31,1
+2024,25,San Miguel,50,Buenos Aires,,3.5,14.43,86.31,1
+2024,25,Tres de Febrero,53,Buenos Aires,,3.5,14.43,86.31,1
+2024,25,Zárate,55,Buenos Aires,,4.53,14.78,87.35,1
+2024,26,Almirante Brown,16,Buenos Aires,,39.93,13.25,88.28,1
+2024,26,COMUNA 1,1,CABA,,32.07,13.66,86.65,1
+2024,26,La Matanza,35,Buenos Aires,,32.07,13.66,86.65,2
+2024,26,La Plata,37,Buenos Aires,,39.93,13.25,88.28,1
+2024,26,Lanús,36,Buenos Aires,,27.3,15.05,86.33,1
+2024,26,Quilmes,47,Buenos Aires,,39.93,13.25,88.28,1
+2024,28,La Plata,37,Buenos Aires,,2.28,6.19,80.69,1
+2024,34,Lomas de Zamora,38,Buenos Aires,,3.37,11.52,79.55,1
+2024,36,La Matanza,35,Buenos Aires,,78.56,9.62,81.6,1
+2024,41,COMUNA 1,1,CABA,,1.24,16.27,68.85,1
+2024,42,COMUNA 3,3,CABA,,8.57,17.09,70.28,1
+2024,42,La Matanza,35,Buenos Aires,,8.57,17.09,70.28,1
+2024,42,San Fernando,48,Buenos Aires,,8.57,17.09,70.28,1
+2024,43,COMUNA 1,1,CABA,,12.6,19.09,72.0,1
+2024,43,Quilmes,47,Buenos Aires,,9.35,18.4,74.24,1
+2024,44,Lomas de Zamora,38,Buenos Aires,,46.27,20.84,72.36,1
+2024,45,Quilmes,47,Buenos Aires,,43.91,20.83,69.83,1
+2024,48,Lanús,36,Buenos Aires,,19.81,21.58,67.28,1
+2024,49,Hurlingham,32,Buenos Aires,,62.17,22.16,68.1,1
+2024,49,La Matanza,35,Buenos Aires,,62.17,22.16,68.1,1
+2024,49,Morón,44,Buenos Aires,,62.17,22.16,68.1,2
+2024,50,Hurlingham,32,Buenos Aires,,69.62,20.71,66.06,1
+2024,50,La Matanza,35,Buenos Aires,,69.62,20.71,66.06,1
+2024,51,General San Martín,31,Buenos Aires,,16.28,21.23,59.01,1

@@ -1,0 +1,1274 @@
+departamento_id,departamento_nombre,provincia_id,provincia_nombre,año,semanas_epidemiologicas,evento_nombre,grupo_edad_id,grupo_edad_desc,cantidad_casos
+02001,COMUNA 5,2,CABA,2019,3,Dengue,6.0,De 15 a 19 anos,1
+02001,COMUNA 1,2,CABA,2019,7,Dengue,6.0,De 15 a 19 anos,1
+02001,COMUNA 1,2,CABA,2019,7,Dengue,8.0,De 25 a 34 anos,1
+02001,COMUNA 14,2,CABA,2019,8,Dengue,10.0,De 45 a 65 anos,1
+02010,COMUNA 10,2,CABA,2019,9,Dengue,9.0,De 35 a 44 anos,1
+02001,COMUNA 14,2,CABA,2019,11,Dengue,10.0,De 45 a 65 anos,1
+02001,COMUNA 9,2,CABA,2019,11,Dengue,6.0,De 15 a 19 anos,1
+02001,COMUNA 14,2,CABA,2019,12,Dengue,10.0,De 45 a 65 anos,1
+02001,COMUNA 3,2,CABA,2019,13,Dengue,10.0,De 45 a 65 anos,1
+02009,COMUNA 9,2,CABA,2019,13,Dengue,10.0,De 45 a 65 anos,1
+02001,COMUNA 10,2,CABA,2019,14,Dengue,10.0,De 45 a 65 anos,1
+02001,COMUNA 9,2,CABA,2019,14,Dengue,7.0,De 20 a 24 anos,1
+02010,COMUNA 10,2,CABA,2019,15,Dengue,10.0,De 45 a 65 anos,1
+02014,COMUNA 14,2,CABA,2019,15,Dengue,8.0,De 25 a 34 anos,1
+02001,COMUNA 15,2,CABA,2019,15,Dengue,9.0,De 35 a 44 anos,1
+02009,COMUNA 9,2,CABA,2019,15,Dengue,6.0,De 15 a 19 anos,1
+02001,COMUNA 9,2,CABA,2019,16,Dengue,10.0,De 45 a 65 anos,1
+02001,COMUNA 9,2,CABA,2019,17,Dengue,10.0,De 45 a 65 anos,3
+02001,COMUNA 14,2,CABA,2019,19,Dengue,10.0,De 45 a 65 anos,1
+02001,COMUNA 9,2,CABA,2019,21,Dengue,11.0,Mayores de 65 anos,1
+02001,COMUNA 1,2,CABA,2019,49,Dengue,10.0,De 45 a 65 anos,1
+02001,COMUNA 1,2,CABA,2019,51,Dengue,8.0,De 25 a 34 anos,1
+06091,Berazategui,6,Buenos Aires,2019,7,Dengue,10.0,De 45 a 65 anos,1
+06266,Exaltacion de la Cruz,6,Buenos Aires,2019,26,Dengue,10.0,De 45 a 65 anos,1
+06274,Florencio Varela,6,Buenos Aires,2019,9,Dengue,6.0,De 15 a 19 anos,1
+06274,Florencio Varela,6,Buenos Aires,2019,9,Dengue,8.0,De 25 a 34 anos,2
+06274,Florencio Varela,6,Buenos Aires,2019,16,Dengue,8.0,De 25 a 34 anos,1
+06274,Florencio Varela,6,Buenos Aires,2019,18,Dengue,9.0,De 35 a 44 anos,1
+06274,Florencio Varela,6,Buenos Aires,2019,16,Dengue,10.0,De 45 a 65 anos,1
+06357,General Pueyrredon,6,Buenos Aires,2019,14,Dengue,8.0,De 25 a 34 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,12,Dengue,5.0,De 10 a 14 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,9,Dengue,6.0,De 15 a 19 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,15,Dengue,6.0,De 15 a 19 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,19,Dengue,6.0,De 15 a 19 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,9,Dengue,7.0,De 20 a 24 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,11,Dengue,7.0,De 20 a 24 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,13,Dengue,7.0,De 20 a 24 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,13,Dengue,8.0,De 25 a 34 anos,2
+06410,Ituzaingo,6,Buenos Aires,2019,14,Dengue,8.0,De 25 a 34 anos,2
+06410,Ituzaingo,6,Buenos Aires,2019,15,Dengue,8.0,De 25 a 34 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,9,Dengue,9.0,De 35 a 44 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,11,Dengue,9.0,De 35 a 44 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,12,Dengue,9.0,De 35 a 44 anos,2
+06410,Ituzaingo,6,Buenos Aires,2019,13,Dengue,9.0,De 35 a 44 anos,3
+06410,Ituzaingo,6,Buenos Aires,2019,14,Dengue,9.0,De 35 a 44 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,16,Dengue,9.0,De 35 a 44 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,18,Dengue,9.0,De 35 a 44 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,12,Dengue,10.0,De 45 a 65 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,13,Dengue,10.0,De 45 a 65 anos,2
+06410,Ituzaingo,6,Buenos Aires,2019,14,Dengue,10.0,De 45 a 65 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,16,Dengue,10.0,De 45 a 65 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,17,Dengue,10.0,De 45 a 65 anos,2
+06410,Ituzaingo,6,Buenos Aires,2019,18,Dengue,10.0,De 45 a 65 anos,1
+06410,Ituzaingo,6,Buenos Aires,2019,19,Dengue,10.0,De 45 a 65 anos,1
+06412,Jose C. Paz,6,Buenos Aires,2019,21,Dengue,8.0,De 25 a 34 anos,1
+06441,La Plata,6,Buenos Aires,2019,19,Dengue,7.0,De 20 a 24 anos,1
+06441,La Plata,6,Buenos Aires,2019,15,Dengue,8.0,De 25 a 34 anos,1
+06515,Malvinas Argentinas,6,Buenos Aires,2019,23,Dengue,7.0,De 20 a 24 anos,1
+06515,Malvinas Argentinas,6,Buenos Aires,2019,12,Dengue,8.0,De 25 a 34 anos,1
+06532,Mercedes,6,Buenos Aires,2019,14,Dengue,8.0,De 25 a 34 anos,1
+06568,Moron,6,Buenos Aires,2019,17,Dengue,8.0,De 25 a 34 anos,1
+06568,Moron,6,Buenos Aires,2019,16,Dengue,9.0,De 35 a 44 anos,1
+06568,Moron,6,Buenos Aires,2019,12,Dengue,10.0,De 45 a 65 anos,1
+06568,Moron,6,Buenos Aires,2019,16,Dengue,10.0,De 45 a 65 anos,1
+06568,Moron,6,Buenos Aires,2019,16,Dengue,11.0,Mayores de 65 anos,1
+06623,Pergamino,6,Buenos Aires,2019,15,Dengue,8.0,De 25 a 34 anos,1
+06623,Pergamino,6,Buenos Aires,2019,7,Dengue,10.0,De 45 a 65 anos,2
+06760,San Miguel,6,Buenos Aires,2019,15,Dengue,9.0,De 35 a 44 anos,1
+06791,Tandil,6,Buenos Aires,2019,18,Dengue,10.0,De 45 a 65 anos,1
+06805,Tigre,6,Buenos Aires,2019,9,Dengue,4.0,De 5 a 9 anos,1
+06882,Zarate,6,Buenos Aires,2019,6,Dengue,9.0,De 35 a 44 anos,1
+14014,Capital,14,Córdoba,2019,19,Dengue,9.0,De 35 a 44 anos,1
+14021,Colon,14,Córdoba,2019,17,Dengue,7.0,De 20 a 24 anos,1
+14021,Colon,14,Córdoba,2019,9,Dengue,10.0,De 45 a 65 anos,1
+22036,12 de Octubre,22,Chaco,2019,21,Dengue,6.0,De 15 a 19 anos,1
+22039,2 de Abril,22,Chaco,2019,18,Dengue,3.0,De 2 a 4 anos,1
+22105,9 de Julio,22,Chaco,2019,19,Dengue,6.0,De 15 a 19 anos,1
+22028,Chacabuco,22,Chaco,2019,15,Dengue,7.0,De 20 a 24 anos,1
+22028,Chacabuco,22,Chaco,2019,15,Dengue,8.0,De 25 a 34 anos,1
+22028,Chacabuco,22,Chaco,2019,2,Dengue,10.0,De 45 a 65 anos,1
+22021,Comandante Fernandez,22,Chaco,2019,25,Dengue,10.0,De 45 a 65 anos,1
+22049,General Belgrano,22,Chaco,2019,21,Dengue,9.0,De 35 a 44 anos,1
+22063,General Guemes,22,Chaco,2019,16,Dengue,5.0,De 10 a 14 anos,1
+22063,General Guemes,22,Chaco,2019,19,Dengue,5.0,De 10 a 14 anos,1
+22063,General Guemes,22,Chaco,2019,20,Dengue,5.0,De 10 a 14 anos,1
+22063,General Guemes,22,Chaco,2019,21,Dengue,5.0,De 10 a 14 anos,2
+22063,General Guemes,22,Chaco,2019,22,Dengue,5.0,De 10 a 14 anos,1
+22063,General Guemes,22,Chaco,2019,24,Dengue,5.0,De 10 a 14 anos,1
+22063,General Guemes,22,Chaco,2019,14,Dengue,6.0,De 15 a 19 anos,2
+22063,General Guemes,22,Chaco,2019,17,Dengue,6.0,De 15 a 19 anos,2
+22063,General Guemes,22,Chaco,2019,19,Dengue,6.0,De 15 a 19 anos,1
+22063,General Guemes,22,Chaco,2019,20,Dengue,6.0,De 15 a 19 anos,4
+22063,General Guemes,22,Chaco,2019,12,Dengue,3.0,De 2 a 4 anos,1
+22063,General Guemes,22,Chaco,2019,15,Dengue,7.0,De 20 a 24 anos,1
+22063,General Guemes,22,Chaco,2019,13,Dengue,7.0,De 20 a 24 anos,1
+22063,General Guemes,22,Chaco,2019,14,Dengue,7.0,De 20 a 24 anos,1
+22063,General Guemes,22,Chaco,2019,15,Dengue,7.0,De 20 a 24 anos,1
+22063,General Guemes,22,Chaco,2019,18,Dengue,7.0,De 20 a 24 anos,1
+22063,General Guemes,22,Chaco,2019,19,Dengue,7.0,De 20 a 24 anos,4
+22063,General Guemes,22,Chaco,2019,20,Dengue,7.0,De 20 a 24 anos,3
+22063,General Guemes,22,Chaco,2019,21,Dengue,7.0,De 20 a 24 anos,1
+22063,General Guemes,22,Chaco,2019,22,Dengue,7.0,De 20 a 24 anos,1
+22063,General Guemes,22,Chaco,2019,24,Dengue,7.0,De 20 a 24 anos,1
+22063,General Guemes,22,Chaco,2019,12,Dengue,8.0,De 25 a 34 anos,1
+22063,General Guemes,22,Chaco,2019,14,Dengue,8.0,De 25 a 34 anos,1
+22063,General Guemes,22,Chaco,2019,15,Dengue,8.0,De 25 a 34 anos,2
+22063,General Guemes,22,Chaco,2019,16,Dengue,8.0,De 25 a 34 anos,1
+22063,General Guemes,22,Chaco,2019,18,Dengue,8.0,De 25 a 34 anos,1
+22063,General Guemes,22,Chaco,2019,19,Dengue,8.0,De 25 a 34 anos,4
+22063,General Guemes,22,Chaco,2019,20,Dengue,8.0,De 25 a 34 anos,8
+22063,General Guemes,22,Chaco,2019,21,Dengue,8.0,De 25 a 34 anos,1
+22063,General Guemes,22,Chaco,2019,22,Dengue,8.0,De 25 a 34 anos,2
+22063,General Guemes,22,Chaco,2019,17,Dengue,9.0,De 35 a 44 anos,1
+22063,General Guemes,22,Chaco,2019,18,Dengue,9.0,De 35 a 44 anos,2
+22063,General Guemes,22,Chaco,2019,19,Dengue,9.0,De 35 a 44 anos,3
+22063,General Guemes,22,Chaco,2019,20,Dengue,9.0,De 35 a 44 anos,4
+22063,General Guemes,22,Chaco,2019,21,Dengue,9.0,De 35 a 44 anos,3
+22063,General Guemes,22,Chaco,2019,22,Dengue,9.0,De 35 a 44 anos,1
+22063,General Guemes,22,Chaco,2019,12,Dengue,10.0,De 45 a 65 anos,1
+22063,General Guemes,22,Chaco,2019,18,Dengue,10.0,De 45 a 65 anos,2
+22063,General Guemes,22,Chaco,2019,19,Dengue,10.0,De 45 a 65 anos,5
+22063,General Guemes,22,Chaco,2019,20,Dengue,10.0,De 45 a 65 anos,5
+22063,General Guemes,22,Chaco,2019,21,Dengue,10.0,De 45 a 65 anos,6
+22063,General Guemes,22,Chaco,2019,22,Dengue,10.0,De 45 a 65 anos,1
+22063,General Guemes,22,Chaco,2019,19,Dengue,4.0,De 5 a 9 anos,2
+22063,General Guemes,22,Chaco,2019,20,Dengue,4.0,De 5 a 9 anos,4
+22063,General Guemes,22,Chaco,2019,20,Dengue,11.0,Mayores de 65 anos,2
+22063,General Guemes,22,Chaco,2019,20,Dengue,,Sin Especificar,2
+22084,Libertador General San Martin,22,Chaco,2019,36,Dengue,3.0,De 2 a 4 anos,1
+22098,Mayor Luis J. Fontana,22,Chaco,2019,48,Dengue,4.0,De 5 a 9 anos,1
+22140,San Fernando,22,Chaco,2019,11,Dengue,5.0,De 10 a 14 anos,1
+22140,San Fernando,22,Chaco,2019,26,Dengue,5.0,De 10 a 14 anos,1
+22140,San Fernando,22,Chaco,2019,19,Dengue,7.0,De 20 a 24 anos,1
+22140,San Fernando,22,Chaco,2019,27,Dengue,7.0,De 20 a 24 anos,1
+22140,San Fernando,22,Chaco,2019,13,Dengue,8.0,De 25 a 34 anos,1
+22140,San Fernando,22,Chaco,2019,18,Dengue,8.0,De 25 a 34 anos,1
+22140,San Fernando,22,Chaco,2019,19,Dengue,8.0,De 25 a 34 anos,1
+22140,San Fernando,22,Chaco,2019,26,Dengue,8.0,De 25 a 34 anos,1
+22140,San Fernando,22,Chaco,2019,21,Dengue,9.0,De 35 a 44 anos,1
+22140,San Fernando,22,Chaco,2019,10,Dengue,10.0,De 45 a 65 anos,1
+22140,San Fernando,22,Chaco,2019,11,Dengue,10.0,De 45 a 65 anos,1
+22140,San Fernando,22,Chaco,2019,8,Dengue,11.0,Mayores de 65 anos,1
+22154,Sargento Cabral,22,Chaco,2019,15,Dengue,10.0,De 45 a 65 anos,1
+34007,Bermejo,34,Formosa,2019,1,Dengue,8.0,De 25 a 34 anos,1
+34028,Matacos,34,Formosa,2019,14,Dengue,6.0,De 15 a 19 anos,1
+34028,Matacos,34,Formosa,2019,3,Dengue,7.0,De 20 a 24 anos,1
+34028,Matacos,34,Formosa,2019,2,Dengue,8.0,De 25 a 34 anos,1
+34028,Matacos,34,Formosa,2019,3,Dengue,8.0,De 25 a 34 anos,1
+34028,Matacos,34,Formosa,2019,2,Dengue,9.0,De 35 a 44 anos,2
+34028,Matacos,34,Formosa,2019,3,Dengue,9.0,De 35 a 44 anos,2
+34028,Matacos,34,Formosa,2019,2,Dengue,10.0,De 45 a 65 anos,1
+34028,Matacos,34,Formosa,2019,3,Dengue,10.0,De 45 a 65 anos,1
+34028,Matacos,34,Formosa,2019,1,Dengue,11.0,Mayores de 65 anos,1
+34028,Matacos,34,Formosa,2019,3,Dengue,11.0,Mayores de 65 anos,1
+34056,Pirane,34,Formosa,2019,3,Dengue,8.0,De 25 a 34 anos,1
+06091,Berazategui,38,Jujuy,2019,12,Dengue,10.0,De 45 a 65 anos,1
+38007,Cochinoca,38,Jujuy,2019,20,Dengue,11.0,Mayores de 65 anos,1
+38035,Ledesma,38,Jujuy,2019,7,Dengue,5.0,De 10 a 14 anos,1
+38035,Ledesma,38,Jujuy,2019,10,Dengue,5.0,De 10 a 14 anos,1
+38035,Ledesma,38,Jujuy,2019,13,Dengue,5.0,De 10 a 14 anos,2
+38035,Ledesma,38,Jujuy,2019,14,Dengue,5.0,De 10 a 14 anos,8
+38035,Ledesma,38,Jujuy,2019,15,Dengue,5.0,De 10 a 14 anos,3
+38035,Ledesma,38,Jujuy,2019,16,Dengue,5.0,De 10 a 14 anos,3
+38035,Ledesma,38,Jujuy,2019,17,Dengue,5.0,De 10 a 14 anos,6
+38035,Ledesma,38,Jujuy,2019,18,Dengue,5.0,De 10 a 14 anos,4
+38035,Ledesma,38,Jujuy,2019,19,Dengue,5.0,De 10 a 14 anos,11
+38035,Ledesma,38,Jujuy,2019,20,Dengue,5.0,De 10 a 14 anos,6
+38035,Ledesma,38,Jujuy,2019,21,Dengue,5.0,De 10 a 14 anos,5
+38035,Ledesma,38,Jujuy,2019,11,Dengue,6.0,De 15 a 19 anos,1
+38035,Ledesma,38,Jujuy,2019,13,Dengue,6.0,De 15 a 19 anos,2
+38035,Ledesma,38,Jujuy,2019,14,Dengue,6.0,De 15 a 19 anos,2
+38035,Ledesma,38,Jujuy,2019,15,Dengue,6.0,De 15 a 19 anos,4
+38035,Ledesma,38,Jujuy,2019,16,Dengue,6.0,De 15 a 19 anos,6
+38035,Ledesma,38,Jujuy,2019,17,Dengue,6.0,De 15 a 19 anos,8
+38035,Ledesma,38,Jujuy,2019,18,Dengue,6.0,De 15 a 19 anos,7
+38035,Ledesma,38,Jujuy,2019,19,Dengue,6.0,De 15 a 19 anos,16
+38035,Ledesma,38,Jujuy,2019,20,Dengue,6.0,De 15 a 19 anos,12
+38035,Ledesma,38,Jujuy,2019,21,Dengue,6.0,De 15 a 19 anos,5
+38035,Ledesma,38,Jujuy,2019,23,Dengue,6.0,De 15 a 19 anos,2
+38035,Ledesma,38,Jujuy,2019,25,Dengue,6.0,De 15 a 19 anos,1
+38035,Ledesma,38,Jujuy,2019,14,Dengue,3.0,De 2 a 4 anos,3
+38035,Ledesma,38,Jujuy,2019,17,Dengue,3.0,De 2 a 4 anos,2
+38035,Ledesma,38,Jujuy,2019,18,Dengue,3.0,De 2 a 4 anos,2
+38035,Ledesma,38,Jujuy,2019,20,Dengue,3.0,De 2 a 4 anos,1
+38035,Ledesma,38,Jujuy,2019,21,Dengue,3.0,De 2 a 4 anos,1
+38035,Ledesma,38,Jujuy,2019,23,Dengue,3.0,De 2 a 4 anos,1
+38035,Ledesma,38,Jujuy,2019,11,Dengue,7.0,De 20 a 24 anos,1
+38035,Ledesma,38,Jujuy,2019,13,Dengue,7.0,De 20 a 24 anos,1
+38035,Ledesma,38,Jujuy,2019,15,Dengue,7.0,De 20 a 24 anos,6
+38035,Ledesma,38,Jujuy,2019,16,Dengue,7.0,De 20 a 24 anos,6
+38035,Ledesma,38,Jujuy,2019,17,Dengue,7.0,De 20 a 24 anos,6
+38035,Ledesma,38,Jujuy,2019,18,Dengue,7.0,De 20 a 24 anos,5
+38035,Ledesma,38,Jujuy,2019,19,Dengue,7.0,De 20 a 24 anos,6
+38035,Ledesma,38,Jujuy,2019,20,Dengue,7.0,De 20 a 24 anos,9
+38035,Ledesma,38,Jujuy,2019,21,Dengue,7.0,De 20 a 24 anos,4
+38035,Ledesma,38,Jujuy,2019,22,Dengue,7.0,De 20 a 24 anos,2
+38035,Ledesma,38,Jujuy,2019,23,Dengue,7.0,De 20 a 24 anos,3
+38035,Ledesma,38,Jujuy,2019,24,Dengue,7.0,De 20 a 24 anos,1
+38035,Ledesma,38,Jujuy,2019,17,Dengue,8.0,De 25 a 34 anos,1
+38035,Ledesma,38,Jujuy,2019,23,Dengue,8.0,De 25 a 34 anos,1
+38035,Ledesma,38,Jujuy,2019,9,Dengue,8.0,De 25 a 34 anos,1
+38035,Ledesma,38,Jujuy,2019,10,Dengue,8.0,De 25 a 34 anos,5
+38035,Ledesma,38,Jujuy,2019,11,Dengue,8.0,De 25 a 34 anos,4
+38035,Ledesma,38,Jujuy,2019,12,Dengue,8.0,De 25 a 34 anos,3
+38035,Ledesma,38,Jujuy,2019,13,Dengue,8.0,De 25 a 34 anos,3
+38035,Ledesma,38,Jujuy,2019,14,Dengue,8.0,De 25 a 34 anos,6
+38035,Ledesma,38,Jujuy,2019,15,Dengue,8.0,De 25 a 34 anos,8
+38035,Ledesma,38,Jujuy,2019,16,Dengue,8.0,De 25 a 34 anos,10
+38035,Ledesma,38,Jujuy,2019,17,Dengue,8.0,De 25 a 34 anos,10
+38035,Ledesma,38,Jujuy,2019,18,Dengue,8.0,De 25 a 34 anos,14
+38035,Ledesma,38,Jujuy,2019,19,Dengue,8.0,De 25 a 34 anos,17
+38035,Ledesma,38,Jujuy,2019,20,Dengue,8.0,De 25 a 34 anos,15
+38035,Ledesma,38,Jujuy,2019,21,Dengue,8.0,De 25 a 34 anos,8
+38035,Ledesma,38,Jujuy,2019,22,Dengue,8.0,De 25 a 34 anos,3
+38035,Ledesma,38,Jujuy,2019,23,Dengue,8.0,De 25 a 34 anos,1
+38035,Ledesma,38,Jujuy,2019,24,Dengue,8.0,De 25 a 34 anos,1
+38035,Ledesma,38,Jujuy,2019,25,Dengue,8.0,De 25 a 34 anos,1
+38035,Ledesma,38,Jujuy,2019,13,Dengue,9.0,De 35 a 44 anos,1
+38035,Ledesma,38,Jujuy,2019,8,Dengue,9.0,De 35 a 44 anos,1
+38035,Ledesma,38,Jujuy,2019,11,Dengue,9.0,De 35 a 44 anos,1
+38035,Ledesma,38,Jujuy,2019,12,Dengue,9.0,De 35 a 44 anos,1
+38035,Ledesma,38,Jujuy,2019,13,Dengue,9.0,De 35 a 44 anos,2
+38035,Ledesma,38,Jujuy,2019,14,Dengue,9.0,De 35 a 44 anos,4
+38035,Ledesma,38,Jujuy,2019,15,Dengue,9.0,De 35 a 44 anos,8
+38035,Ledesma,38,Jujuy,2019,16,Dengue,9.0,De 35 a 44 anos,3
+38035,Ledesma,38,Jujuy,2019,17,Dengue,9.0,De 35 a 44 anos,10
+38035,Ledesma,38,Jujuy,2019,18,Dengue,9.0,De 35 a 44 anos,12
+38035,Ledesma,38,Jujuy,2019,19,Dengue,9.0,De 35 a 44 anos,16
+38035,Ledesma,38,Jujuy,2019,20,Dengue,9.0,De 35 a 44 anos,15
+38035,Ledesma,38,Jujuy,2019,21,Dengue,9.0,De 35 a 44 anos,5
+38035,Ledesma,38,Jujuy,2019,22,Dengue,9.0,De 35 a 44 anos,1
+38035,Ledesma,38,Jujuy,2019,23,Dengue,9.0,De 35 a 44 anos,1
+38035,Ledesma,38,Jujuy,2019,25,Dengue,9.0,De 35 a 44 anos,1
+38035,Ledesma,38,Jujuy,2019,9,Dengue,10.0,De 45 a 65 anos,2
+38035,Ledesma,38,Jujuy,2019,10,Dengue,10.0,De 45 a 65 anos,3
+38035,Ledesma,38,Jujuy,2019,11,Dengue,10.0,De 45 a 65 anos,3
+38035,Ledesma,38,Jujuy,2019,12,Dengue,10.0,De 45 a 65 anos,2
+38035,Ledesma,38,Jujuy,2019,13,Dengue,10.0,De 45 a 65 anos,8
+38035,Ledesma,38,Jujuy,2019,14,Dengue,10.0,De 45 a 65 anos,7
+38035,Ledesma,38,Jujuy,2019,15,Dengue,10.0,De 45 a 65 anos,9
+38035,Ledesma,38,Jujuy,2019,16,Dengue,10.0,De 45 a 65 anos,6
+38035,Ledesma,38,Jujuy,2019,17,Dengue,10.0,De 45 a 65 anos,19
+38035,Ledesma,38,Jujuy,2019,18,Dengue,10.0,De 45 a 65 anos,16
+38035,Ledesma,38,Jujuy,2019,19,Dengue,10.0,De 45 a 65 anos,18
+38035,Ledesma,38,Jujuy,2019,20,Dengue,10.0,De 45 a 65 anos,10
+38035,Ledesma,38,Jujuy,2019,21,Dengue,10.0,De 45 a 65 anos,16
+38035,Ledesma,38,Jujuy,2019,22,Dengue,10.0,De 45 a 65 anos,1
+38035,Ledesma,38,Jujuy,2019,23,Dengue,10.0,De 45 a 65 anos,2
+38035,Ledesma,38,Jujuy,2019,24,Dengue,10.0,De 45 a 65 anos,3
+38035,Ledesma,38,Jujuy,2019,9,Dengue,4.0,De 5 a 9 anos,1
+38035,Ledesma,38,Jujuy,2019,13,Dengue,4.0,De 5 a 9 anos,1
+38035,Ledesma,38,Jujuy,2019,14,Dengue,4.0,De 5 a 9 anos,1
+38035,Ledesma,38,Jujuy,2019,15,Dengue,4.0,De 5 a 9 anos,3
+38035,Ledesma,38,Jujuy,2019,16,Dengue,4.0,De 5 a 9 anos,3
+38035,Ledesma,38,Jujuy,2019,17,Dengue,4.0,De 5 a 9 anos,3
+38035,Ledesma,38,Jujuy,2019,18,Dengue,4.0,De 5 a 9 anos,3
+38035,Ledesma,38,Jujuy,2019,19,Dengue,4.0,De 5 a 9 anos,5
+38035,Ledesma,38,Jujuy,2019,20,Dengue,4.0,De 5 a 9 anos,1
+38035,Ledesma,38,Jujuy,2019,22,Dengue,4.0,De 5 a 9 anos,1
+38035,Ledesma,38,Jujuy,2019,23,Dengue,4.0,De 5 a 9 anos,1
+38035,Ledesma,38,Jujuy,2019,10,Dengue,11.0,Mayores de 65 anos,1
+38035,Ledesma,38,Jujuy,2019,11,Dengue,11.0,Mayores de 65 anos,3
+38035,Ledesma,38,Jujuy,2019,14,Dengue,11.0,Mayores de 65 anos,1
+38035,Ledesma,38,Jujuy,2019,17,Dengue,11.0,Mayores de 65 anos,3
+38035,Ledesma,38,Jujuy,2019,18,Dengue,11.0,Mayores de 65 anos,1
+38035,Ledesma,38,Jujuy,2019,19,Dengue,11.0,Mayores de 65 anos,3
+38035,Ledesma,38,Jujuy,2019,20,Dengue,11.0,Mayores de 65 anos,2
+38035,Ledesma,38,Jujuy,2019,21,Dengue,11.0,Mayores de 65 anos,1
+38035,Ledesma,38,Jujuy,2019,23,Dengue,11.0,Mayores de 65 anos,1
+38035,Ledesma,38,Jujuy,2019,24,Dengue,11.0,Mayores de 65 anos,1
+38035,Ledesma,38,Jujuy,2019,29,Dengue,11.0,Mayores de 65 anos,1
+38042,Palpala,38,Jujuy,2019,23,Dengue,7.0,De 20 a 24 anos,1
+38056,San Antonio,38,Jujuy,2019,23,Dengue,9.0,De 35 a 44 anos,1
+38070,Santa Barbara,38,Jujuy,2019,14,Dengue,5.0,De 10 a 14 anos,1
+38070,Santa Barbara,38,Jujuy,2019,18,Dengue,6.0,De 15 a 19 anos,1
+38070,Santa Barbara,38,Jujuy,2019,21,Dengue,6.0,De 15 a 19 anos,1
+38070,Santa Barbara,38,Jujuy,2019,25,Dengue,6.0,De 15 a 19 anos,1
+38070,Santa Barbara,38,Jujuy,2019,17,Dengue,7.0,De 20 a 24 anos,1
+38070,Santa Barbara,38,Jujuy,2019,23,Dengue,7.0,De 20 a 24 anos,1
+38070,Santa Barbara,38,Jujuy,2019,7,Dengue,8.0,De 25 a 34 anos,1
+38070,Santa Barbara,38,Jujuy,2019,21,Dengue,8.0,De 25 a 34 anos,1
+38070,Santa Barbara,38,Jujuy,2019,22,Dengue,8.0,De 25 a 34 anos,1
+38070,Santa Barbara,38,Jujuy,2019,20,Dengue,9.0,De 35 a 44 anos,1
+38070,Santa Barbara,38,Jujuy,2019,21,Dengue,9.0,De 35 a 44 anos,1
+38070,Santa Barbara,38,Jujuy,2019,24,Dengue,9.0,De 35 a 44 anos,1
+38070,Santa Barbara,38,Jujuy,2019,18,Dengue,10.0,De 45 a 65 anos,1
+38105,Valle Grande,38,Jujuy,2019,19,Dengue,6.0,De 15 a 19 anos,1
+54007,Apostoles,54,Misiones,2019,14,Dengue,5.0,De 10 a 14 anos,1
+54007,Apostoles,54,Misiones,2019,20,Dengue,5.0,De 10 a 14 anos,2
+54007,Apostoles,54,Misiones,2019,12,Dengue,6.0,De 15 a 19 anos,1
+54007,Apostoles,54,Misiones,2019,14,Dengue,6.0,De 15 a 19 anos,1
+54007,Apostoles,54,Misiones,2019,15,Dengue,6.0,De 15 a 19 anos,1
+54007,Apostoles,54,Misiones,2019,19,Dengue,6.0,De 15 a 19 anos,1
+54007,Apostoles,54,Misiones,2019,21,Dengue,6.0,De 15 a 19 anos,1
+54007,Apostoles,54,Misiones,2019,24,Dengue,3.0,De 2 a 4 anos,1
+54007,Apostoles,54,Misiones,2019,15,Dengue,7.0,De 20 a 24 anos,1
+54007,Apostoles,54,Misiones,2019,21,Dengue,7.0,De 20 a 24 anos,2
+54007,Apostoles,54,Misiones,2019,15,Dengue,8.0,De 25 a 34 anos,1
+54007,Apostoles,54,Misiones,2019,16,Dengue,8.0,De 25 a 34 anos,1
+54007,Apostoles,54,Misiones,2019,17,Dengue,8.0,De 25 a 34 anos,1
+54007,Apostoles,54,Misiones,2019,19,Dengue,8.0,De 25 a 34 anos,1
+54007,Apostoles,54,Misiones,2019,20,Dengue,8.0,De 25 a 34 anos,2
+54007,Apostoles,54,Misiones,2019,21,Dengue,8.0,De 25 a 34 anos,1
+54007,Apostoles,54,Misiones,2019,23,Dengue,8.0,De 25 a 34 anos,1
+54007,Apostoles,54,Misiones,2019,15,Dengue,9.0,De 35 a 44 anos,1
+54007,Apostoles,54,Misiones,2019,16,Dengue,9.0,De 35 a 44 anos,3
+54007,Apostoles,54,Misiones,2019,17,Dengue,9.0,De 35 a 44 anos,2
+54007,Apostoles,54,Misiones,2019,18,Dengue,9.0,De 35 a 44 anos,1
+54007,Apostoles,54,Misiones,2019,19,Dengue,9.0,De 35 a 44 anos,1
+54007,Apostoles,54,Misiones,2019,20,Dengue,9.0,De 35 a 44 anos,1
+54007,Apostoles,54,Misiones,2019,23,Dengue,9.0,De 35 a 44 anos,1
+54007,Apostoles,54,Misiones,2019,15,Dengue,10.0,De 45 a 65 anos,2
+54007,Apostoles,54,Misiones,2019,16,Dengue,10.0,De 45 a 65 anos,1
+54007,Apostoles,54,Misiones,2019,17,Dengue,10.0,De 45 a 65 anos,2
+54007,Apostoles,54,Misiones,2019,19,Dengue,10.0,De 45 a 65 anos,1
+54007,Apostoles,54,Misiones,2019,9,Dengue,4.0,De 5 a 9 anos,1
+54007,Apostoles,54,Misiones,2019,16,Dengue,4.0,De 5 a 9 anos,1
+54007,Apostoles,54,Misiones,2019,20,Dengue,4.0,De 5 a 9 anos,1
+54007,Apostoles,54,Misiones,2019,20,Dengue,11.0,Mayores de 65 anos,1
+18084,Capital,54,Misiones,2019,22,Dengue,10.0,De 45 a 65 anos,1
+54028,Capital,54,Misiones,2019,12,Dengue,5.0,De 10 a 14 anos,1
+54028,Capital,54,Misiones,2019,16,Dengue,5.0,De 10 a 14 anos,2
+54028,Capital,54,Misiones,2019,17,Dengue,5.0,De 10 a 14 anos,2
+54028,Capital,54,Misiones,2019,19,Dengue,5.0,De 10 a 14 anos,1
+54028,Capital,54,Misiones,2019,20,Dengue,5.0,De 10 a 14 anos,3
+54028,Capital,54,Misiones,2019,21,Dengue,5.0,De 10 a 14 anos,1
+54028,Capital,54,Misiones,2019,11,Dengue,6.0,De 15 a 19 anos,1
+54028,Capital,54,Misiones,2019,15,Dengue,6.0,De 15 a 19 anos,2
+54028,Capital,54,Misiones,2019,16,Dengue,6.0,De 15 a 19 anos,1
+54028,Capital,54,Misiones,2019,19,Dengue,6.0,De 15 a 19 anos,1
+54028,Capital,54,Misiones,2019,20,Dengue,6.0,De 15 a 19 anos,4
+54028,Capital,54,Misiones,2019,22,Dengue,6.0,De 15 a 19 anos,1
+54028,Capital,54,Misiones,2019,18,Dengue,3.0,De 2 a 4 anos,1
+54028,Capital,54,Misiones,2019,20,Dengue,3.0,De 2 a 4 anos,1
+54028,Capital,54,Misiones,2019,21,Dengue,3.0,De 2 a 4 anos,1
+54028,Capital,54,Misiones,2019,43,Dengue,7.0,De 20 a 24 anos,1
+54028,Capital,54,Misiones,2019,13,Dengue,7.0,De 20 a 24 anos,1
+54028,Capital,54,Misiones,2019,15,Dengue,7.0,De 20 a 24 anos,1
+54028,Capital,54,Misiones,2019,16,Dengue,7.0,De 20 a 24 anos,1
+54028,Capital,54,Misiones,2019,20,Dengue,7.0,De 20 a 24 anos,1
+54028,Capital,54,Misiones,2019,21,Dengue,7.0,De 20 a 24 anos,1
+54028,Capital,54,Misiones,2019,22,Dengue,7.0,De 20 a 24 anos,3
+54028,Capital,54,Misiones,2019,23,Dengue,7.0,De 20 a 24 anos,1
+54028,Capital,54,Misiones,2019,8,Dengue,8.0,De 25 a 34 anos,1
+54028,Capital,54,Misiones,2019,9,Dengue,8.0,De 25 a 34 anos,1
+54028,Capital,54,Misiones,2019,13,Dengue,8.0,De 25 a 34 anos,1
+54028,Capital,54,Misiones,2019,14,Dengue,8.0,De 25 a 34 anos,1
+54028,Capital,54,Misiones,2019,15,Dengue,8.0,De 25 a 34 anos,3
+54028,Capital,54,Misiones,2019,16,Dengue,8.0,De 25 a 34 anos,1
+54028,Capital,54,Misiones,2019,17,Dengue,8.0,De 25 a 34 anos,4
+54028,Capital,54,Misiones,2019,18,Dengue,8.0,De 25 a 34 anos,2
+54028,Capital,54,Misiones,2019,19,Dengue,8.0,De 25 a 34 anos,5
+54028,Capital,54,Misiones,2019,20,Dengue,8.0,De 25 a 34 anos,5
+54028,Capital,54,Misiones,2019,21,Dengue,8.0,De 25 a 34 anos,5
+54028,Capital,54,Misiones,2019,22,Dengue,8.0,De 25 a 34 anos,4
+54028,Capital,54,Misiones,2019,11,Dengue,9.0,De 35 a 44 anos,1
+54028,Capital,54,Misiones,2019,12,Dengue,9.0,De 35 a 44 anos,1
+54028,Capital,54,Misiones,2019,15,Dengue,9.0,De 35 a 44 anos,3
+54028,Capital,54,Misiones,2019,16,Dengue,9.0,De 35 a 44 anos,7
+54028,Capital,54,Misiones,2019,17,Dengue,9.0,De 35 a 44 anos,3
+54028,Capital,54,Misiones,2019,18,Dengue,9.0,De 35 a 44 anos,3
+54028,Capital,54,Misiones,2019,19,Dengue,9.0,De 35 a 44 anos,1
+54028,Capital,54,Misiones,2019,20,Dengue,9.0,De 35 a 44 anos,4
+54028,Capital,54,Misiones,2019,21,Dengue,9.0,De 35 a 44 anos,6
+54028,Capital,54,Misiones,2019,22,Dengue,9.0,De 35 a 44 anos,3
+54028,Capital,54,Misiones,2019,39,Dengue,10.0,De 45 a 65 anos,1
+54028,Capital,54,Misiones,2019,9,Dengue,10.0,De 45 a 65 anos,1
+54028,Capital,54,Misiones,2019,14,Dengue,10.0,De 45 a 65 anos,2
+54028,Capital,54,Misiones,2019,15,Dengue,10.0,De 45 a 65 anos,5
+54028,Capital,54,Misiones,2019,16,Dengue,10.0,De 45 a 65 anos,7
+54028,Capital,54,Misiones,2019,17,Dengue,10.0,De 45 a 65 anos,4
+54028,Capital,54,Misiones,2019,18,Dengue,10.0,De 45 a 65 anos,1
+54028,Capital,54,Misiones,2019,19,Dengue,10.0,De 45 a 65 anos,4
+54028,Capital,54,Misiones,2019,20,Dengue,10.0,De 45 a 65 anos,9
+54028,Capital,54,Misiones,2019,21,Dengue,10.0,De 45 a 65 anos,1
+54028,Capital,54,Misiones,2019,22,Dengue,10.0,De 45 a 65 anos,4
+54028,Capital,54,Misiones,2019,14,Dengue,4.0,De 5 a 9 anos,1
+54028,Capital,54,Misiones,2019,15,Dengue,4.0,De 5 a 9 anos,2
+54028,Capital,54,Misiones,2019,17,Dengue,4.0,De 5 a 9 anos,1
+54028,Capital,54,Misiones,2019,19,Dengue,4.0,De 5 a 9 anos,1
+54028,Capital,54,Misiones,2019,20,Dengue,4.0,De 5 a 9 anos,3
+54028,Capital,54,Misiones,2019,21,Dengue,4.0,De 5 a 9 anos,2
+54028,Capital,54,Misiones,2019,22,Dengue,4.0,De 5 a 9 anos,1
+54028,Capital,54,Misiones,2019,6,Dengue,11.0,Mayores de 65 anos,1
+54028,Capital,54,Misiones,2019,9,Dengue,11.0,Mayores de 65 anos,1
+54028,Capital,54,Misiones,2019,17,Dengue,11.0,Mayores de 65 anos,1
+54028,Capital,54,Misiones,2019,20,Dengue,11.0,Mayores de 65 anos,1
+54028,Capital,54,Misiones,2019,22,Dengue,11.0,Mayores de 65 anos,2
+54042,Eldorado,54,Misiones,2019,21,Dengue,5.0,De 10 a 14 anos,1
+54042,Eldorado,54,Misiones,2019,51,Dengue,6.0,De 15 a 19 anos,1
+54042,Eldorado,54,Misiones,2019,23,Dengue,6.0,De 15 a 19 anos,1
+54042,Eldorado,54,Misiones,2019,52,Dengue,7.0,De 20 a 24 anos,1
+54042,Eldorado,54,Misiones,2019,14,Dengue,7.0,De 20 a 24 anos,1
+54042,Eldorado,54,Misiones,2019,15,Dengue,7.0,De 20 a 24 anos,1
+54042,Eldorado,54,Misiones,2019,2,Dengue,8.0,De 25 a 34 anos,1
+54042,Eldorado,54,Misiones,2019,13,Dengue,8.0,De 25 a 34 anos,1
+54042,Eldorado,54,Misiones,2019,15,Dengue,8.0,De 25 a 34 anos,1
+54042,Eldorado,54,Misiones,2019,12,Dengue,9.0,De 35 a 44 anos,1
+54042,Eldorado,54,Misiones,2019,15,Dengue,9.0,De 35 a 44 anos,2
+54042,Eldorado,54,Misiones,2019,19,Dengue,9.0,De 35 a 44 anos,1
+54042,Eldorado,54,Misiones,2019,15,Dengue,10.0,De 45 a 65 anos,1
+54042,Eldorado,54,Misiones,2019,17,Dengue,10.0,De 45 a 65 anos,1
+54042,Eldorado,54,Misiones,2019,20,Dengue,4.0,De 5 a 9 anos,1
+54042,Eldorado,54,Misiones,2019,21,Dengue,4.0,De 5 a 9 anos,1
+54042,Eldorado,54,Misiones,2019,20,Dengue,4.0,De 5 a 9 anos,1
+54042,Eldorado,54,Misiones,2019,22,Dengue,11.0,Mayores de 65 anos,1
+54042,Eldorado,54,Misiones,2019,15,Dengue,11.0,Mayores de 65 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,1,Dengue,5.0,De 10 a 14 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,21,Dengue,5.0,De 10 a 14 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,44,Dengue,5.0,De 10 a 14 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,46,Dengue,5.0,De 10 a 14 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,48,Dengue,5.0,De 10 a 14 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,51,Dengue,5.0,De 10 a 14 anos,2
+54049,General Manuel Belgrano,54,Misiones,2019,14,Dengue,5.0,De 10 a 14 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,20,Dengue,5.0,De 10 a 14 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,21,Dengue,5.0,De 10 a 14 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,44,Dengue,6.0,De 15 a 19 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,45,Dengue,6.0,De 15 a 19 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,46,Dengue,6.0,De 15 a 19 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,15,Dengue,6.0,De 15 a 19 anos,2
+54049,General Manuel Belgrano,54,Misiones,2019,18,Dengue,6.0,De 15 a 19 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,17,Dengue,3.0,De 2 a 4 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,48,Dengue,7.0,De 20 a 24 anos,2
+54049,General Manuel Belgrano,54,Misiones,2019,49,Dengue,7.0,De 20 a 24 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,50,Dengue,7.0,De 20 a 24 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,16,Dengue,7.0,De 20 a 24 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,18,Dengue,7.0,De 20 a 24 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,20,Dengue,7.0,De 20 a 24 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,2,Dengue,8.0,De 25 a 34 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,41,Dengue,8.0,De 25 a 34 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,45,Dengue,8.0,De 25 a 34 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,46,Dengue,8.0,De 25 a 34 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,48,Dengue,8.0,De 25 a 34 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,49,Dengue,8.0,De 25 a 34 anos,2
+54049,General Manuel Belgrano,54,Misiones,2019,50,Dengue,8.0,De 25 a 34 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,5,Dengue,8.0,De 25 a 34 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,14,Dengue,8.0,De 25 a 34 anos,2
+54049,General Manuel Belgrano,54,Misiones,2019,15,Dengue,8.0,De 25 a 34 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,24,Dengue,8.0,De 25 a 34 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,44,Dengue,9.0,De 35 a 44 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,45,Dengue,9.0,De 35 a 44 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,50,Dengue,9.0,De 35 a 44 anos,2
+54049,General Manuel Belgrano,54,Misiones,2019,51,Dengue,9.0,De 35 a 44 anos,2
+54049,General Manuel Belgrano,54,Misiones,2019,12,Dengue,9.0,De 35 a 44 anos,2
+54049,General Manuel Belgrano,54,Misiones,2019,14,Dengue,9.0,De 35 a 44 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,20,Dengue,9.0,De 35 a 44 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,21,Dengue,10.0,De 45 a 65 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,46,Dengue,10.0,De 45 a 65 anos,2
+54049,General Manuel Belgrano,54,Misiones,2019,49,Dengue,10.0,De 45 a 65 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,50,Dengue,10.0,De 45 a 65 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,12,Dengue,10.0,De 45 a 65 anos,3
+54049,General Manuel Belgrano,54,Misiones,2019,14,Dengue,10.0,De 45 a 65 anos,2
+54049,General Manuel Belgrano,54,Misiones,2019,18,Dengue,10.0,De 45 a 65 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,20,Dengue,10.0,De 45 a 65 anos,4
+54049,General Manuel Belgrano,54,Misiones,2019,48,Dengue,4.0,De 5 a 9 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,51,Dengue,4.0,De 5 a 9 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,14,Dengue,4.0,De 5 a 9 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,18,Dengue,4.0,De 5 a 9 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,20,Dengue,4.0,De 5 a 9 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,22,Dengue,4.0,De 5 a 9 anos,1
+54049,General Manuel Belgrano,54,Misiones,2019,20,Dengue,11.0,Mayores de 65 anos,1
+54056,Guarani,54,Misiones,2019,18,Dengue,5.0,De 10 a 14 anos,1
+54056,Guarani,54,Misiones,2019,19,Dengue,5.0,De 10 a 14 anos,1
+54056,Guarani,54,Misiones,2019,16,Dengue,6.0,De 15 a 19 anos,1
+54056,Guarani,54,Misiones,2019,18,Dengue,6.0,De 15 a 19 anos,1
+54056,Guarani,54,Misiones,2019,19,Dengue,6.0,De 15 a 19 anos,5
+54056,Guarani,54,Misiones,2019,12,Dengue,7.0,De 20 a 24 anos,1
+54056,Guarani,54,Misiones,2019,18,Dengue,7.0,De 20 a 24 anos,2
+54056,Guarani,54,Misiones,2019,19,Dengue,7.0,De 20 a 24 anos,1
+54056,Guarani,54,Misiones,2019,21,Dengue,7.0,De 20 a 24 anos,1
+54056,Guarani,54,Misiones,2019,15,Dengue,8.0,De 25 a 34 anos,1
+54056,Guarani,54,Misiones,2019,16,Dengue,8.0,De 25 a 34 anos,1
+54056,Guarani,54,Misiones,2019,18,Dengue,8.0,De 25 a 34 anos,2
+54056,Guarani,54,Misiones,2019,20,Dengue,8.0,De 25 a 34 anos,1
+54056,Guarani,54,Misiones,2019,12,Dengue,10.0,De 45 a 65 anos,1
+54056,Guarani,54,Misiones,2019,16,Dengue,10.0,De 45 a 65 anos,1
+54056,Guarani,54,Misiones,2019,18,Dengue,10.0,De 45 a 65 anos,1
+54056,Guarani,54,Misiones,2019,19,Dengue,10.0,De 45 a 65 anos,3
+54056,Guarani,54,Misiones,2019,20,Dengue,10.0,De 45 a 65 anos,1
+02001,Iguazu,54,Misiones,2019,4,Dengue,8.0,De 25 a 34 anos,1
+54063,Iguazu,54,Misiones,2019,45,Dengue,5.0,De 10 a 14 anos,1
+54063,Iguazu,54,Misiones,2019,48,Dengue,5.0,De 10 a 14 anos,1
+54063,Iguazu,54,Misiones,2019,51,Dengue,5.0,De 10 a 14 anos,1
+54063,Iguazu,54,Misiones,2019,5,Dengue,5.0,De 10 a 14 anos,2
+54063,Iguazu,54,Misiones,2019,7,Dengue,5.0,De 10 a 14 anos,1
+54063,Iguazu,54,Misiones,2019,9,Dengue,5.0,De 10 a 14 anos,1
+54063,Iguazu,54,Misiones,2019,10,Dengue,5.0,De 10 a 14 anos,3
+54063,Iguazu,54,Misiones,2019,11,Dengue,5.0,De 10 a 14 anos,3
+54063,Iguazu,54,Misiones,2019,12,Dengue,5.0,De 10 a 14 anos,4
+54063,Iguazu,54,Misiones,2019,13,Dengue,5.0,De 10 a 14 anos,1
+54063,Iguazu,54,Misiones,2019,14,Dengue,5.0,De 10 a 14 anos,1
+54063,Iguazu,54,Misiones,2019,15,Dengue,5.0,De 10 a 14 anos,1
+54063,Iguazu,54,Misiones,2019,17,Dengue,5.0,De 10 a 14 anos,1
+54063,Iguazu,54,Misiones,2019,18,Dengue,5.0,De 10 a 14 anos,2
+54063,Iguazu,54,Misiones,2019,19,Dengue,5.0,De 10 a 14 anos,3
+54063,Iguazu,54,Misiones,2019,1,Dengue,6.0,De 15 a 19 anos,1
+54063,Iguazu,54,Misiones,2019,2,Dengue,6.0,De 15 a 19 anos,1
+54063,Iguazu,54,Misiones,2019,36,Dengue,6.0,De 15 a 19 anos,1
+54063,Iguazu,54,Misiones,2019,48,Dengue,6.0,De 15 a 19 anos,2
+54063,Iguazu,54,Misiones,2019,5,Dengue,6.0,De 15 a 19 anos,1
+54063,Iguazu,54,Misiones,2019,6,Dengue,6.0,De 15 a 19 anos,1
+54063,Iguazu,54,Misiones,2019,7,Dengue,6.0,De 15 a 19 anos,1
+54063,Iguazu,54,Misiones,2019,8,Dengue,6.0,De 15 a 19 anos,4
+54063,Iguazu,54,Misiones,2019,11,Dengue,6.0,De 15 a 19 anos,4
+54063,Iguazu,54,Misiones,2019,12,Dengue,6.0,De 15 a 19 anos,2
+54063,Iguazu,54,Misiones,2019,15,Dengue,6.0,De 15 a 19 anos,3
+54063,Iguazu,54,Misiones,2019,5,Dengue,3.0,De 2 a 4 anos,1
+54063,Iguazu,54,Misiones,2019,6,Dengue,3.0,De 2 a 4 anos,1
+54063,Iguazu,54,Misiones,2019,7,Dengue,3.0,De 2 a 4 anos,1
+54063,Iguazu,54,Misiones,2019,11,Dengue,3.0,De 2 a 4 anos,1
+54063,Iguazu,54,Misiones,2019,12,Dengue,3.0,De 2 a 4 anos,1
+54063,Iguazu,54,Misiones,2019,14,Dengue,3.0,De 2 a 4 anos,2
+54063,Iguazu,54,Misiones,2019,12,Dengue,7.0,De 20 a 24 anos,1
+54063,Iguazu,54,Misiones,2019,20,Dengue,7.0,De 20 a 24 anos,1
+54063,Iguazu,54,Misiones,2019,50,Dengue,7.0,De 20 a 24 anos,1
+54063,Iguazu,54,Misiones,2019,1,Dengue,7.0,De 20 a 24 anos,1
+54063,Iguazu,54,Misiones,2019,3,Dengue,7.0,De 20 a 24 anos,1
+54063,Iguazu,54,Misiones,2019,6,Dengue,7.0,De 20 a 24 anos,2
+54063,Iguazu,54,Misiones,2019,7,Dengue,7.0,De 20 a 24 anos,4
+54063,Iguazu,54,Misiones,2019,8,Dengue,7.0,De 20 a 24 anos,1
+54063,Iguazu,54,Misiones,2019,9,Dengue,7.0,De 20 a 24 anos,1
+54063,Iguazu,54,Misiones,2019,10,Dengue,7.0,De 20 a 24 anos,1
+54063,Iguazu,54,Misiones,2019,11,Dengue,7.0,De 20 a 24 anos,6
+54063,Iguazu,54,Misiones,2019,12,Dengue,7.0,De 20 a 24 anos,2
+54063,Iguazu,54,Misiones,2019,14,Dengue,7.0,De 20 a 24 anos,1
+54063,Iguazu,54,Misiones,2019,16,Dengue,7.0,De 20 a 24 anos,1
+54063,Iguazu,54,Misiones,2019,19,Dengue,7.0,De 20 a 24 anos,2
+54063,Iguazu,54,Misiones,2019,1,Dengue,8.0,De 25 a 34 anos,1
+54063,Iguazu,54,Misiones,2019,20,Dengue,8.0,De 25 a 34 anos,1
+54063,Iguazu,54,Misiones,2019,22,Dengue,8.0,De 25 a 34 anos,1
+54063,Iguazu,54,Misiones,2019,48,Dengue,8.0,De 25 a 34 anos,1
+54063,Iguazu,54,Misiones,2019,51,Dengue,8.0,De 25 a 34 anos,2
+54063,Iguazu,54,Misiones,2019,3,Dengue,8.0,De 25 a 34 anos,1
+54063,Iguazu,54,Misiones,2019,4,Dengue,8.0,De 25 a 34 anos,1
+54063,Iguazu,54,Misiones,2019,6,Dengue,8.0,De 25 a 34 anos,5
+54063,Iguazu,54,Misiones,2019,7,Dengue,8.0,De 25 a 34 anos,3
+54063,Iguazu,54,Misiones,2019,8,Dengue,8.0,De 25 a 34 anos,5
+54063,Iguazu,54,Misiones,2019,9,Dengue,8.0,De 25 a 34 anos,1
+54063,Iguazu,54,Misiones,2019,10,Dengue,8.0,De 25 a 34 anos,5
+54063,Iguazu,54,Misiones,2019,11,Dengue,8.0,De 25 a 34 anos,8
+54063,Iguazu,54,Misiones,2019,12,Dengue,8.0,De 25 a 34 anos,3
+54063,Iguazu,54,Misiones,2019,14,Dengue,8.0,De 25 a 34 anos,4
+54063,Iguazu,54,Misiones,2019,15,Dengue,8.0,De 25 a 34 anos,2
+54063,Iguazu,54,Misiones,2019,17,Dengue,8.0,De 25 a 34 anos,1
+54063,Iguazu,54,Misiones,2019,18,Dengue,8.0,De 25 a 34 anos,2
+54063,Iguazu,54,Misiones,2019,19,Dengue,8.0,De 25 a 34 anos,2
+54063,Iguazu,54,Misiones,2019,3,Dengue,9.0,De 35 a 44 anos,2
+54063,Iguazu,54,Misiones,2019,19,Dengue,9.0,De 35 a 44 anos,1
+54063,Iguazu,54,Misiones,2019,21,Dengue,9.0,De 35 a 44 anos,1
+54063,Iguazu,54,Misiones,2019,50,Dengue,9.0,De 35 a 44 anos,1
+54063,Iguazu,54,Misiones,2019,3,Dengue,9.0,De 35 a 44 anos,1
+54063,Iguazu,54,Misiones,2019,4,Dengue,9.0,De 35 a 44 anos,2
+54063,Iguazu,54,Misiones,2019,5,Dengue,9.0,De 35 a 44 anos,1
+54063,Iguazu,54,Misiones,2019,6,Dengue,9.0,De 35 a 44 anos,5
+54063,Iguazu,54,Misiones,2019,7,Dengue,9.0,De 35 a 44 anos,5
+54063,Iguazu,54,Misiones,2019,8,Dengue,9.0,De 35 a 44 anos,5
+54063,Iguazu,54,Misiones,2019,9,Dengue,9.0,De 35 a 44 anos,2
+54063,Iguazu,54,Misiones,2019,10,Dengue,9.0,De 35 a 44 anos,2
+54063,Iguazu,54,Misiones,2019,11,Dengue,9.0,De 35 a 44 anos,2
+54063,Iguazu,54,Misiones,2019,12,Dengue,9.0,De 35 a 44 anos,7
+54063,Iguazu,54,Misiones,2019,13,Dengue,9.0,De 35 a 44 anos,2
+54063,Iguazu,54,Misiones,2019,14,Dengue,9.0,De 35 a 44 anos,4
+54063,Iguazu,54,Misiones,2019,15,Dengue,9.0,De 35 a 44 anos,1
+54063,Iguazu,54,Misiones,2019,16,Dengue,9.0,De 35 a 44 anos,1
+54063,Iguazu,54,Misiones,2019,20,Dengue,9.0,De 35 a 44 anos,1
+54063,Iguazu,54,Misiones,2019,1,Dengue,10.0,De 45 a 65 anos,1
+54063,Iguazu,54,Misiones,2019,3,Dengue,10.0,De 45 a 65 anos,1
+54063,Iguazu,54,Misiones,2019,4,Dengue,10.0,De 45 a 65 anos,2
+54063,Iguazu,54,Misiones,2019,5,Dengue,10.0,De 45 a 65 anos,2
+54063,Iguazu,54,Misiones,2019,6,Dengue,10.0,De 45 a 65 anos,5
+54063,Iguazu,54,Misiones,2019,7,Dengue,10.0,De 45 a 65 anos,3
+54063,Iguazu,54,Misiones,2019,8,Dengue,10.0,De 45 a 65 anos,5
+54063,Iguazu,54,Misiones,2019,9,Dengue,10.0,De 45 a 65 anos,1
+54063,Iguazu,54,Misiones,2019,10,Dengue,10.0,De 45 a 65 anos,5
+54063,Iguazu,54,Misiones,2019,11,Dengue,10.0,De 45 a 65 anos,10
+54063,Iguazu,54,Misiones,2019,12,Dengue,10.0,De 45 a 65 anos,5
+54063,Iguazu,54,Misiones,2019,13,Dengue,10.0,De 45 a 65 anos,2
+54063,Iguazu,54,Misiones,2019,14,Dengue,10.0,De 45 a 65 anos,2
+54063,Iguazu,54,Misiones,2019,15,Dengue,10.0,De 45 a 65 anos,3
+54063,Iguazu,54,Misiones,2019,17,Dengue,10.0,De 45 a 65 anos,2
+54063,Iguazu,54,Misiones,2019,19,Dengue,10.0,De 45 a 65 anos,1
+54063,Iguazu,54,Misiones,2019,20,Dengue,10.0,De 45 a 65 anos,1
+54063,Iguazu,54,Misiones,2019,46,Dengue,4.0,De 5 a 9 anos,1
+54063,Iguazu,54,Misiones,2019,6,Dengue,4.0,De 5 a 9 anos,1
+54063,Iguazu,54,Misiones,2019,8,Dengue,4.0,De 5 a 9 anos,2
+54063,Iguazu,54,Misiones,2019,9,Dengue,4.0,De 5 a 9 anos,1
+54063,Iguazu,54,Misiones,2019,10,Dengue,4.0,De 5 a 9 anos,1
+54063,Iguazu,54,Misiones,2019,11,Dengue,4.0,De 5 a 9 anos,3
+54063,Iguazu,54,Misiones,2019,12,Dengue,4.0,De 5 a 9 anos,4
+54063,Iguazu,54,Misiones,2019,18,Dengue,4.0,De 5 a 9 anos,1
+54063,Iguazu,54,Misiones,2019,19,Dengue,4.0,De 5 a 9 anos,1
+54063,Iguazu,54,Misiones,2019,20,Dengue,4.0,De 5 a 9 anos,1
+54063,Iguazu,54,Misiones,2019,49,Dengue,11.0,Mayores de 65 anos,1
+54063,Iguazu,54,Misiones,2019,5,Dengue,11.0,Mayores de 65 anos,1
+54063,Iguazu,54,Misiones,2019,8,Dengue,11.0,Mayores de 65 anos,2
+54063,Iguazu,54,Misiones,2019,10,Dengue,11.0,Mayores de 65 anos,2
+54063,Iguazu,54,Misiones,2019,11,Dengue,11.0,Mayores de 65 anos,1
+54063,Iguazu,54,Misiones,2019,12,Dengue,11.0,Mayores de 65 anos,1
+54063,Iguazu,54,Misiones,2019,15,Dengue,11.0,Mayores de 65 anos,1
+54063,Iguazu,54,Misiones,2019,18,Dengue,1.0,Posneonato (29 hasta 365 dias),1
+54077,Libertador Grl. San Martin,54,Misiones,2019,22,Dengue,7.0,De 20 a 24 anos,1
+54077,Libertador Grl. San Martin,54,Misiones,2019,16,Dengue,10.0,De 45 a 65 anos,1
+54084,Montecarlo,54,Misiones,2019,20,Dengue,7.0,De 20 a 24 anos,1
+54084,Montecarlo,54,Misiones,2019,23,Dengue,7.0,De 20 a 24 anos,1
+54084,Montecarlo,54,Misiones,2019,14,Dengue,8.0,De 25 a 34 anos,1
+54084,Montecarlo,54,Misiones,2019,19,Dengue,9.0,De 35 a 44 anos,1
+54091,Obera,54,Misiones,2019,18,Dengue,8.0,De 25 a 34 anos,1
+54098,San Ignacio,54,Misiones,2019,21,Dengue,9.0,De 35 a 44 anos,1
+54098,San Ignacio,54,Misiones,2019,14,Dengue,11.0,Mayores de 65 anos,1
+6410,Ituzaingo,6,Buenos Aires,2019,16,Dengue,9.0,De 35 a 44 anos,1
+66007,Anta,66,Salta,2019,18,Dengue,5.0,De 10 a 14 anos,1
+66007,Anta,66,Salta,2019,19,Dengue,5.0,De 10 a 14 anos,1
+66007,Anta,66,Salta,2019,21,Dengue,5.0,De 10 a 14 anos,1
+66007,Anta,66,Salta,2019,17,Dengue,6.0,De 15 a 19 anos,1
+66007,Anta,66,Salta,2019,18,Dengue,6.0,De 15 a 19 anos,2
+66007,Anta,66,Salta,2019,19,Dengue,6.0,De 15 a 19 anos,1
+66007,Anta,66,Salta,2019,20,Dengue,6.0,De 15 a 19 anos,1
+66007,Anta,66,Salta,2019,18,Dengue,3.0,De 2 a 4 anos,2
+66007,Anta,66,Salta,2019,19,Dengue,3.0,De 2 a 4 anos,1
+66007,Anta,66,Salta,2019,17,Dengue,7.0,De 20 a 24 anos,1
+66007,Anta,66,Salta,2019,18,Dengue,7.0,De 20 a 24 anos,2
+66007,Anta,66,Salta,2019,19,Dengue,7.0,De 20 a 24 anos,2
+66007,Anta,66,Salta,2019,52,Dengue,8.0,De 25 a 34 anos,1
+66007,Anta,66,Salta,2019,16,Dengue,8.0,De 25 a 34 anos,1
+66007,Anta,66,Salta,2019,17,Dengue,8.0,De 25 a 34 anos,1
+66007,Anta,66,Salta,2019,18,Dengue,8.0,De 25 a 34 anos,1
+66007,Anta,66,Salta,2019,20,Dengue,8.0,De 25 a 34 anos,1
+66007,Anta,66,Salta,2019,15,Dengue,9.0,De 35 a 44 anos,1
+66007,Anta,66,Salta,2019,16,Dengue,9.0,De 35 a 44 anos,1
+66007,Anta,66,Salta,2019,18,Dengue,9.0,De 35 a 44 anos,1
+66007,Anta,66,Salta,2019,19,Dengue,9.0,De 35 a 44 anos,2
+66007,Anta,66,Salta,2019,20,Dengue,9.0,De 35 a 44 anos,3
+66007,Anta,66,Salta,2019,22,Dengue,9.0,De 35 a 44 anos,1
+66007,Anta,66,Salta,2019,15,Dengue,10.0,De 45 a 65 anos,1
+66007,Anta,66,Salta,2019,17,Dengue,10.0,De 45 a 65 anos,1
+66007,Anta,66,Salta,2019,18,Dengue,10.0,De 45 a 65 anos,2
+66007,Anta,66,Salta,2019,19,Dengue,10.0,De 45 a 65 anos,3
+66007,Anta,66,Salta,2019,20,Dengue,10.0,De 45 a 65 anos,1
+66007,Anta,66,Salta,2019,21,Dengue,10.0,De 45 a 65 anos,1
+66007,Anta,66,Salta,2019,22,Dengue,10.0,De 45 a 65 anos,1
+66007,Anta,66,Salta,2019,16,Dengue,4.0,De 5 a 9 anos,1
+66007,Anta,66,Salta,2019,19,Dengue,4.0,De 5 a 9 anos,1
+66007,Anta,66,Salta,2019,19,Dengue,11.0,Mayores de 65 anos,1
+66007,Anta,66,Salta,2019,20,Dengue,11.0,Mayores de 65 anos,1
+66007,Anta,66,Salta,2019,21,Dengue,11.0,Mayores de 65 anos,1
+66007,Anta,66,Salta,2019,13,Dengue,,Sin Especificar,1
+66028,Capital,66,Salta,2019,10,Dengue,5.0,De 10 a 14 anos,1
+66028,Capital,66,Salta,2019,11,Dengue,5.0,De 10 a 14 anos,1
+66028,Capital,66,Salta,2019,17,Dengue,5.0,De 10 a 14 anos,1
+66028,Capital,66,Salta,2019,18,Dengue,6.0,De 15 a 19 anos,1
+66028,Capital,66,Salta,2019,7,Dengue,6.0,De 15 a 19 anos,1
+66028,Capital,66,Salta,2019,14,Dengue,6.0,De 15 a 19 anos,1
+66028,Capital,66,Salta,2019,15,Dengue,6.0,De 15 a 19 anos,1
+66028,Capital,66,Salta,2019,17,Dengue,6.0,De 15 a 19 anos,1
+66028,Capital,66,Salta,2019,15,Dengue,3.0,De 2 a 4 anos,1
+66028,Capital,66,Salta,2019,4,Dengue,7.0,De 20 a 24 anos,1
+66028,Capital,66,Salta,2019,6,Dengue,7.0,De 20 a 24 anos,1
+66028,Capital,66,Salta,2019,20,Dengue,7.0,De 20 a 24 anos,1
+66028,Capital,66,Salta,2019,14,Dengue,8.0,De 25 a 34 anos,1
+66028,Capital,66,Salta,2019,16,Dengue,8.0,De 25 a 34 anos,1
+66028,Capital,66,Salta,2019,18,Dengue,8.0,De 25 a 34 anos,3
+66028,Capital,66,Salta,2019,19,Dengue,8.0,De 25 a 34 anos,1
+66028,Capital,66,Salta,2019,25,Dengue,8.0,De 25 a 34 anos,1
+66028,Capital,66,Salta,2019,13,Dengue,9.0,De 35 a 44 anos,1
+66028,Capital,66,Salta,2019,18,Dengue,9.0,De 35 a 44 anos,2
+66028,Capital,66,Salta,2019,19,Dengue,9.0,De 35 a 44 anos,2
+66028,Capital,66,Salta,2019,20,Dengue,9.0,De 35 a 44 anos,1
+66028,Capital,66,Salta,2019,16,Dengue,10.0,De 45 a 65 anos,1
+66028,Capital,66,Salta,2019,17,Dengue,10.0,De 45 a 65 anos,1
+66028,Capital,66,Salta,2019,18,Dengue,10.0,De 45 a 65 anos,1
+66028,Capital,66,Salta,2019,19,Dengue,10.0,De 45 a 65 anos,2
+66028,Capital,66,Salta,2019,21,Dengue,10.0,De 45 a 65 anos,2
+66028,Capital,66,Salta,2019,22,Dengue,10.0,De 45 a 65 anos,1
+66028,Capital,66,Salta,2019,11,Dengue,11.0,Mayores de 65 anos,1
+66035,Cerrillos,66,Salta,2019,18,Dengue,7.0,De 20 a 24 anos,1
+66035,Cerrillos,66,Salta,2019,20,Dengue,9.0,De 35 a 44 anos,1
+66035,Cerrillos,66,Salta,2019,26,Dengue,10.0,De 45 a 65 anos,1
+66049,General Guemes,66,Salta,2019,19,Dengue,5.0,De 10 a 14 anos,2
+66049,General Guemes,66,Salta,2019,7,Dengue,6.0,De 15 a 19 anos,1
+66049,General Guemes,66,Salta,2019,8,Dengue,6.0,De 15 a 19 anos,1
+66049,General Guemes,66,Salta,2019,2,Dengue,7.0,De 20 a 24 anos,1
+66049,General Guemes,66,Salta,2019,5,Dengue,7.0,De 20 a 24 anos,1
+66049,General Guemes,66,Salta,2019,23,Dengue,8.0,De 25 a 34 anos,1
+66049,General Guemes,66,Salta,2019,6,Dengue,9.0,De 35 a 44 anos,1
+66049,General Guemes,66,Salta,2019,7,Dengue,9.0,De 35 a 44 anos,1
+66049,General Guemes,66,Salta,2019,5,Dengue,10.0,De 45 a 65 anos,1
+66049,General Guemes,66,Salta,2019,15,Dengue,11.0,Mayores de 65 anos,1
+66049,General Guemes,66,Salta,2019,19,Dengue,11.0,Mayores de 65 anos,1
+14091,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,10.0,De 45 a 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,5,Dengue,5.0,De 10 a 14 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,6,Dengue,5.0,De 10 a 14 anos,8
+66056,Grl. Jose de San Martin,66,Salta,2019,7,Dengue,5.0,De 10 a 14 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,8,Dengue,5.0,De 10 a 14 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,10,Dengue,5.0,De 10 a 14 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,11,Dengue,5.0,De 10 a 14 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,12,Dengue,5.0,De 10 a 14 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,13,Dengue,5.0,De 10 a 14 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,14,Dengue,5.0,De 10 a 14 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,15,Dengue,5.0,De 10 a 14 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,16,Dengue,5.0,De 10 a 14 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,17,Dengue,5.0,De 10 a 14 anos,5
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,5.0,De 10 a 14 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,5.0,De 10 a 14 anos,7
+66056,Grl. Jose de San Martin,66,Salta,2019,20,Dengue,5.0,De 10 a 14 anos,6
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,5.0,De 10 a 14 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,22,Dengue,5.0,De 10 a 14 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,6,Dengue,2.0,De 13 a 24 meses,1
+66056,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,2.0,De 13 a 24 meses,1
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,2.0,De 13 a 24 meses,1
+66056,Grl. Jose de San Martin,66,Salta,2019,3,Dengue,6.0,De 15 a 19 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,4,Dengue,6.0,De 15 a 19 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,5,Dengue,6.0,De 15 a 19 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,6,Dengue,6.0,De 15 a 19 anos,9
+66056,Grl. Jose de San Martin,66,Salta,2019,7,Dengue,6.0,De 15 a 19 anos,9
+66056,Grl. Jose de San Martin,66,Salta,2019,11,Dengue,6.0,De 15 a 19 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,13,Dengue,6.0,De 15 a 19 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,14,Dengue,6.0,De 15 a 19 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,15,Dengue,6.0,De 15 a 19 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,16,Dengue,6.0,De 15 a 19 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,17,Dengue,6.0,De 15 a 19 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,6.0,De 15 a 19 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,6.0,De 15 a 19 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,20,Dengue,6.0,De 15 a 19 anos,8
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,6.0,De 15 a 19 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,23,Dengue,6.0,De 15 a 19 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,25,Dengue,6.0,De 15 a 19 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,6,Dengue,3.0,De 2 a 4 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,7,Dengue,3.0,De 2 a 4 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,3.0,De 2 a 4 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,20,Dengue,3.0,De 2 a 4 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,3.0,De 2 a 4 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,22,Dengue,3.0,De 2 a 4 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,8.0,De 25 a 34 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,22,Dengue,8.0,De 25 a 34 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,3,Dengue,7.0,De 20 a 24 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,5,Dengue,7.0,De 20 a 24 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,6,Dengue,7.0,De 20 a 24 anos,8
+66056,Grl. Jose de San Martin,66,Salta,2019,7,Dengue,7.0,De 20 a 24 anos,5
+66056,Grl. Jose de San Martin,66,Salta,2019,8,Dengue,7.0,De 20 a 24 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,11,Dengue,7.0,De 20 a 24 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,12,Dengue,7.0,De 20 a 24 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,14,Dengue,7.0,De 20 a 24 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,15,Dengue,7.0,De 20 a 24 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,16,Dengue,7.0,De 20 a 24 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,17,Dengue,7.0,De 20 a 24 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,7.0,De 20 a 24 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,7.0,De 20 a 24 anos,8
+66056,Grl. Jose de San Martin,66,Salta,2019,20,Dengue,7.0,De 20 a 24 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,7.0,De 20 a 24 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,22,Dengue,7.0,De 20 a 24 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,23,Dengue,7.0,De 20 a 24 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,24,Dengue,7.0,De 20 a 24 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,8.0,De 25 a 34 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,28,Dengue,8.0,De 25 a 34 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,4,Dengue,8.0,De 25 a 34 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,5,Dengue,8.0,De 25 a 34 anos,5
+66056,Grl. Jose de San Martin,66,Salta,2019,6,Dengue,8.0,De 25 a 34 anos,10
+66056,Grl. Jose de San Martin,66,Salta,2019,7,Dengue,8.0,De 25 a 34 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,8,Dengue,8.0,De 25 a 34 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,9,Dengue,8.0,De 25 a 34 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,10,Dengue,8.0,De 25 a 34 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,11,Dengue,8.0,De 25 a 34 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,12,Dengue,8.0,De 25 a 34 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,13,Dengue,8.0,De 25 a 34 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,14,Dengue,8.0,De 25 a 34 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,15,Dengue,8.0,De 25 a 34 anos,7
+66056,Grl. Jose de San Martin,66,Salta,2019,16,Dengue,8.0,De 25 a 34 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,17,Dengue,8.0,De 25 a 34 anos,5
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,8.0,De 25 a 34 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,8.0,De 25 a 34 anos,7
+66056,Grl. Jose de San Martin,66,Salta,2019,20,Dengue,8.0,De 25 a 34 anos,7
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,8.0,De 25 a 34 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,22,Dengue,8.0,De 25 a 34 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,23,Dengue,8.0,De 25 a 34 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,24,Dengue,8.0,De 25 a 34 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,25,Dengue,8.0,De 25 a 34 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,27,Dengue,8.0,De 25 a 34 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,27,Dengue,9.0,De 35 a 44 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,4,Dengue,9.0,De 35 a 44 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,5,Dengue,9.0,De 35 a 44 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,6,Dengue,9.0,De 35 a 44 anos,6
+66056,Grl. Jose de San Martin,66,Salta,2019,7,Dengue,9.0,De 35 a 44 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,8,Dengue,9.0,De 35 a 44 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,10,Dengue,9.0,De 35 a 44 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,11,Dengue,9.0,De 35 a 44 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,14,Dengue,9.0,De 35 a 44 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,15,Dengue,9.0,De 35 a 44 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,16,Dengue,9.0,De 35 a 44 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,17,Dengue,9.0,De 35 a 44 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,9.0,De 35 a 44 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,9.0,De 35 a 44 anos,6
+66056,Grl. Jose de San Martin,66,Salta,2019,20,Dengue,9.0,De 35 a 44 anos,6
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,9.0,De 35 a 44 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,29,Dengue,9.0,De 35 a 44 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,27,Dengue,10.0,De 45 a 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,3,Dengue,10.0,De 45 a 65 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,4,Dengue,10.0,De 45 a 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,5,Dengue,10.0,De 45 a 65 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,6,Dengue,10.0,De 45 a 65 anos,9
+66056,Grl. Jose de San Martin,66,Salta,2019,7,Dengue,10.0,De 45 a 65 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,10,Dengue,10.0,De 45 a 65 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,11,Dengue,10.0,De 45 a 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,12,Dengue,10.0,De 45 a 65 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,13,Dengue,10.0,De 45 a 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,14,Dengue,10.0,De 45 a 65 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,15,Dengue,10.0,De 45 a 65 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,16,Dengue,10.0,De 45 a 65 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,17,Dengue,10.0,De 45 a 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,10.0,De 45 a 65 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,10.0,De 45 a 65 anos,9
+66056,Grl. Jose de San Martin,66,Salta,2019,20,Dengue,10.0,De 45 a 65 anos,9
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,10.0,De 45 a 65 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,23,Dengue,10.0,De 45 a 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,25,Dengue,10.0,De 45 a 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,6,Dengue,4.0,De 5 a 9 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,10,Dengue,4.0,De 5 a 9 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,12,Dengue,4.0,De 5 a 9 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,13,Dengue,4.0,De 5 a 9 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,14,Dengue,4.0,De 5 a 9 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,15,Dengue,4.0,De 5 a 9 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,16,Dengue,4.0,De 5 a 9 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,17,Dengue,4.0,De 5 a 9 anos,5
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,4.0,De 5 a 9 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,4.0,De 5 a 9 anos,8
+66056,Grl. Jose de San Martin,66,Salta,2019,20,Dengue,4.0,De 5 a 9 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,4.0,De 5 a 9 anos,4
+66056,Grl. Jose de San Martin,66,Salta,2019,23,Dengue,4.0,De 5 a 9 anos,3
+66056,Grl. Jose de San Martin,66,Salta,2019,52,Dengue,11.0,Mayores de 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,6,Dengue,11.0,Mayores de 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,12,Dengue,11.0,Mayores de 65 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,16,Dengue,11.0,Mayores de 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,17,Dengue,11.0,Mayores de 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,11.0,Mayores de 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,11.0,Mayores de 65 anos,1
+66056,Grl. Jose de San Martin,66,Salta,2019,20,Dengue,11.0,Mayores de 65 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,21,Dengue,11.0,Mayores de 65 anos,2
+66056,Grl. Jose de San Martin,66,Salta,2019,18,Dengue,1.0,Posneonato (29 hasta 365 dias),1
+66056,Grl. Jose de San Martin,66,Salta,2019,19,Dengue,1.0,Posneonato (29 hasta 365 dias),2
+66070,Iruya,66,Salta,2019,12,Dengue,10.0,De 45 a 65 anos,1
+66070,Iruya,66,Salta,2019,10,Dengue,11.0,Mayores de 65 anos,1
+66077,La Caldera,66,Salta,2019,20,Dengue,10.0,De 45 a 65 anos,1
+66112,Metan,66,Salta,2019,19,Dengue,7.0,De 20 a 24 anos,1
+66126,Oran,66,Salta,2019,14,Dengue,5.0,De 10 a 14 anos,2
+66126,Oran,66,Salta,2019,7,Dengue,5.0,De 10 a 14 anos,1
+66126,Oran,66,Salta,2019,9,Dengue,5.0,De 10 a 14 anos,1
+66126,Oran,66,Salta,2019,10,Dengue,5.0,De 10 a 14 anos,3
+66126,Oran,66,Salta,2019,11,Dengue,5.0,De 10 a 14 anos,3
+66126,Oran,66,Salta,2019,12,Dengue,5.0,De 10 a 14 anos,6
+66126,Oran,66,Salta,2019,13,Dengue,5.0,De 10 a 14 anos,4
+66126,Oran,66,Salta,2019,15,Dengue,5.0,De 10 a 14 anos,2
+66126,Oran,66,Salta,2019,16,Dengue,5.0,De 10 a 14 anos,1
+66126,Oran,66,Salta,2019,17,Dengue,5.0,De 10 a 14 anos,1
+66126,Oran,66,Salta,2019,19,Dengue,2.0,De 13 a 24 meses,1
+66126,Oran,66,Salta,2019,14,Dengue,6.0,De 15 a 19 anos,2
+66126,Oran,66,Salta,2019,4,Dengue,6.0,De 15 a 19 anos,1
+66126,Oran,66,Salta,2019,5,Dengue,6.0,De 15 a 19 anos,3
+66126,Oran,66,Salta,2019,6,Dengue,6.0,De 15 a 19 anos,1
+66126,Oran,66,Salta,2019,7,Dengue,6.0,De 15 a 19 anos,1
+66126,Oran,66,Salta,2019,9,Dengue,6.0,De 15 a 19 anos,2
+66126,Oran,66,Salta,2019,10,Dengue,6.0,De 15 a 19 anos,2
+66126,Oran,66,Salta,2019,11,Dengue,6.0,De 15 a 19 anos,10
+66126,Oran,66,Salta,2019,12,Dengue,6.0,De 15 a 19 anos,6
+66126,Oran,66,Salta,2019,13,Dengue,6.0,De 15 a 19 anos,5
+66126,Oran,66,Salta,2019,14,Dengue,6.0,De 15 a 19 anos,2
+66126,Oran,66,Salta,2019,18,Dengue,6.0,De 15 a 19 anos,2
+66126,Oran,66,Salta,2019,19,Dengue,6.0,De 15 a 19 anos,2
+66126,Oran,66,Salta,2019,24,Dengue,6.0,De 15 a 19 anos,1
+66126,Oran,66,Salta,2019,30,Dengue,6.0,De 15 a 19 anos,1
+66126,Oran,66,Salta,2019,6,Dengue,3.0,De 2 a 4 anos,1
+66126,Oran,66,Salta,2019,10,Dengue,3.0,De 2 a 4 anos,1
+66126,Oran,66,Salta,2019,13,Dengue,3.0,De 2 a 4 anos,1
+66126,Oran,66,Salta,2019,3,Dengue,7.0,De 20 a 24 anos,1
+66126,Oran,66,Salta,2019,4,Dengue,7.0,De 20 a 24 anos,1
+66126,Oran,66,Salta,2019,5,Dengue,7.0,De 20 a 24 anos,2
+66126,Oran,66,Salta,2019,8,Dengue,7.0,De 20 a 24 anos,1
+66126,Oran,66,Salta,2019,9,Dengue,7.0,De 20 a 24 anos,1
+66126,Oran,66,Salta,2019,10,Dengue,7.0,De 20 a 24 anos,1
+66126,Oran,66,Salta,2019,11,Dengue,7.0,De 20 a 24 anos,3
+66126,Oran,66,Salta,2019,12,Dengue,7.0,De 20 a 24 anos,3
+66126,Oran,66,Salta,2019,13,Dengue,7.0,De 20 a 24 anos,4
+66126,Oran,66,Salta,2019,14,Dengue,7.0,De 20 a 24 anos,1
+66126,Oran,66,Salta,2019,19,Dengue,7.0,De 20 a 24 anos,1
+66126,Oran,66,Salta,2019,15,Dengue,8.0,De 25 a 34 anos,1
+66126,Oran,66,Salta,2019,5,Dengue,8.0,De 25 a 34 anos,1
+66126,Oran,66,Salta,2019,6,Dengue,8.0,De 25 a 34 anos,2
+66126,Oran,66,Salta,2019,7,Dengue,8.0,De 25 a 34 anos,1
+66126,Oran,66,Salta,2019,8,Dengue,8.0,De 25 a 34 anos,1
+66126,Oran,66,Salta,2019,10,Dengue,8.0,De 25 a 34 anos,8
+66126,Oran,66,Salta,2019,11,Dengue,8.0,De 25 a 34 anos,10
+66126,Oran,66,Salta,2019,12,Dengue,8.0,De 25 a 34 anos,6
+66126,Oran,66,Salta,2019,13,Dengue,8.0,De 25 a 34 anos,7
+66126,Oran,66,Salta,2019,14,Dengue,8.0,De 25 a 34 anos,3
+66126,Oran,66,Salta,2019,15,Dengue,8.0,De 25 a 34 anos,2
+66126,Oran,66,Salta,2019,17,Dengue,8.0,De 25 a 34 anos,1
+66126,Oran,66,Salta,2019,19,Dengue,8.0,De 25 a 34 anos,2
+66126,Oran,66,Salta,2019,20,Dengue,8.0,De 25 a 34 anos,1
+66126,Oran,66,Salta,2019,23,Dengue,8.0,De 25 a 34 anos,1
+66126,Oran,66,Salta,2019,26,Dengue,8.0,De 25 a 34 anos,1
+66126,Oran,66,Salta,2019,14,Dengue,9.0,De 35 a 44 anos,2
+66126,Oran,66,Salta,2019,15,Dengue,9.0,De 35 a 44 anos,1
+66126,Oran,66,Salta,2019,21,Dengue,9.0,De 35 a 44 anos,1
+66126,Oran,66,Salta,2019,3,Dengue,9.0,De 35 a 44 anos,1
+66126,Oran,66,Salta,2019,5,Dengue,9.0,De 35 a 44 anos,1
+66126,Oran,66,Salta,2019,6,Dengue,9.0,De 35 a 44 anos,2
+66126,Oran,66,Salta,2019,7,Dengue,9.0,De 35 a 44 anos,2
+66126,Oran,66,Salta,2019,8,Dengue,9.0,De 35 a 44 anos,4
+66126,Oran,66,Salta,2019,9,Dengue,9.0,De 35 a 44 anos,3
+66126,Oran,66,Salta,2019,10,Dengue,9.0,De 35 a 44 anos,4
+66126,Oran,66,Salta,2019,11,Dengue,9.0,De 35 a 44 anos,8
+66126,Oran,66,Salta,2019,12,Dengue,9.0,De 35 a 44 anos,5
+66126,Oran,66,Salta,2019,13,Dengue,9.0,De 35 a 44 anos,6
+66126,Oran,66,Salta,2019,14,Dengue,9.0,De 35 a 44 anos,2
+66126,Oran,66,Salta,2019,18,Dengue,9.0,De 35 a 44 anos,1
+66126,Oran,66,Salta,2019,21,Dengue,9.0,De 35 a 44 anos,2
+66126,Oran,66,Salta,2019,25,Dengue,9.0,De 35 a 44 anos,1
+66126,Oran,66,Salta,2019,13,Dengue,10.0,De 45 a 65 anos,2
+66126,Oran,66,Salta,2019,14,Dengue,10.0,De 45 a 65 anos,6
+66126,Oran,66,Salta,2019,15,Dengue,10.0,De 45 a 65 anos,1
+66126,Oran,66,Salta,2019,4,Dengue,10.0,De 45 a 65 anos,3
+66126,Oran,66,Salta,2019,5,Dengue,10.0,De 45 a 65 anos,2
+66126,Oran,66,Salta,2019,6,Dengue,10.0,De 45 a 65 anos,4
+66126,Oran,66,Salta,2019,7,Dengue,10.0,De 45 a 65 anos,1
+66126,Oran,66,Salta,2019,8,Dengue,10.0,De 45 a 65 anos,3
+66126,Oran,66,Salta,2019,9,Dengue,10.0,De 45 a 65 anos,3
+66126,Oran,66,Salta,2019,10,Dengue,10.0,De 45 a 65 anos,9
+66126,Oran,66,Salta,2019,11,Dengue,10.0,De 45 a 65 anos,8
+66126,Oran,66,Salta,2019,12,Dengue,10.0,De 45 a 65 anos,8
+66126,Oran,66,Salta,2019,13,Dengue,10.0,De 45 a 65 anos,11
+66126,Oran,66,Salta,2019,14,Dengue,10.0,De 45 a 65 anos,8
+66126,Oran,66,Salta,2019,15,Dengue,10.0,De 45 a 65 anos,1
+66126,Oran,66,Salta,2019,16,Dengue,10.0,De 45 a 65 anos,2
+66126,Oran,66,Salta,2019,17,Dengue,10.0,De 45 a 65 anos,2
+66126,Oran,66,Salta,2019,18,Dengue,10.0,De 45 a 65 anos,1
+66126,Oran,66,Salta,2019,20,Dengue,10.0,De 45 a 65 anos,2
+66126,Oran,66,Salta,2019,21,Dengue,10.0,De 45 a 65 anos,1
+66126,Oran,66,Salta,2019,23,Dengue,10.0,De 45 a 65 anos,1
+66126,Oran,66,Salta,2019,30,Dengue,10.0,De 45 a 65 anos,1
+66126,Oran,66,Salta,2019,15,Dengue,4.0,De 5 a 9 anos,1
+66126,Oran,66,Salta,2019,13,Dengue,4.0,De 5 a 9 anos,4
+66126,Oran,66,Salta,2019,19,Dengue,4.0,De 5 a 9 anos,1
+66126,Oran,66,Salta,2019,14,Dengue,11.0,Mayores de 65 anos,1
+66126,Oran,66,Salta,2019,15,Dengue,11.0,Mayores de 65 anos,1
+66126,Oran,66,Salta,2019,5,Dengue,11.0,Mayores de 65 anos,1
+66126,Oran,66,Salta,2019,6,Dengue,11.0,Mayores de 65 anos,1
+66126,Oran,66,Salta,2019,9,Dengue,11.0,Mayores de 65 anos,2
+66126,Oran,66,Salta,2019,10,Dengue,11.0,Mayores de 65 anos,8
+66126,Oran,66,Salta,2019,11,Dengue,11.0,Mayores de 65 anos,2
+66126,Oran,66,Salta,2019,12,Dengue,11.0,Mayores de 65 anos,4
+66126,Oran,66,Salta,2019,13,Dengue,11.0,Mayores de 65 anos,2
+66126,Oran,66,Salta,2019,14,Dengue,11.0,Mayores de 65 anos,3
+66126,Oran,66,Salta,2019,22,Dengue,11.0,Mayores de 65 anos,1
+66126,Oran,66,Salta,2019,11,Dengue,1.0,Posneonato (29 hasta 365 dias),1
+66133,Rivadavia,66,Salta,2019,2,Dengue,5.0,De 10 a 14 anos,1
+66133,Rivadavia,66,Salta,2019,5,Dengue,5.0,De 10 a 14 anos,1
+66133,Rivadavia,66,Salta,2019,6,Dengue,5.0,De 10 a 14 anos,1
+66133,Rivadavia,66,Salta,2019,10,Dengue,5.0,De 10 a 14 anos,2
+66133,Rivadavia,66,Salta,2019,11,Dengue,5.0,De 10 a 14 anos,2
+66133,Rivadavia,66,Salta,2019,12,Dengue,5.0,De 10 a 14 anos,1
+66133,Rivadavia,66,Salta,2019,16,Dengue,5.0,De 10 a 14 anos,2
+66133,Rivadavia,66,Salta,2019,18,Dengue,5.0,De 10 a 14 anos,1
+66133,Rivadavia,66,Salta,2019,19,Dengue,5.0,De 10 a 14 anos,1
+66133,Rivadavia,66,Salta,2019,20,Dengue,5.0,De 10 a 14 anos,1
+66133,Rivadavia,66,Salta,2019,21,Dengue,5.0,De 10 a 14 anos,2
+66133,Rivadavia,66,Salta,2019,5,Dengue,6.0,De 15 a 19 anos,4
+66133,Rivadavia,66,Salta,2019,6,Dengue,6.0,De 15 a 19 anos,1
+66133,Rivadavia,66,Salta,2019,8,Dengue,6.0,De 15 a 19 anos,1
+66133,Rivadavia,66,Salta,2019,9,Dengue,6.0,De 15 a 19 anos,2
+66133,Rivadavia,66,Salta,2019,10,Dengue,6.0,De 15 a 19 anos,3
+66133,Rivadavia,66,Salta,2019,12,Dengue,6.0,De 15 a 19 anos,2
+66133,Rivadavia,66,Salta,2019,17,Dengue,6.0,De 15 a 19 anos,1
+66133,Rivadavia,66,Salta,2019,19,Dengue,6.0,De 15 a 19 anos,2
+66133,Rivadavia,66,Salta,2019,20,Dengue,6.0,De 15 a 19 anos,2
+66133,Rivadavia,66,Salta,2019,6,Dengue,3.0,De 2 a 4 anos,1
+66133,Rivadavia,66,Salta,2019,14,Dengue,3.0,De 2 a 4 anos,1
+66133,Rivadavia,66,Salta,2019,17,Dengue,3.0,De 2 a 4 anos,1
+66133,Rivadavia,66,Salta,2019,5,Dengue,7.0,De 20 a 24 anos,4
+66133,Rivadavia,66,Salta,2019,6,Dengue,7.0,De 20 a 24 anos,1
+66133,Rivadavia,66,Salta,2019,11,Dengue,7.0,De 20 a 24 anos,1
+66133,Rivadavia,66,Salta,2019,14,Dengue,7.0,De 20 a 24 anos,1
+66133,Rivadavia,66,Salta,2019,15,Dengue,7.0,De 20 a 24 anos,1
+66133,Rivadavia,66,Salta,2019,16,Dengue,7.0,De 20 a 24 anos,1
+66133,Rivadavia,66,Salta,2019,17,Dengue,7.0,De 20 a 24 anos,1
+66133,Rivadavia,66,Salta,2019,18,Dengue,7.0,De 20 a 24 anos,3
+66133,Rivadavia,66,Salta,2019,19,Dengue,7.0,De 20 a 24 anos,3
+66133,Rivadavia,66,Salta,2019,20,Dengue,7.0,De 20 a 24 anos,5
+66133,Rivadavia,66,Salta,2019,21,Dengue,7.0,De 20 a 24 anos,2
+66133,Rivadavia,66,Salta,2019,5,Dengue,8.0,De 25 a 34 anos,1
+66133,Rivadavia,66,Salta,2019,6,Dengue,8.0,De 25 a 34 anos,2
+66133,Rivadavia,66,Salta,2019,10,Dengue,8.0,De 25 a 34 anos,2
+66133,Rivadavia,66,Salta,2019,11,Dengue,8.0,De 25 a 34 anos,5
+66133,Rivadavia,66,Salta,2019,12,Dengue,8.0,De 25 a 34 anos,1
+66133,Rivadavia,66,Salta,2019,14,Dengue,8.0,De 25 a 34 anos,1
+66133,Rivadavia,66,Salta,2019,15,Dengue,8.0,De 25 a 34 anos,2
+66133,Rivadavia,66,Salta,2019,16,Dengue,8.0,De 25 a 34 anos,1
+66133,Rivadavia,66,Salta,2019,17,Dengue,8.0,De 25 a 34 anos,2
+66133,Rivadavia,66,Salta,2019,18,Dengue,8.0,De 25 a 34 anos,2
+66133,Rivadavia,66,Salta,2019,19,Dengue,8.0,De 25 a 34 anos,1
+66133,Rivadavia,66,Salta,2019,20,Dengue,8.0,De 25 a 34 anos,3
+66133,Rivadavia,66,Salta,2019,21,Dengue,8.0,De 25 a 34 anos,1
+66133,Rivadavia,66,Salta,2019,26,Dengue,8.0,De 25 a 34 anos,1
+66133,Rivadavia,66,Salta,2019,27,Dengue,8.0,De 25 a 34 anos,1
+66133,Rivadavia,66,Salta,2019,5,Dengue,9.0,De 35 a 44 anos,1
+66133,Rivadavia,66,Salta,2019,6,Dengue,9.0,De 35 a 44 anos,2
+66133,Rivadavia,66,Salta,2019,8,Dengue,9.0,De 35 a 44 anos,1
+66133,Rivadavia,66,Salta,2019,9,Dengue,9.0,De 35 a 44 anos,1
+66133,Rivadavia,66,Salta,2019,10,Dengue,9.0,De 35 a 44 anos,1
+66133,Rivadavia,66,Salta,2019,11,Dengue,9.0,De 35 a 44 anos,1
+66133,Rivadavia,66,Salta,2019,12,Dengue,9.0,De 35 a 44 anos,1
+66133,Rivadavia,66,Salta,2019,14,Dengue,9.0,De 35 a 44 anos,1
+66133,Rivadavia,66,Salta,2019,16,Dengue,9.0,De 35 a 44 anos,2
+66133,Rivadavia,66,Salta,2019,17,Dengue,9.0,De 35 a 44 anos,2
+66133,Rivadavia,66,Salta,2019,19,Dengue,9.0,De 35 a 44 anos,1
+66133,Rivadavia,66,Salta,2019,20,Dengue,9.0,De 35 a 44 anos,1
+66133,Rivadavia,66,Salta,2019,15,Dengue,10.0,De 45 a 65 anos,2
+66133,Rivadavia,66,Salta,2019,21,Dengue,10.0,De 45 a 65 anos,1
+66133,Rivadavia,66,Salta,2019,5,Dengue,10.0,De 45 a 65 anos,2
+66133,Rivadavia,66,Salta,2019,6,Dengue,10.0,De 45 a 65 anos,2
+66133,Rivadavia,66,Salta,2019,9,Dengue,10.0,De 45 a 65 anos,3
+66133,Rivadavia,66,Salta,2019,10,Dengue,10.0,De 45 a 65 anos,3
+66133,Rivadavia,66,Salta,2019,13,Dengue,10.0,De 45 a 65 anos,1
+66133,Rivadavia,66,Salta,2019,14,Dengue,10.0,De 45 a 65 anos,2
+66133,Rivadavia,66,Salta,2019,16,Dengue,10.0,De 45 a 65 anos,1
+66133,Rivadavia,66,Salta,2019,17,Dengue,10.0,De 45 a 65 anos,2
+66133,Rivadavia,66,Salta,2019,18,Dengue,10.0,De 45 a 65 anos,2
+66133,Rivadavia,66,Salta,2019,20,Dengue,10.0,De 45 a 65 anos,2
+66133,Rivadavia,66,Salta,2019,25,Dengue,10.0,De 45 a 65 anos,1
+66133,Rivadavia,66,Salta,2019,4,Dengue,4.0,De 5 a 9 anos,1
+66133,Rivadavia,66,Salta,2019,5,Dengue,4.0,De 5 a 9 anos,4
+66133,Rivadavia,66,Salta,2019,6,Dengue,4.0,De 5 a 9 anos,3
+66133,Rivadavia,66,Salta,2019,14,Dengue,4.0,De 5 a 9 anos,1
+66133,Rivadavia,66,Salta,2019,15,Dengue,4.0,De 5 a 9 anos,1
+66133,Rivadavia,66,Salta,2019,6,Dengue,11.0,Mayores de 65 anos,1
+66133,Rivadavia,66,Salta,2019,7,Dengue,11.0,Mayores de 65 anos,1
+66133,Rivadavia,66,Salta,2019,10,Dengue,11.0,Mayores de 65 anos,1
+66133,Rivadavia,66,Salta,2019,11,Dengue,11.0,Mayores de 65 anos,1
+66133,Rivadavia,66,Salta,2019,14,Dengue,11.0,Mayores de 65 anos,1
+66133,Rivadavia,66,Salta,2019,20,Dengue,11.0,Mayores de 65 anos,1
+66147,Rosario de Lerma,66,Salta,2019,20,Dengue,7.0,De 20 a 24 anos,1
+66147,Rosario de Lerma,66,Salta,2019,17,Dengue,8.0,De 25 a 34 anos,1
+06760,San Miguel,66,Salta,2019,9,Dengue,4.0,De 5 a 9 anos,1
+66161,Santa Victoria,66,Salta,2019,6,Dengue,8.0,De 25 a 34 anos,1
+66161,Santa Victoria,66,Salta,2019,11,Dengue,10.0,De 45 a 65 anos,1
+50119,Tunuyan,66,Salta,2019,6,Dengue,7.0,De 20 a 24 anos,1
+(en blanco),(en blanco),66,Salta,2019,19,Dengue,5.0,De 10 a 14 anos,1
+82077,9 de Julio,82,Santa Fe,2019,9,Dengue,5.0,De 10 a 14 anos,1
+82077,9 de Julio,82,Santa Fe,2019,14,Dengue,9.0,De 35 a 44 anos,1
+82077,9 de Julio,82,Santa Fe,2019,19,Dengue,10.0,De 45 a 65 anos,1
+82014,Caseros,82,Santa Fe,2019,15,Dengue,9.0,De 35 a 44 anos,1
+82021,Castellanos,82,Santa Fe,2019,4,Dengue,10.0,De 45 a 65 anos,1
+82035,Garay,82,Santa Fe,2019,14,Dengue,9.0,De 35 a 44 anos,1
+82035,Garay,82,Santa Fe,2019,15,Dengue,9.0,De 35 a 44 anos,1
+82035,Garay,82,Santa Fe,2019,1,Dengue,10.0,De 45 a 65 anos,1
+82035,Garay,82,Santa Fe,2019,13,Dengue,10.0,De 45 a 65 anos,1
+82035,Garay,82,Santa Fe,2019,14,Dengue,10.0,De 45 a 65 anos,1
+82049,General Obligado,82,Santa Fe,2019,9,Dengue,7.0,De 20 a 24 anos,1
+82049,General Obligado,82,Santa Fe,2019,23,Dengue,7.0,De 20 a 24 anos,1
+82049,General Obligado,82,Santa Fe,2019,6,Dengue,9.0,De 35 a 44 anos,1
+82049,General Obligado,82,Santa Fe,2019,20,Dengue,10.0,De 45 a 65 anos,2
+82049,General Obligado,82,Santa Fe,2019,17,Dengue,11.0,Mayores de 65 anos,1
+82063,La Capital,82,Santa Fe,2019,6,Dengue,5.0,De 10 a 14 anos,2
+82063,La Capital,82,Santa Fe,2019,7,Dengue,5.0,De 10 a 14 anos,1
+82063,La Capital,82,Santa Fe,2019,8,Dengue,5.0,De 10 a 14 anos,1
+82063,La Capital,82,Santa Fe,2019,9,Dengue,5.0,De 10 a 14 anos,1
+82063,La Capital,82,Santa Fe,2019,10,Dengue,5.0,De 10 a 14 anos,2
+82063,La Capital,82,Santa Fe,2019,11,Dengue,5.0,De 10 a 14 anos,3
+82063,La Capital,82,Santa Fe,2019,12,Dengue,5.0,De 10 a 14 anos,2
+82063,La Capital,82,Santa Fe,2019,15,Dengue,5.0,De 10 a 14 anos,2
+82063,La Capital,82,Santa Fe,2019,16,Dengue,5.0,De 10 a 14 anos,1
+82063,La Capital,82,Santa Fe,2019,17,Dengue,5.0,De 10 a 14 anos,1
+82063,La Capital,82,Santa Fe,2019,19,Dengue,5.0,De 10 a 14 anos,1
+82063,La Capital,82,Santa Fe,2019,20,Dengue,5.0,De 10 a 14 anos,1
+82063,La Capital,82,Santa Fe,2019,21,Dengue,5.0,De 10 a 14 anos,1
+82063,La Capital,82,Santa Fe,2019,22,Dengue,5.0,De 10 a 14 anos,1
+82063,La Capital,82,Santa Fe,2019,3,Dengue,6.0,De 15 a 19 anos,1
+82063,La Capital,82,Santa Fe,2019,5,Dengue,6.0,De 15 a 19 anos,1
+82063,La Capital,82,Santa Fe,2019,6,Dengue,6.0,De 15 a 19 anos,1
+82063,La Capital,82,Santa Fe,2019,8,Dengue,6.0,De 15 a 19 anos,2
+82063,La Capital,82,Santa Fe,2019,9,Dengue,6.0,De 15 a 19 anos,1
+82063,La Capital,82,Santa Fe,2019,10,Dengue,6.0,De 15 a 19 anos,1
+82063,La Capital,82,Santa Fe,2019,11,Dengue,6.0,De 15 a 19 anos,5
+82063,La Capital,82,Santa Fe,2019,12,Dengue,6.0,De 15 a 19 anos,1
+82063,La Capital,82,Santa Fe,2019,13,Dengue,6.0,De 15 a 19 anos,6
+82063,La Capital,82,Santa Fe,2019,14,Dengue,6.0,De 15 a 19 anos,3
+82063,La Capital,82,Santa Fe,2019,15,Dengue,6.0,De 15 a 19 anos,2
+82063,La Capital,82,Santa Fe,2019,16,Dengue,6.0,De 15 a 19 anos,3
+82063,La Capital,82,Santa Fe,2019,17,Dengue,6.0,De 15 a 19 anos,2
+82063,La Capital,82,Santa Fe,2019,19,Dengue,6.0,De 15 a 19 anos,2
+82063,La Capital,82,Santa Fe,2019,20,Dengue,6.0,De 15 a 19 anos,1
+82063,La Capital,82,Santa Fe,2019,24,Dengue,6.0,De 15 a 19 anos,1
+82063,La Capital,82,Santa Fe,2019,12,Dengue,3.0,De 2 a 4 anos,1
+82063,La Capital,82,Santa Fe,2019,14,Dengue,3.0,De 2 a 4 anos,1
+82063,La Capital,82,Santa Fe,2019,15,Dengue,3.0,De 2 a 4 anos,1
+82063,La Capital,82,Santa Fe,2019,15,Dengue,7.0,De 20 a 24 anos,1
+82063,La Capital,82,Santa Fe,2019,5,Dengue,7.0,De 20 a 24 anos,2
+82063,La Capital,82,Santa Fe,2019,7,Dengue,7.0,De 20 a 24 anos,2
+82063,La Capital,82,Santa Fe,2019,8,Dengue,7.0,De 20 a 24 anos,3
+82063,La Capital,82,Santa Fe,2019,11,Dengue,7.0,De 20 a 24 anos,2
+82063,La Capital,82,Santa Fe,2019,12,Dengue,7.0,De 20 a 24 anos,5
+82063,La Capital,82,Santa Fe,2019,13,Dengue,7.0,De 20 a 24 anos,4
+82063,La Capital,82,Santa Fe,2019,14,Dengue,7.0,De 20 a 24 anos,6
+82063,La Capital,82,Santa Fe,2019,15,Dengue,7.0,De 20 a 24 anos,5
+82063,La Capital,82,Santa Fe,2019,16,Dengue,7.0,De 20 a 24 anos,8
+82063,La Capital,82,Santa Fe,2019,18,Dengue,7.0,De 20 a 24 anos,2
+82063,La Capital,82,Santa Fe,2019,20,Dengue,7.0,De 20 a 24 anos,5
+82063,La Capital,82,Santa Fe,2019,21,Dengue,7.0,De 20 a 24 anos,2
+82063,La Capital,82,Santa Fe,2019,2,Dengue,8.0,De 25 a 34 anos,1
+82063,La Capital,82,Santa Fe,2019,2,Dengue,8.0,De 25 a 34 anos,2
+82063,La Capital,82,Santa Fe,2019,4,Dengue,8.0,De 25 a 34 anos,1
+82063,La Capital,82,Santa Fe,2019,5,Dengue,8.0,De 25 a 34 anos,1
+82063,La Capital,82,Santa Fe,2019,6,Dengue,8.0,De 25 a 34 anos,2
+82063,La Capital,82,Santa Fe,2019,7,Dengue,8.0,De 25 a 34 anos,2
+82063,La Capital,82,Santa Fe,2019,8,Dengue,8.0,De 25 a 34 anos,1
+82063,La Capital,82,Santa Fe,2019,9,Dengue,8.0,De 25 a 34 anos,4
+82063,La Capital,82,Santa Fe,2019,10,Dengue,8.0,De 25 a 34 anos,3
+82063,La Capital,82,Santa Fe,2019,11,Dengue,8.0,De 25 a 34 anos,8
+82063,La Capital,82,Santa Fe,2019,12,Dengue,8.0,De 25 a 34 anos,2
+82063,La Capital,82,Santa Fe,2019,13,Dengue,8.0,De 25 a 34 anos,4
+82063,La Capital,82,Santa Fe,2019,14,Dengue,8.0,De 25 a 34 anos,6
+82063,La Capital,82,Santa Fe,2019,15,Dengue,8.0,De 25 a 34 anos,5
+82063,La Capital,82,Santa Fe,2019,16,Dengue,8.0,De 25 a 34 anos,8
+82063,La Capital,82,Santa Fe,2019,17,Dengue,8.0,De 25 a 34 anos,2
+82063,La Capital,82,Santa Fe,2019,18,Dengue,8.0,De 25 a 34 anos,2
+82063,La Capital,82,Santa Fe,2019,19,Dengue,8.0,De 25 a 34 anos,4
+82063,La Capital,82,Santa Fe,2019,20,Dengue,8.0,De 25 a 34 anos,1
+82063,La Capital,82,Santa Fe,2019,21,Dengue,8.0,De 25 a 34 anos,1
+82063,La Capital,82,Santa Fe,2019,22,Dengue,8.0,De 25 a 34 anos,1
+82063,La Capital,82,Santa Fe,2019,23,Dengue,8.0,De 25 a 34 anos,1
+82063,La Capital,82,Santa Fe,2019,4,Dengue,9.0,De 35 a 44 anos,2
+82063,La Capital,82,Santa Fe,2019,5,Dengue,9.0,De 35 a 44 anos,1
+82063,La Capital,82,Santa Fe,2019,6,Dengue,9.0,De 35 a 44 anos,2
+82063,La Capital,82,Santa Fe,2019,7,Dengue,9.0,De 35 a 44 anos,1
+82063,La Capital,82,Santa Fe,2019,8,Dengue,9.0,De 35 a 44 anos,6
+82063,La Capital,82,Santa Fe,2019,9,Dengue,9.0,De 35 a 44 anos,1
+82063,La Capital,82,Santa Fe,2019,10,Dengue,9.0,De 35 a 44 anos,4
+82063,La Capital,82,Santa Fe,2019,11,Dengue,9.0,De 35 a 44 anos,2
+82063,La Capital,82,Santa Fe,2019,12,Dengue,9.0,De 35 a 44 anos,1
+82063,La Capital,82,Santa Fe,2019,13,Dengue,9.0,De 35 a 44 anos,6
+82063,La Capital,82,Santa Fe,2019,14,Dengue,9.0,De 35 a 44 anos,7
+82063,La Capital,82,Santa Fe,2019,15,Dengue,9.0,De 35 a 44 anos,9
+82063,La Capital,82,Santa Fe,2019,16,Dengue,9.0,De 35 a 44 anos,7
+82063,La Capital,82,Santa Fe,2019,17,Dengue,9.0,De 35 a 44 anos,2
+82063,La Capital,82,Santa Fe,2019,18,Dengue,9.0,De 35 a 44 anos,3
+82063,La Capital,82,Santa Fe,2019,19,Dengue,9.0,De 35 a 44 anos,1
+82063,La Capital,82,Santa Fe,2019,20,Dengue,9.0,De 35 a 44 anos,1
+82063,La Capital,82,Santa Fe,2019,21,Dengue,9.0,De 35 a 44 anos,1
+82063,La Capital,82,Santa Fe,2019,7,Dengue,10.0,De 45 a 65 anos,1
+82063,La Capital,82,Santa Fe,2019,3,Dengue,10.0,De 45 a 65 anos,1
+82063,La Capital,82,Santa Fe,2019,4,Dengue,10.0,De 45 a 65 anos,2
+82063,La Capital,82,Santa Fe,2019,5,Dengue,10.0,De 45 a 65 anos,3
+82063,La Capital,82,Santa Fe,2019,6,Dengue,10.0,De 45 a 65 anos,2
+82063,La Capital,82,Santa Fe,2019,7,Dengue,10.0,De 45 a 65 anos,4
+82063,La Capital,82,Santa Fe,2019,8,Dengue,10.0,De 45 a 65 anos,4
+82063,La Capital,82,Santa Fe,2019,9,Dengue,10.0,De 45 a 65 anos,4
+82063,La Capital,82,Santa Fe,2019,10,Dengue,10.0,De 45 a 65 anos,9
+82063,La Capital,82,Santa Fe,2019,11,Dengue,10.0,De 45 a 65 anos,3
+82063,La Capital,82,Santa Fe,2019,12,Dengue,10.0,De 45 a 65 anos,1
+82063,La Capital,82,Santa Fe,2019,13,Dengue,10.0,De 45 a 65 anos,9
+82063,La Capital,82,Santa Fe,2019,14,Dengue,10.0,De 45 a 65 anos,10
+82063,La Capital,82,Santa Fe,2019,15,Dengue,10.0,De 45 a 65 anos,10
+82063,La Capital,82,Santa Fe,2019,16,Dengue,10.0,De 45 a 65 anos,10
+82063,La Capital,82,Santa Fe,2019,17,Dengue,10.0,De 45 a 65 anos,7
+82063,La Capital,82,Santa Fe,2019,18,Dengue,10.0,De 45 a 65 anos,5
+82063,La Capital,82,Santa Fe,2019,19,Dengue,10.0,De 45 a 65 anos,8
+82063,La Capital,82,Santa Fe,2019,20,Dengue,10.0,De 45 a 65 anos,4
+82063,La Capital,82,Santa Fe,2019,22,Dengue,10.0,De 45 a 65 anos,2
+82063,La Capital,82,Santa Fe,2019,24,Dengue,10.0,De 45 a 65 anos,1
+82063,La Capital,82,Santa Fe,2019,5,Dengue,4.0,De 5 a 9 anos,1
+82063,La Capital,82,Santa Fe,2019,9,Dengue,4.0,De 5 a 9 anos,1
+82063,La Capital,82,Santa Fe,2019,10,Dengue,4.0,De 5 a 9 anos,1
+82063,La Capital,82,Santa Fe,2019,11,Dengue,4.0,De 5 a 9 anos,2
+82063,La Capital,82,Santa Fe,2019,12,Dengue,4.0,De 5 a 9 anos,1
+82063,La Capital,82,Santa Fe,2019,13,Dengue,4.0,De 5 a 9 anos,1
+82063,La Capital,82,Santa Fe,2019,16,Dengue,4.0,De 5 a 9 anos,1
+82063,La Capital,82,Santa Fe,2019,17,Dengue,4.0,De 5 a 9 anos,1
+82063,La Capital,82,Santa Fe,2019,4,Dengue,11.0,Mayores de 65 anos,4
+82063,La Capital,82,Santa Fe,2019,5,Dengue,11.0,Mayores de 65 anos,1
+82063,La Capital,82,Santa Fe,2019,6,Dengue,11.0,Mayores de 65 anos,2
+82063,La Capital,82,Santa Fe,2019,8,Dengue,11.0,Mayores de 65 anos,2
+82063,La Capital,82,Santa Fe,2019,9,Dengue,11.0,Mayores de 65 anos,1
+82063,La Capital,82,Santa Fe,2019,11,Dengue,11.0,Mayores de 65 anos,1
+82063,La Capital,82,Santa Fe,2019,12,Dengue,11.0,Mayores de 65 anos,3
+82063,La Capital,82,Santa Fe,2019,13,Dengue,11.0,Mayores de 65 anos,1
+82063,La Capital,82,Santa Fe,2019,14,Dengue,11.0,Mayores de 65 anos,3
+82063,La Capital,82,Santa Fe,2019,15,Dengue,11.0,Mayores de 65 anos,3
+82063,La Capital,82,Santa Fe,2019,16,Dengue,11.0,Mayores de 65 anos,1
+82063,La Capital,82,Santa Fe,2019,17,Dengue,11.0,Mayores de 65 anos,8
+82063,La Capital,82,Santa Fe,2019,18,Dengue,11.0,Mayores de 65 anos,1
+82063,La Capital,82,Santa Fe,2019,19,Dengue,11.0,Mayores de 65 anos,1
+82063,La Capital,82,Santa Fe,2019,20,Dengue,11.0,Mayores de 65 anos,4
+82070,Las Colonias,82,Santa Fe,2019,17,Dengue,6.0,De 15 a 19 anos,1
+82070,Las Colonias,82,Santa Fe,2019,11,Dengue,9.0,De 35 a 44 anos,1
+82070,Las Colonias,82,Santa Fe,2019,14,Dengue,10.0,De 45 a 65 anos,1
+82070,Las Colonias,82,Santa Fe,2019,17,Dengue,10.0,De 45 a 65 anos,1
+82084,Rosario,82,Santa Fe,2019,15,Dengue,5.0,De 10 a 14 anos,1
+82084,Rosario,82,Santa Fe,2019,5,Dengue,5.0,De 10 a 14 anos,2
+82084,Rosario,82,Santa Fe,2019,8,Dengue,5.0,De 10 a 14 anos,1
+82084,Rosario,82,Santa Fe,2019,9,Dengue,5.0,De 10 a 14 anos,2
+82084,Rosario,82,Santa Fe,2019,10,Dengue,5.0,De 10 a 14 anos,2
+82084,Rosario,82,Santa Fe,2019,11,Dengue,5.0,De 10 a 14 anos,1
+82084,Rosario,82,Santa Fe,2019,13,Dengue,5.0,De 10 a 14 anos,1
+82084,Rosario,82,Santa Fe,2019,15,Dengue,5.0,De 10 a 14 anos,1
+82084,Rosario,82,Santa Fe,2019,16,Dengue,5.0,De 10 a 14 anos,1
+82084,Rosario,82,Santa Fe,2019,5,Dengue,6.0,De 15 a 19 anos,1
+82084,Rosario,82,Santa Fe,2019,6,Dengue,6.0,De 15 a 19 anos,1
+82084,Rosario,82,Santa Fe,2019,7,Dengue,6.0,De 15 a 19 anos,1
+82084,Rosario,82,Santa Fe,2019,8,Dengue,6.0,De 15 a 19 anos,2
+82084,Rosario,82,Santa Fe,2019,9,Dengue,6.0,De 15 a 19 anos,4
+82084,Rosario,82,Santa Fe,2019,15,Dengue,6.0,De 15 a 19 anos,1
+82084,Rosario,82,Santa Fe,2019,18,Dengue,6.0,De 15 a 19 anos,1
+82084,Rosario,82,Santa Fe,2019,19,Dengue,6.0,De 15 a 19 anos,1
+82084,Rosario,82,Santa Fe,2019,7,Dengue,3.0,De 2 a 4 anos,1
+82084,Rosario,82,Santa Fe,2019,9,Dengue,3.0,De 2 a 4 anos,1
+82084,Rosario,82,Santa Fe,2019,4,Dengue,7.0,De 20 a 24 anos,1
+82084,Rosario,82,Santa Fe,2019,8,Dengue,7.0,De 20 a 24 anos,2
+82084,Rosario,82,Santa Fe,2019,9,Dengue,7.0,De 20 a 24 anos,1
+82084,Rosario,82,Santa Fe,2019,10,Dengue,7.0,De 20 a 24 anos,1
+82084,Rosario,82,Santa Fe,2019,11,Dengue,7.0,De 20 a 24 anos,1
+82084,Rosario,82,Santa Fe,2019,14,Dengue,7.0,De 20 a 24 anos,1
+82084,Rosario,82,Santa Fe,2019,18,Dengue,7.0,De 20 a 24 anos,1
+82084,Rosario,82,Santa Fe,2019,7,Dengue,8.0,De 25 a 34 anos,2
+82084,Rosario,82,Santa Fe,2019,8,Dengue,8.0,De 25 a 34 anos,3
+82084,Rosario,82,Santa Fe,2019,10,Dengue,8.0,De 25 a 34 anos,1
+82084,Rosario,82,Santa Fe,2019,11,Dengue,8.0,De 25 a 34 anos,2
+82084,Rosario,82,Santa Fe,2019,15,Dengue,8.0,De 25 a 34 anos,1
+82084,Rosario,82,Santa Fe,2019,16,Dengue,8.0,De 25 a 34 anos,3
+82084,Rosario,82,Santa Fe,2019,17,Dengue,8.0,De 25 a 34 anos,3
+82084,Rosario,82,Santa Fe,2019,18,Dengue,8.0,De 25 a 34 anos,1
+82084,Rosario,82,Santa Fe,2019,19,Dengue,8.0,De 25 a 34 anos,1
+82084,Rosario,82,Santa Fe,2019,5,Dengue,9.0,De 35 a 44 anos,1
+82084,Rosario,82,Santa Fe,2019,6,Dengue,9.0,De 35 a 44 anos,1
+82084,Rosario,82,Santa Fe,2019,7,Dengue,9.0,De 35 a 44 anos,1
+82084,Rosario,82,Santa Fe,2019,8,Dengue,9.0,De 35 a 44 anos,4
+82084,Rosario,82,Santa Fe,2019,9,Dengue,9.0,De 35 a 44 anos,3
+82084,Rosario,82,Santa Fe,2019,10,Dengue,9.0,De 35 a 44 anos,1
+82084,Rosario,82,Santa Fe,2019,13,Dengue,9.0,De 35 a 44 anos,2
+82084,Rosario,82,Santa Fe,2019,14,Dengue,9.0,De 35 a 44 anos,2
+82084,Rosario,82,Santa Fe,2019,15,Dengue,9.0,De 35 a 44 anos,1
+82084,Rosario,82,Santa Fe,2019,16,Dengue,9.0,De 35 a 44 anos,1
+82084,Rosario,82,Santa Fe,2019,18,Dengue,9.0,De 35 a 44 anos,1
+82084,Rosario,82,Santa Fe,2019,3,Dengue,10.0,De 45 a 65 anos,1
+82084,Rosario,82,Santa Fe,2019,5,Dengue,10.0,De 45 a 65 anos,4
+82084,Rosario,82,Santa Fe,2019,6,Dengue,10.0,De 45 a 65 anos,1
+82084,Rosario,82,Santa Fe,2019,7,Dengue,10.0,De 45 a 65 anos,1
+82084,Rosario,82,Santa Fe,2019,8,Dengue,10.0,De 45 a 65 anos,2
+82084,Rosario,82,Santa Fe,2019,10,Dengue,10.0,De 45 a 65 anos,2
+82084,Rosario,82,Santa Fe,2019,11,Dengue,10.0,De 45 a 65 anos,1
+82084,Rosario,82,Santa Fe,2019,13,Dengue,10.0,De 45 a 65 anos,1
+82084,Rosario,82,Santa Fe,2019,14,Dengue,10.0,De 45 a 65 anos,2
+82084,Rosario,82,Santa Fe,2019,15,Dengue,10.0,De 45 a 65 anos,2
+82084,Rosario,82,Santa Fe,2019,16,Dengue,10.0,De 45 a 65 anos,4
+82084,Rosario,82,Santa Fe,2019,17,Dengue,10.0,De 45 a 65 anos,1
+82084,Rosario,82,Santa Fe,2019,20,Dengue,10.0,De 45 a 65 anos,1
+82084,Rosario,82,Santa Fe,2019,21,Dengue,10.0,De 45 a 65 anos,1
+82084,Rosario,82,Santa Fe,2019,17,Dengue,4.0,De 5 a 9 anos,1
+82084,Rosario,82,Santa Fe,2019,6,Dengue,4.0,De 5 a 9 anos,1
+82084,Rosario,82,Santa Fe,2019,8,Dengue,4.0,De 5 a 9 anos,1
+82084,Rosario,82,Santa Fe,2019,9,Dengue,4.0,De 5 a 9 anos,2
+82084,Rosario,82,Santa Fe,2019,10,Dengue,4.0,De 5 a 9 anos,2
+82084,Rosario,82,Santa Fe,2019,18,Dengue,11.0,Mayores de 65 anos,1
+82084,Rosario,82,Santa Fe,2019,6,Dengue,11.0,Mayores de 65 anos,3
+82084,Rosario,82,Santa Fe,2019,15,Dengue,11.0,Mayores de 65 anos,1
+82091,San Cristobal,82,Santa Fe,2019,13,Dengue,9.0,De 35 a 44 anos,1
+82091,San Cristobal,82,Santa Fe,2019,7,Dengue,10.0,De 45 a 65 anos,1
+82105,San Jeronimo,82,Santa Fe,2019,15,Dengue,10.0,De 45 a 65 anos,1
+86049,Capital,86,Santiago del Estero,2019,5,Dengue,5.0,De 10 a 14 anos,1
+86049,Capital,86,Santiago del Estero,2019,17,Dengue,8.0,De 25 a 34 anos,1
+86049,Capital,86,Santiago del Estero,2019,18,Dengue,8.0,De 25 a 34 anos,1
+86161,Robles,86,Santiago del Estero,2019,14,Dengue,9.0,De 35 a 44 anos,1
+90084,Capital,90,Tucumán,2019,13,Dengue,8.0,De 25 a 34 anos,1
+90084,Capital,90,Tucumán,2019,21,Dengue,9.0,De 35 a 44 anos,1
+90084,Capital,90,Tucumán,2019,19,Dengue,10.0,De 45 a 65 anos,1
+90084,Capital,90,Tucumán,2019,20,Dengue,4.0,De 5 a 9 anos,1
+90105,Tafi Viejo,90,Tucumán,2019,15,Dengue,8.0,De 25 a 34 anos,1

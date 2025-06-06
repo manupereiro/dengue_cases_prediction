@@ -1,0 +1,61 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Project Context: Early Detection of Dengue Outbreaks in CABA/AMBA via Digital Surveillance
+
+## Background
+Dengue fever poses a recurring public health challenge in Buenos Aires (CABA) and its surrounding metropolitan area (AMBA). Traditional surveillance systems—relying on laboratory-confirmed cases or passive reporting—often detect outbreaks only after transmission has already accelerated. By the time official case counts rise, vector control measures (fumigation, community outreach) can be delayed, reducing their effectiveness. A complementary “digital surveillance” approach can anticipate spikes in dengue incidence by monitoring online behaviors and environmental indicators that correlate with human cases.
+
+## Core Idea
+We propose to develop a predictive system that identifies imminent dengue outbreaks in CABA/AMBA up to 1–2 weeks before case counts surge. Instead of depending solely on clinical or laboratory data, the system will fuse:
+- **Search engine queries** (Google Trends) for dengue-related terms,  
+- **Social media signals** (Twitter mentions and sentiment) regarding symptoms and vector awareness,  
+- **Meteorological data** (precipitation, temperature) from local SMN stations,  
+- **Vector surveillance data** (weekly ovitrap egg counts),  
+- **Official dengue case counts** (for training and validation).
+
+By combining these digital and environmental signals into a supervised machine learning model, we aim to forecast weekly dengue incidence at the “comuna” (borough) level. Local authorities can then receive automated alerts indicating which neighborhoods are at highest risk, enabling timely interventions—targeted fumigation, larval source reduction, and public awareness campaigns—before outbreaks escalate.
+
+## Objectives
+1. **Identify and collect minimal viable datasets** that correlate with dengue transmission in CABA/AMBA:
+   - Weekly Google Trends indices for a small set of dengue-related keywords within the geographic region.
+   - A small Twitter data sample filtered by dengue-related keywords, geolocated to CABA/AMBA.
+   - Historical SMN meteorological records (daily precipitation and temperature) for key stations.
+   - Weekly official dengue case counts by comuna from the Ministry of Health.
+   - (Optional) Municipality-provided ovitrap egg count data, if available.
+
+2. **Engineer features** that capture both temporal and spatial signals:
+   - Convert daily weather data into moving-average variables (e.g., rainfall over the previous two weeks).
+   - Normalize Google Trends and Twitter volumes at the weekly, comuna-level resolution.
+   - Incorporate simple seasonal indicators (week-of-year sine/cosine transforms) to account for recurrent dengue seasonality.
+
+3. **Train a supervised regression model** (e.g., XGBoost) to predict dengue case counts in “t+1” week for each comuna:
+   - Use prior weeks’ digital signals and weather variables as inputs.
+   - Evaluate performance using MAE/RMSE on held-out weeks.
+   - Measure “lead time” correlation to demonstrate that model predictions anticipate real cases.
+
+4. **Generate geospatial risk maps** and a minimal interactive dashboard:
+   - Visualize predicted dengue incidence by comuna on a choropleth map.
+   - Provide trend graphs comparing predicted vs. actual cases over time.
+   - Allow stakeholders to select a week and view risk scores for all comunas.
+
+5. **Validate and demonstrate impact**:
+   - Show historical backtesting: how often the system would have correctly raised an alert before a real surge.
+   - Summarize potential lead time (e.g., 1–2 weeks) over official reporting.
+   - Articulate how these early warnings could help coordinate vector control actions and public messaging.
+
+## Expected Outcomes
+- A concise description of the model’s ability to forecast dengue incidence one week in advance for each comuna in CABA/AMBA.
+- A clear rationale for why digital signals (search queries, social media) and weather data can jointly detect early transmission dynamics.
+- A minimal interactive dashboard prototype that public health professionals could use to visualize geospatial risk.
+- A documented case for integrating digital surveillance into existing public health workflows—emphasizing timeliness, cost-effectiveness, and complementary insights to laboratory reporting.
+
+## Scope and Limitations
+- **Geographic focus**: CABA and immediate AMBA comunas only.  
+- **Timeframe**: Four-week MVP development—collect, preprocess, model, and visualize.  
+- **Data constraints**: Rely on publicly accessible APIs (Google Trends, Twitter) and freely available SMN weather data. Official dengue case counts will serve as the ground truth but only for historical training/validation.  
+- **Ethical considerations**: Use only aggregated, anonymized digital signals; ensure no personal or sensitive user data is retained; discuss the risk of false positives and recommended human-in-the-loop verification.
+
+By following this plan, we will deliver an actionable prototype that demonstrates how combining digital behavior with weather and vector surveillance data can yield early warnings of dengue outbreaks—potentially transforming how municipal health authorities in CABA/AMBA plan and deploy interventions.  

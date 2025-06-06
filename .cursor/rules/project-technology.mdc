@@ -1,0 +1,199 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Technical Stack and Tools for Dengue Outbreak Early Detection
+
+Below is a detailed overview of the technologies, libraries, and platforms we will use to implement the dengue prediction prototype for CABA/AMBA. All components are centered around Python and open-source tools to maximize reproducibility and ease of integration.
+
+---
+
+## 1. Programming Language and Environment
+
+- **Python**  
+  The entire codebase will be developed in Python. Python offers a rich ecosystem of scientific and ML libraries, as well as geospatial and web frameworks.
+
+- **Environment Management**  
+  - **venv** to create an isolated environment.  
+
+---
+
+## 2. Data Collection and API Clients
+
+1. **Google Trends**  
+   - **Library**: `pytrends`  
+   - **Purpose**: Programmatic extraction of weekly search interest indices for dengue-related keywords in CABA/AMBA.  
+   - **Install**:  
+     ```bash
+     pip install pytrends
+     ```
+
+2. **Twitter Streaming**  
+   - **Library**: `snscrape`  
+   - **Purpose**: Fetch geotagged tweets containing dengue-related keywords (e.g., "dengue", "fiebre", "mosquito") within the geographic bounding box of CABA/AMBA.  
+   - **Install**:  
+     ```bash
+     pip install snscrape
+     ```
+
+3. **SMN Meteorological Data**  
+   - **Approach**: Download CSVs or use HTTP requests to official SMN endpoints for historical weather.  
+   - **Library**: Standard Python (`requests`, `urllib`) and `pandas` for parsing.  
+
+4. **Official Dengue Case Data**  
+   - **Source**: CSV or JSON exports from the Ministry of Health of CABA/SISA.  
+   - **Library**: `pandas` to load and preprocess.
+
+5. **Ovitrap / Vector Surveillance Data** (optional)  
+   - **Source**: Municipality open-data portals (e.g., La Matanza, Vicente López).  
+   - **Library**: `pandas` for ingestion and cleaning.
+
+---
+
+## 3. Data Processing and Feature Engineering
+
+1. **Core Libraries**  
+   - `pandas`, `numpy`  
+     - Dataframes, arrays, cleaning, merging, and numerical computations.  
+   - `scikit-learn`  
+     - Utility functions for preprocessing (e.g., `StandardScaler`, `OneHotEncoder`), train/test splits, model evaluation metrics.  
+
+2. **Natural Language Processing (Twitter)**  
+   - **Libraries**:  
+     - `NLTK` or `spaCy` for text cleaning (tokenization, stop-word removal).  
+     - `TextBlob` or `VADER` (from `nltk.sentiment.vader`) to perform quick sentiment analysis on tweet texts.  
+   - **Use case**: Compute a weekly “sentiment score” or positive/negative ratio for dengue-related tweets per comuna.
+
+3. **Time-Series Feature Creation**  
+   - Rolling windows with `pandas`:  
+     - 2-week moving average of precipitation.  
+     - Accumulated “degree-days” (> 26 °C) to estimate mosquito breeding potential.  
+   - Seasonal encoding: Sine/cosine transforms of “week of year” to capture recurring seasonal patterns.
+
+4. **Geospatial Processing**  
+   - **Library**: `geopandas`  
+     - Load and manipulate shapefiles for CABA comunas and AMBA municipalities.  
+     - Spatial joins: assign each tweet’s coordinates to its corresponding comuna.  
+   - **Library**: `shapely`  
+     - Underlying geometric operations.  
+   - **Library**: `rasterio` (optional)  
+     - Reading or extracting raster data (e.g., NDVI/NDWI if added later via satellite).  
+
+---
+
+## 4. Modeling and Machine Learning
+
+1. **Gradient Boosting**  
+   - **Libraries**:  
+     - `xgboost` or `lightgbm` (recommended for speed and performance).  
+   - **Use case**:  
+     - Train a regression model to predict next-week dengue incidence per comuna.  
+     - Handle heterogeneous features (digital indices, weather variables, past cases).
+
+2. **Neural Networks (Optional)**  
+   - **Libraries**: `tensorflow` (Keras API) or `torch` (PyTorch)  
+   - **Use case**:  
+     - LSTM or GRU model on time-series sequences (e.g., multivariate sequences of Google Trends + weather).  
+     - Only implement if time and expertise allow—otherwise, focus on XGBoost first.
+
+3. **Model Evaluation and Validation**  
+   - **Library**: `scikit-learn`  
+     - Training/test splits with `TimeSeriesSplit` for temporal validation.  
+     - Metrics: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE).  
+   - **Backtesting**:  
+     - Compute correlation and lead-time analysis: measure how many weeks predictions lead real case surges.
+
+4. **Hyperparameter Tuning**  
+   - **Library**: `scikit-learn`’s `GridSearchCV` or `RandomizedSearchCV` with `TimeSeriesSplit`.  
+   - **Use case**: Optimize parameters like learning rate, tree depth, number of estimators for XGBoost.
+
+---
+
+## 5. Geospatial Visualization
+
+1. **Choropleth Mapping**  
+   - **Library**: `folium`  
+     - Create interactive leaflet-based maps to display predicted case incidence by comuna.  
+   - **Library**: `geopandas`  
+     - Merge model outputs (predicted cases) with comuna shapefile, then export to GeoJSON for `folium`.
+
+2. **Static and Interactive Plots**  
+   - **Library**: `plotly` or `matplotlib`  
+     - Plot time-series: actual vs. predicted cases for selected comunas.  
+     - Visualize feature importances using SHAP (`shap` library) to highlight key drivers (e.g., Google Trends volume, rainfall).
+
+3. **Streamlit Dashboard**  
+   - **Library**: `streamlit`  
+     - Build a web interface that allows users to select a week and view:  
+       - Choropleth of predicted incidence per comuna.  
+       - Time-series plot for the entire region’s aggregated trend.  
+       - Sidebar options to toggle features (e.g., include/exclude Twitter index).  
+   - **Install**:  
+     ```bash
+     pip install streamlit folium plotly shap
+     ```
+   - **Features**:  
+     - Real-time slider or dropdown for week selection.  
+     - Map updates dynamically.  
+     - Hover tooltips showing comuna name and predicted value.
+
+---
+
+## 6. Deployment and Reproducibility
+
+1. **Version Control**  
+   - **Platform**: GitHub (public or private).  
+   - **Structure**:  
+     - `data/`: raw CSVs (excluded from Git; provide instructions to download).  
+     - `notebooks/`: EDA and prototyping.  
+     - `src/`: modular Python scripts for data ingestion, feature engineering, modeling, and visualization.  
+     - `app.py`: Streamlit application.
+
+2. **Containerization (Optional)**  
+   - **Tool**: Docker  
+   - **Purpose**: Package the entire environment—Python version, libraries, and Streamlit app—for consistent deployment.  
+   - **Dockerfile Example**:
+     ```dockerfile
+     FROM python:3.8-slim
+     WORKDIR /app
+     COPY requirements.txt .
+     RUN pip install --no-cache-dir -r requirements.txt
+     COPY . .
+     EXPOSE 8501
+     CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+     ```
+
+3. **Cloud Deployment (Optional MVP)**  
+   - **Platform**: Streamlit Community Cloud (free tier) or Heroku (with Docker).  
+   - **Steps**:  
+     1. Connect GitHub repo.  
+     2. Define `requirements.txt`.  
+     3. Configure Streamlit-specific settings (`.streamlit/config.toml` if needed).
+
+---
+
+## 7. Ethical and Operational Considerations
+
+1. **Privacy**  
+   - Only use **publicly available** Twitter data; do not store user IDs—aggregate counts and sentiment only by comuna.  
+   - Google Trends data is already anonymized and aggregated at regional level.
+
+2. **False Positives & Alert Thresholds**  
+   - Introduce two-tier alert system—“Watch” vs. “High Risk”—based on confidence or predicted case count thresholds.  
+   - Advise a human-in-the-loop verification step: public health official reviews alerts before launching large-scale fumigation or communication campaigns.
+
+3. **Documentation**  
+   - A concise `README.md` explaining:  
+     - How to install dependencies (`environment.yml` or `requirements.txt`).  
+     - How to obtain raw data (scripts or manual download instructions).  
+     - How to run model training and launch the Streamlit dashboard.  
+   - Add a `LICENSE` (MIT or similar) to clarify open-source usage.
+
+---
+
+
+
+
+
+**By following this stack and schedule, we ensure a reproducible, modular, and scalable prototype that leverages Python’s data science ecosystem, geospatial libraries, and a lightweight web app framework to deliver timely dengue outbreak predictions for CABA/AMBA.**

@@ -1,0 +1,31 @@
+year,week,departament_name,departament_id,province,trends_dengue,prec_2weeks,temp_2weeks_avg,humd_2weeks_avg,target_cases
+2022,4,La Matanza,35,Buenos Aires,,,,,2
+2022,7,La Matanza,35,Buenos Aires,,,,,5
+2022,8,La Matanza,35,Buenos Aires,,,,,6
+2022,9,La Matanza,35,Buenos Aires,,,,,8
+2022,10,Ituzaingó,33,Buenos Aires,,,,,1
+2022,10,La Matanza,35,Buenos Aires,,,,,9
+2022,10,San Fernando,48,Buenos Aires,,,,,1
+2022,11,Ituzaingó,33,Buenos Aires,,,,,1
+2022,11,La Matanza,35,Buenos Aires,,,,,7
+2022,12,La Matanza,35,Buenos Aires,,,,,10
+2022,13,La Matanza,35,Buenos Aires,,,,,11
+2022,13,Morón,44,Buenos Aires,,,,,3
+2022,14,Almirante Brown,16,Buenos Aires,,,,,1
+2022,14,La Matanza,35,Buenos Aires,,,,,20
+2022,14,Lomas de Zamora,38,Buenos Aires,,,,,1
+2022,14,Morón,44,Buenos Aires,,,,,1
+2022,15,La Matanza,35,Buenos Aires,,,,,16
+2022,15,Merlo,43,Buenos Aires,,,,,1
+2022,15,Morón,44,Buenos Aires,,,,,1
+2022,16,La Matanza,35,Buenos Aires,,,,,14
+2022,17,Ensenada,23,Buenos Aires,,,,,1
+2022,17,La Matanza,35,Buenos Aires,,,,,11
+2022,17,Morón,44,Buenos Aires,,,,,4
+2022,18,La Matanza,35,Buenos Aires,,,,,5
+2022,19,La Matanza,35,Buenos Aires,,,,,3
+2022,19,Morón,44,Buenos Aires,,,,,1
+2022,20,La Matanza,35,Buenos Aires,,,,,3
+2022,20,Lanús,36,Buenos Aires,,,,,1
+2022,32,Ezeiza,27,Buenos Aires,,,,,1
+2022,40,General San Martín,31,Buenos Aires,,,,,1

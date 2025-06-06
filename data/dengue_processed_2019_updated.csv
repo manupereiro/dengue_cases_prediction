@@ -1,0 +1,48 @@
+year,week,departament_name,departament_id,province,trends_dengue,prec_2weeks,temp_2weeks_avg,humd_2weeks_avg,target_cases
+2019,3,COMUNA 5,5,CABA,,91.11,23.26,76.15,1
+2019,6,Zárate,55,Buenos Aires,,62.06,25.59,79.98,1
+2019,7,Berazategui,18,Buenos Aires,,39.7,25.05,69.97,1
+2019,7,COMUNA 1,1,CABA,,39.6,24.89,72.88,2
+2019,8,COMUNA 14,14,CABA,,29.85,22.63,69.13,1
+2019,9,COMUNA 10,10,CABA,,61.45,23.73,68.52,1
+2019,9,Florencio Varela,28,Buenos Aires,,70.07,23.84,67.75,3
+2019,9,Ituzaingó,33,Buenos Aires,,61.45,23.73,68.52,3
+2019,9,Tigre,52,Buenos Aires,,61.45,23.73,68.52,1
+2019,11,COMUNA 14,14,CABA,,73.6,20.02,70.06,1
+2019,11,COMUNA 9,9,CABA,,73.6,20.02,70.06,1
+2019,11,Ituzaingó,33,Buenos Aires,,73.6,20.02,70.06,2
+2019,12,COMUNA 14,14,CABA,,103.58,20.68,80.18,1
+2019,12,Ituzaingó,33,Buenos Aires,,103.58,20.68,80.18,4
+2019,12,Malvinas Argentinas,41,Buenos Aires,,103.58,20.68,80.18,1
+2019,12,Morón,44,Buenos Aires,,103.58,20.68,80.18,1
+2019,13,COMUNA 3,3,CABA,,36.64,18.86,76.81,1
+2019,13,COMUNA 9,9,CABA,,36.64,18.86,76.81,1
+2019,13,Ituzaingó,33,Buenos Aires,,36.64,18.86,76.81,8
+2019,14,COMUNA 10,10,CABA,,4.11,18.13,73.31,1
+2019,14,COMUNA 9,9,CABA,,4.11,18.13,73.31,1
+2019,14,Ituzaingó,33,Buenos Aires,,4.11,18.13,73.31,4
+2019,15,COMUNA 10,10,CABA,,8.32,19.07,73.77,1
+2019,15,COMUNA 14,14,CABA,,8.32,19.07,73.77,1
+2019,15,COMUNA 15,15,CABA,,8.32,19.07,73.77,1
+2019,15,COMUNA 9,9,CABA,,8.32,19.07,73.77,1
+2019,15,Ituzaingó,33,Buenos Aires,,8.32,19.07,73.77,2
+2019,15,La Plata,37,Buenos Aires,,10.92,19.02,74.06,1
+2019,15,San Miguel,50,Buenos Aires,,8.32,19.07,73.77,1
+2019,16,COMUNA 9,9,CABA,,14.37,18.73,71.19,1
+2019,16,Florencio Varela,28,Buenos Aires,,16.67,18.81,72.43,2
+2019,16,Ituzaingó,33,Buenos Aires,,14.37,18.73,71.19,3
+2019,16,Morón,44,Buenos Aires,,14.37,18.73,71.19,3
+2019,17,COMUNA 9,9,CABA,,9.16,17.73,72.11,3
+2019,17,Ituzaingó,33,Buenos Aires,,9.16,17.73,72.11,2
+2019,17,Morón,44,Buenos Aires,,9.16,17.73,72.11,1
+2019,18,Florencio Varela,28,Buenos Aires,,21.37,16.61,78.51,1
+2019,18,Ituzaingó,33,Buenos Aires,,18.72,16.8,76.92,2
+2019,19,COMUNA 14,14,CABA,,37.03,16.2,78.0,1
+2019,19,Ituzaingó,33,Buenos Aires,,37.03,16.2,78.0,2
+2019,19,La Plata,37,Buenos Aires,,35.79,16.09,78.88,1
+2019,21,COMUNA 9,9,CABA,,38.29,14.27,82.9,1
+2019,21,José C. Paz,34,Buenos Aires,,38.29,14.27,82.9,1
+2019,23,Malvinas Argentinas,41,Buenos Aires,,21.14,11.66,84.39,1
+2019,26,Exaltación de la Cruz,26,Buenos Aires,,143.11,14.29,89.31,1
+2019,49,COMUNA 1,1,CABA,,32.72,21.73,63.03,1
+2019,51,COMUNA 1,1,CABA,,19.89,22.53,54.38,1
