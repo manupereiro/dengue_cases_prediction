@@ -1,0 +1,31 @@
+year,week,departament_name,departament_id,province,trends_dengue,prec_2weeks,temp_2weeks_avg,humd_2weeks_avg,target_cases
+2022,4,La Matanza,35,Buenos Aires,100.0,115.37,27.96,62.75,2
+2022,7,La Matanza,35,Buenos Aires,52.0,30.36,21.73,64.82,5
+2022,8,La Matanza,35,Buenos Aires,52.0,21.04,22.38,61.98,6
+2022,9,La Matanza,35,Buenos Aires,81.0,75.93,23.4,66.41,8
+2022,10,Ituzaingó,33,Buenos Aires,99.0,69.47,22.55,72.26,1
+2022,10,La Matanza,35,Buenos Aires,99.0,69.47,22.55,72.26,9
+2022,10,San Fernando,48,Buenos Aires,99.0,69.47,22.55,72.26,1
+2022,11,Ituzaingó,33,Buenos Aires,48.0,38.39,20.88,71.25,1
+2022,11,La Matanza,35,Buenos Aires,48.0,38.39,20.88,71.25,7
+2022,12,La Matanza,35,Buenos Aires,60.0,42.9,19.51,69.66,10
+2022,13,La Matanza,35,Buenos Aires,58.0,47.65,18.96,73.75,11
+2022,13,Morón,44,Buenos Aires,58.0,47.65,18.96,73.75,3
+2022,14,Almirante Brown,16,Buenos Aires,58.0,30.55,17.25,73.34,1
+2022,14,La Matanza,35,Buenos Aires,58.0,38.38,16.98,73.19,20
+2022,14,Lomas de Zamora,38,Buenos Aires,58.0,34.61,18.5,74.59,1
+2022,14,Morón,44,Buenos Aires,58.0,38.38,16.98,73.19,1
+2022,15,La Matanza,35,Buenos Aires,71.0,5.55,17.27,68.58,16
+2022,15,Merlo,43,Buenos Aires,71.0,5.55,17.27,68.58,1
+2022,15,Morón,44,Buenos Aires,71.0,5.55,17.27,68.58,1
+2022,16,La Matanza,35,Buenos Aires,55.0,19.2,17.32,71.35,14
+2022,17,Ensenada,23,Buenos Aires,62.0,28.45,16.32,74.43,1
+2022,17,La Matanza,35,Buenos Aires,62.0,39.59,16.12,74.03,11
+2022,17,Morón,44,Buenos Aires,62.0,39.59,16.12,74.03,4
+2022,18,La Matanza,35,Buenos Aires,54.0,49.24,15.32,72.69,5
+2022,19,La Matanza,35,Buenos Aires,46.0,26.88,13.92,75.05,3
+2022,19,Morón,44,Buenos Aires,46.0,26.88,13.92,75.05,1
+2022,20,La Matanza,35,Buenos Aires,27.0,0.0,13.42,77.61,3
+2022,20,Lanús,36,Buenos Aires,27.0,0.0,15.91,75.78,1
+2022,32,Ezeiza,27,Buenos Aires,21.0,45.39,11.38,82.4,1
+2022,40,General San Martín,31,Buenos Aires,28.0,2.68,15.1,62.18,1

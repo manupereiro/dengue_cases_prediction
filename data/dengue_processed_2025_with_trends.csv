@@ -1,0 +1,220 @@
+year,week,departament_name,departament_id,province,trends_dengue,prec_2weeks,temp_2weeks_avg,humd_2weeks_avg,target_cases
+2025,2,COMUNA 13,13,CABA,73.0,0.0,26.33,48.97,1
+2025,2,General San Martín,31,Buenos Aires,69.0,0.0,26.33,48.97,1
+2025,2,Malvinas Argentinas,41,Buenos Aires,69.0,0.0,26.33,48.97,1
+2025,3,COMUNA 13,13,CABA,64.0,3.84,25.55,49.34,1
+2025,3,Pilar,45,Buenos Aires,63.0,3.84,25.55,49.34,1
+2025,4,La Matanza,35,Buenos Aires,61.0,25.5,27.11,50.47,1
+2025,4,Luján,39,Buenos Aires,61.0,25.5,27.11,50.47,1
+2025,5,COMUNA 2,2,CABA,61.0,29.92,27.41,54.22,1
+2025,5,General San Martín,31,Buenos Aires,55.0,29.92,27.41,54.22,1
+2025,5,Lomas de Zamora,38,Buenos Aires,55.0,27.64,26.63,64.48,1
+2025,5,Tres de Febrero,53,Buenos Aires,55.0,29.92,27.41,54.22,1
+2025,6,COMUNA 11,11,CABA,53.0,7.42,27.16,54.56,2
+2025,6,COMUNA 14,14,CABA,53.0,7.42,27.16,54.56,2
+2025,6,General San Martín,31,Buenos Aires,41.0,7.42,27.16,54.56,1
+2025,6,Hurlingham,32,Buenos Aires,41.0,7.42,27.16,54.56,1
+2025,6,Ituzaingó,33,Buenos Aires,41.0,7.42,27.16,54.56,1
+2025,6,Lanús,36,Buenos Aires,41.0,10.51,26.45,63.62,2
+2025,6,Quilmes,47,Buenos Aires,41.0,7.75,26.55,57.03,1
+2025,7,COMUNA 11,11,CABA,56.0,79.1,26.86,58.74,6
+2025,7,COMUNA 9,9,CABA,56.0,79.1,26.86,58.74,1
+2025,7,General San Martín,31,Buenos Aires,70.0,79.1,26.86,58.74,2
+2025,7,Ituzaingó,33,Buenos Aires,70.0,79.1,26.86,58.74,1
+2025,7,La Matanza,35,Buenos Aires,70.0,79.1,26.86,58.74,1
+2025,7,Lanús,36,Buenos Aires,70.0,71.11,26.52,66.45,1
+2025,7,Tres de Febrero,53,Buenos Aires,70.0,79.1,26.86,58.74,2
+2025,8,COMUNA 1,1,CABA,75.0,104.37,25.15,66.54,1
+2025,8,COMUNA 11,11,CABA,75.0,104.37,25.15,66.54,2
+2025,8,COMUNA 14,14,CABA,75.0,104.37,25.15,66.54,1
+2025,8,General San Martín,31,Buenos Aires,70.0,104.37,25.15,66.54,4
+2025,8,Ituzaingó,33,Buenos Aires,70.0,104.37,25.15,66.54,2
+2025,8,La Plata,37,Buenos Aires,70.0,103.85,24.96,66.19,2
+2025,8,Lanús,36,Buenos Aires,70.0,87.6,25.82,68.64,2
+2025,8,Merlo,43,Buenos Aires,70.0,104.37,25.15,66.54,1
+2025,8,San Isidro,49,Buenos Aires,70.0,104.37,25.15,66.54,1
+2025,8,Tres de Febrero,53,Buenos Aires,70.0,104.37,25.15,66.54,1
+2025,8,Vicente López,54,Buenos Aires,70.0,104.37,25.15,66.54,3
+2025,9,Avellaneda,17,Buenos Aires,68.0,30.97,25.26,66.56,1
+2025,9,General San Martín,31,Buenos Aires,68.0,37.38,24.81,63.74,2
+2025,9,Ituzaingó,33,Buenos Aires,68.0,37.38,24.81,63.74,1
+2025,9,La Matanza,35,Buenos Aires,68.0,37.38,24.81,63.74,2
+2025,9,La Plata,37,Buenos Aires,68.0,41.49,24.53,63.94,1
+2025,9,Lanús,36,Buenos Aires,68.0,30.97,25.26,66.56,2
+2025,9,Tres de Febrero,53,Buenos Aires,68.0,37.38,24.81,63.74,1
+2025,9,Vicente López,54,Buenos Aires,68.0,37.38,24.81,63.74,1
+2025,10,Avellaneda,17,Buenos Aires,81.0,84.1,25.91,71.97,1
+2025,10,COMUNA 1,1,CABA,52.0,82.99,25.88,68.82,4
+2025,10,COMUNA 11,11,CABA,52.0,82.99,25.88,68.82,1
+2025,10,COMUNA 15,15,CABA,52.0,82.99,25.88,68.82,2
+2025,10,COMUNA 8,8,CABA,52.0,82.99,25.88,68.82,1
+2025,10,General San Martín,31,Buenos Aires,81.0,82.99,25.88,68.82,9
+2025,10,Ituzaingó,33,Buenos Aires,81.0,82.99,25.88,68.82,2
+2025,10,La Matanza,35,Buenos Aires,81.0,82.99,25.88,68.82,3
+2025,10,La Plata,37,Buenos Aires,81.0,91.47,25.44,68.97,1
+2025,10,Lanús,36,Buenos Aires,81.0,84.1,25.91,71.97,4
+2025,10,Morón,44,Buenos Aires,81.0,82.99,25.88,68.82,1
+2025,10,Quilmes,47,Buenos Aires,81.0,91.47,25.44,68.97,1
+2025,10,Tigre,52,Buenos Aires,81.0,82.99,25.88,68.82,1
+2025,10,Tres de Febrero,53,Buenos Aires,81.0,82.99,25.88,68.82,1
+2025,10,Vicente López,54,Buenos Aires,81.0,82.99,25.88,68.82,1
+2025,11,Almirante Brown,16,Buenos Aires,100.0,122.28,24.95,79.75,1
+2025,11,COMUNA 1,1,CABA,57.0,135.06,25.3,79.84,6
+2025,11,COMUNA 10,10,CABA,57.0,135.06,25.3,79.84,2
+2025,11,COMUNA 11,11,CABA,57.0,135.06,25.3,79.84,5
+2025,11,COMUNA 12,12,CABA,57.0,135.06,25.3,79.84,2
+2025,11,COMUNA 2,2,CABA,57.0,135.06,25.3,79.84,1
+2025,11,COMUNA 7,7,CABA,57.0,135.06,25.3,79.84,1
+2025,11,COMUNA 9,9,CABA,57.0,135.06,25.3,79.84,2
+2025,11,General San Martín,31,Buenos Aires,100.0,135.06,25.3,79.84,14
+2025,11,Ituzaingó,33,Buenos Aires,100.0,135.06,25.3,79.84,3
+2025,11,José C. Paz,34,Buenos Aires,100.0,135.06,25.3,79.84,1
+2025,11,La Matanza,35,Buenos Aires,100.0,135.06,25.3,79.84,3
+2025,11,Lanús,36,Buenos Aires,100.0,132.45,25.92,79.58,12
+2025,11,San Isidro,49,Buenos Aires,100.0,135.06,25.3,79.84,3
+2025,11,Tres de Febrero,53,Buenos Aires,100.0,135.06,25.3,79.84,3
+2025,11,Vicente López,54,Buenos Aires,100.0,135.06,25.3,79.84,18
+2025,12,COMUNA 1,1,CABA,55.0,63.55,21.31,76.95,4
+2025,12,COMUNA 11,11,CABA,55.0,63.55,21.31,76.95,7
+2025,12,COMUNA 12,12,CABA,55.0,63.55,21.31,76.95,1
+2025,12,COMUNA 6,6,CABA,55.0,63.55,21.31,76.95,2
+2025,12,COMUNA 7,7,CABA,55.0,63.55,21.31,76.95,1
+2025,12,General San Martín,31,Buenos Aires,73.0,63.55,21.31,76.95,10
+2025,12,Hurlingham,32,Buenos Aires,73.0,63.55,21.31,76.95,1
+2025,12,Ituzaingó,33,Buenos Aires,73.0,63.55,21.31,76.95,4
+2025,12,José C. Paz,34,Buenos Aires,73.0,63.55,21.31,76.95,1
+2025,12,La Matanza,35,Buenos Aires,73.0,63.55,21.31,76.95,3
+2025,12,Lanús,36,Buenos Aires,73.0,61.2,22.88,75.02,5
+2025,12,Moreno,42,Buenos Aires,73.0,63.55,21.31,76.95,1
+2025,12,Quilmes,47,Buenos Aires,73.0,49.18,21.18,77.44,2
+2025,12,San Miguel,50,Buenos Aires,73.0,63.55,21.31,76.95,1
+2025,12,Tigre,52,Buenos Aires,73.0,63.55,21.31,76.95,1
+2025,12,Tres de Febrero,53,Buenos Aires,73.0,63.55,21.31,76.95,4
+2025,12,Vicente López,54,Buenos Aires,73.0,63.55,21.31,76.95,8
+2025,13,Avellaneda,17,Buenos Aires,50.0,17.38,22.3,71.48,2
+2025,13,COMUNA 1,1,CABA,46.0,17.73,20.88,72.18,7
+2025,13,COMUNA 10,10,CABA,46.0,17.73,20.88,72.18,1
+2025,13,COMUNA 11,11,CABA,46.0,17.73,20.88,72.18,4
+2025,13,COMUNA 15,15,CABA,46.0,17.73,20.88,72.18,1
+2025,13,COMUNA 6,6,CABA,46.0,17.73,20.88,72.18,1
+2025,13,COMUNA 9,9,CABA,46.0,17.73,20.88,72.18,1
+2025,13,Esteban Echeverría,25,Buenos Aires,50.0,17.48,20.26,73.8,1
+2025,13,General San Martín,31,Buenos Aires,50.0,17.73,20.88,72.18,14
+2025,13,Hurlingham,32,Buenos Aires,50.0,17.73,20.88,72.18,4
+2025,13,Ituzaingó,33,Buenos Aires,50.0,17.73,20.88,72.18,3
+2025,13,José C. Paz,34,Buenos Aires,50.0,17.73,20.88,72.18,1
+2025,13,La Matanza,35,Buenos Aires,50.0,17.73,20.88,72.18,4
+2025,13,Lanús,36,Buenos Aires,50.0,17.38,22.3,71.48,9
+2025,13,Malvinas Argentinas,41,Buenos Aires,50.0,17.73,20.88,72.18,2
+2025,13,Morón,44,Buenos Aires,50.0,17.73,20.88,72.18,3
+2025,13,Quilmes,47,Buenos Aires,50.0,18.62,20.88,72.97,1
+2025,13,San Fernando,48,Buenos Aires,50.0,17.73,20.88,72.18,1
+2025,13,San Miguel,50,Buenos Aires,50.0,17.73,20.88,72.18,3
+2025,13,Tres de Febrero,53,Buenos Aires,50.0,17.73,20.88,72.18,7
+2025,13,Vicente López,54,Buenos Aires,50.0,17.73,20.88,72.18,3
+2025,14,Berazategui,18,Buenos Aires,53.0,41.53,22.26,76.4,1
+2025,14,COMUNA 1,1,CABA,30.0,50.56,22.41,75.52,7
+2025,14,COMUNA 11,11,CABA,30.0,50.56,22.41,75.52,7
+2025,14,COMUNA 12,12,CABA,30.0,50.56,22.41,75.52,1
+2025,14,COMUNA 6,6,CABA,30.0,50.56,22.41,75.52,2
+2025,14,COMUNA 8,8,CABA,30.0,50.56,22.41,75.52,1
+2025,14,Esteban Echeverría,25,Buenos Aires,53.0,42.21,21.74,76.86,4
+2025,14,General San Martín,31,Buenos Aires,53.0,50.56,22.41,75.52,11
+2025,14,Ituzaingó,33,Buenos Aires,53.0,50.56,22.41,75.52,3
+2025,14,José C. Paz,34,Buenos Aires,53.0,50.56,22.41,75.52,1
+2025,14,La Matanza,35,Buenos Aires,53.0,50.56,22.41,75.52,2
+2025,14,Lanús,36,Buenos Aires,53.0,60.43,23.49,75.34,9
+2025,14,Malvinas Argentinas,41,Buenos Aires,53.0,50.56,22.41,75.52,3
+2025,14,Merlo,43,Buenos Aires,53.0,50.56,22.41,75.52,2
+2025,14,Morón,44,Buenos Aires,53.0,50.56,22.41,75.52,4
+2025,14,Pilar,45,Buenos Aires,53.0,50.56,22.41,75.52,1
+2025,14,San Isidro,49,Buenos Aires,53.0,50.56,22.41,75.52,3
+2025,14,San Miguel,50,Buenos Aires,53.0,50.56,22.41,75.52,1
+2025,14,Tres de Febrero,53,Buenos Aires,53.0,50.56,22.41,75.52,7
+2025,14,Vicente López,54,Buenos Aires,53.0,50.56,22.41,75.52,7
+2025,15,Almirante Brown,16,Buenos Aires,29.0,27.96,18.07,75.16,1
+2025,15,Avellaneda,17,Buenos Aires,29.0,50.23,20.14,73.19,2
+2025,15,COMUNA 1,1,CABA,34.0,39.01,18.2,74.65,5
+2025,15,COMUNA 11,11,CABA,34.0,39.01,18.2,74.65,3
+2025,15,COMUNA 12,12,CABA,34.0,39.01,18.2,74.65,2
+2025,15,COMUNA 15,15,CABA,34.0,39.01,18.2,74.65,1
+2025,15,COMUNA 4,4,CABA,34.0,39.01,18.2,74.65,2
+2025,15,COMUNA 9,9,CABA,34.0,39.01,18.2,74.65,1
+2025,15,Esteban Echeverría,25,Buenos Aires,29.0,28.81,17.38,75.65,2
+2025,15,Florencio Varela,28,Buenos Aires,29.0,27.96,18.07,75.16,1
+2025,15,General San Martín,31,Buenos Aires,29.0,39.01,18.2,74.65,9
+2025,15,Ituzaingó,33,Buenos Aires,29.0,39.01,18.2,74.65,6
+2025,15,La Matanza,35,Buenos Aires,29.0,39.01,18.2,74.65,3
+2025,15,La Plata,37,Buenos Aires,29.0,27.96,18.07,75.16,2
+2025,15,Lanús,36,Buenos Aires,29.0,50.23,20.14,73.19,6
+2025,15,Lomas de Zamora,38,Buenos Aires,29.0,50.23,20.14,73.19,2
+2025,15,Malvinas Argentinas,41,Buenos Aires,29.0,39.01,18.2,74.65,2
+2025,15,Moreno,42,Buenos Aires,29.0,39.01,18.2,74.65,1
+2025,15,Tigre,52,Buenos Aires,29.0,39.01,18.2,74.65,1
+2025,15,Tres de Febrero,53,Buenos Aires,29.0,39.01,18.2,74.65,2
+2025,15,Vicente López,54,Buenos Aires,29.0,39.01,18.2,74.65,2
+2025,16,Avellaneda,17,Buenos Aires,49.0,18.92,18.77,73.85,1
+2025,16,COMUNA 1,1,CABA,31.0,19.66,17.02,74.54,4
+2025,16,COMUNA 10,10,CABA,31.0,19.66,17.02,74.54,1
+2025,16,COMUNA 15,15,CABA,31.0,19.66,17.02,74.54,1
+2025,16,COMUNA 3,3,CABA,31.0,19.66,17.02,74.54,1
+2025,16,COMUNA 9,9,CABA,31.0,19.66,17.02,74.54,1
+2025,16,Esteban Echeverría,25,Buenos Aires,49.0,16.74,16.45,75.41,2
+2025,16,General San Martín,31,Buenos Aires,49.0,19.66,17.02,74.54,7
+2025,16,Ituzaingó,33,Buenos Aires,49.0,19.66,17.02,74.54,5
+2025,16,La Matanza,35,Buenos Aires,49.0,19.66,17.02,74.54,6
+2025,16,Lanús,36,Buenos Aires,49.0,18.92,18.77,73.85,5
+2025,16,Malvinas Argentinas,41,Buenos Aires,49.0,19.66,17.02,74.54,2
+2025,16,Merlo,43,Buenos Aires,49.0,19.66,17.02,74.54,2
+2025,16,Tres de Febrero,53,Buenos Aires,49.0,19.66,17.02,74.54,2
+2025,16,Vicente López,54,Buenos Aires,49.0,19.66,17.02,74.54,5
+2025,17,COMUNA 1,1,CABA,29.0,61.84,17.06,78.32,4
+2025,17,COMUNA 4,4,CABA,29.0,61.84,17.06,78.32,1
+2025,17,Escobar,24,Buenos Aires,41.0,61.84,17.06,78.32,1
+2025,17,General San Martín,31,Buenos Aires,41.0,61.84,17.06,78.32,6
+2025,17,Hurlingham,32,Buenos Aires,41.0,61.84,17.06,78.32,1
+2025,17,Ituzaingó,33,Buenos Aires,41.0,61.84,17.06,78.32,2
+2025,17,La Matanza,35,Buenos Aires,41.0,61.84,17.06,78.32,4
+2025,17,La Plata,37,Buenos Aires,41.0,68.8,17.01,78.6,1
+2025,17,Lanús,36,Buenos Aires,41.0,55.43,18.43,76.19,3
+2025,17,Malvinas Argentinas,41,Buenos Aires,41.0,61.84,17.06,78.32,1
+2025,17,Morón,44,Buenos Aires,41.0,61.84,17.06,78.32,1
+2025,17,Quilmes,47,Buenos Aires,41.0,68.8,17.01,78.6,1
+2025,17,Tigre,52,Buenos Aires,41.0,61.84,17.06,78.32,1
+2025,17,Tres de Febrero,53,Buenos Aires,41.0,61.84,17.06,78.32,3
+2025,17,Vicente López,54,Buenos Aires,41.0,61.84,17.06,78.32,4
+2025,17,Zárate,55,Buenos Aires,41.0,48.61,17.45,78.02,1
+2025,18,COMUNA 1,1,CABA,30.0,56.48,16.19,76.69,4
+2025,18,COMUNA 11,11,CABA,30.0,56.48,16.19,76.69,3
+2025,18,COMUNA 12,12,CABA,30.0,56.48,16.19,76.69,1
+2025,18,Esteban Echeverría,25,Buenos Aires,39.0,66.38,15.49,77.94,1
+2025,18,General San Martín,31,Buenos Aires,39.0,56.48,16.19,76.69,5
+2025,18,Hurlingham,32,Buenos Aires,39.0,56.48,16.19,76.69,1
+2025,18,Ituzaingó,33,Buenos Aires,39.0,56.48,16.19,76.69,2
+2025,18,La Matanza,35,Buenos Aires,39.0,56.48,16.19,76.69,5
+2025,18,Lanús,36,Buenos Aires,39.0,51.02,17.81,73.73,2
+2025,18,Lomas de Zamora,38,Buenos Aires,39.0,51.02,17.81,73.73,1
+2025,18,Malvinas Argentinas,41,Buenos Aires,39.0,56.48,16.19,76.69,1
+2025,18,Marcos Paz,40,Buenos Aires,39.0,66.38,15.49,77.94,1
+2025,18,San Fernando,48,Buenos Aires,39.0,56.48,16.19,76.69,1
+2025,18,San Miguel,50,Buenos Aires,39.0,56.48,16.19,76.69,3
+2025,18,Tres de Febrero,53,Buenos Aires,39.0,56.48,16.19,76.69,2
+2025,18,Vicente López,54,Buenos Aires,39.0,56.48,16.19,76.69,3
+2025,19,COMUNA 1,1,CABA,27.0,10.81,17.23,69.76,2
+2025,19,COMUNA 11,11,CABA,27.0,10.81,17.23,69.76,1
+2025,19,COMUNA 12,12,CABA,27.0,10.81,17.23,69.76,1
+2025,19,General San Martín,31,Buenos Aires,41.0,10.81,17.23,69.76,2
+2025,19,Ituzaingó,33,Buenos Aires,41.0,10.81,17.23,69.76,3
+2025,19,La Matanza,35,Buenos Aires,41.0,10.81,17.23,69.76,4
+2025,19,Malvinas Argentinas,41,Buenos Aires,41.0,10.81,17.23,69.76,1
+2025,19,San Isidro,49,Buenos Aires,41.0,10.81,17.23,69.76,1
+2025,19,San Miguel,50,Buenos Aires,41.0,10.81,17.23,69.76,1
+2025,19,Vicente López,54,Buenos Aires,41.0,10.81,17.23,69.76,2
+2025,20,COMUNA 1,1,CABA,19.0,30.62,17.6,69.73,1
+2025,20,General San Martín,31,Buenos Aires,33.0,30.62,17.6,69.73,2
+2025,20,Lanús,36,Buenos Aires,33.0,29.41,18.43,75.35,2
+2025,20,Malvinas Argentinas,41,Buenos Aires,33.0,30.62,17.6,69.73,1
+2025,20,Vicente López,54,Buenos Aires,33.0,30.62,17.6,69.73,2
+2025,21,COMUNA 15,15,CABA,21.0,62.75,17.96,74.32,1
+2025,21,Ituzaingó,33,Buenos Aires,29.0,62.75,17.96,74.32,1
+2025,21,San Isidro,49,Buenos Aires,29.0,62.75,17.96,74.32,2

@@ -1,0 +1,13 @@
+year,week,departament_name,departament_id,province,trends_dengue,prec_2weeks,temp_2weeks_avg,humd_2weeks_avg,target_cases
+2021,10,Berazategui,18,Buenos Aires,64.0,43.54,23.56,70.37,1
+2021,10,COMUNA 6,6,CABA,52.0,40.49,24.18,66.68,1
+2021,10,La Plata,37,Buenos Aires,64.0,43.54,23.56,70.37,1
+2021,11,COMUNA 15,15,CABA,34.0,0.83,24.17,62.1,1
+2021,12,General San Martín,31,Buenos Aires,57.0,29.23,21.84,63.3,1
+2021,12,Presidente Perón,46,Buenos Aires,57.0,32.46,21.05,65.15,1
+2021,13,Merlo,43,Buenos Aires,82.0,84.54,19.93,76.11,1
+2021,14,Almirante Brown,16,Buenos Aires,90.0,51.9,19.48,81.16,1
+2021,14,San Isidro,49,Buenos Aires,90.0,55.49,19.58,79.88,1
+2021,15,Berazategui,18,Buenos Aires,64.0,46.61,20.13,81.03,1
+2021,15,COMUNA 3,3,CABA,49.0,53.45,20.37,79.38,1
+2021,15,Lomas de Zamora,38,Buenos Aires,64.0,52.61,21.33,79.69,1
