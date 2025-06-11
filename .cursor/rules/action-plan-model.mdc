@@ -1,0 +1,111 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+1. Preparación y revisión del dataset
+1.1. Carga y diagnóstico
+
+Verificar que el dataset unificado incluya exactamente las columnas:
+year, week, departament_id, trends_dengue, prec_2weeks, temp_2weeks_avg, humd_2weeks_avg y target_cases.
+
+Asegurarse de que no haya valores faltantes en ninguna de estas columnas.
+
+Comprobar que los tipos de dato sean correctos (enteros para año, semana, departamento y target; numéricos para features continuas).
+
+1.2. Visualización inicial
+
+Generar resúmenes estadísticos (medias, desviaciones, rangos) de cada variable.
+
+Graficar tendencia anual de casos y de Google Trends para identificar estacionalidad.
+
+2. División temporal de los datos
+2.1. Definir rangos
+
+Entrenamiento: incluir años 2018 a 2022.
+
+Validación: incluir años 2023.
+
+Prueba final: utilizar año 2024.
+
+Hold-out opcional: reservar año 2025 para evaluación definitiva.
+
+2.2. Extracción de subconjuntos
+
+Crear tres subconjuntos con las filas correspondientes a cada rango de año, manteniendo siempre el orden cronológico para evitar fuga de información.
+
+3. Separación de features y etiqueta
+3.1. Features de entrada
+
+Seleccionar todas las variables excepto target_cases.
+
+Confirmar que la columna target_cases no forme parte del conjunto de entrada.
+
+3.2. Etiqueta de salida
+
+Designar la columna target_cases como la única etiqueta que el modelo deberá predecir.
+
+4. Preprocesamiento de variables categóricas y temporales
+4.1. Codificación de departament_id
+
+Transformar departament_id en una representación adecuada para el modelo (p. ej. one-hot o embeddings, según la recomendación de Cursor).
+
+4.2. Codificación de la semana
+
+Incluir una representación cíclica de la variable week (sin/cos) para capturar estacionalidad.
+
+4.3. Escalado de variables continuas
+
+Normalizar o estandarizar trends_dengue, prec_2weeks, temp_2weeks_avg y humd_2weeks_avg para asegurar que todas estén en rangos comparables.
+
+5. Entrenamiento del modelo supervisado
+5.1. Selección de algoritmo
+
+Emplear XGBoost como modelo principal, aprovechando su manejo de datos heterogéneos y falta de valores.
+
+5.2. Ajuste de hiperparámetros y validación interna
+
+Utilizar el subconjunto de validación (2023) para optimizar parámetros de entrenamiento (profundidad de árbol, tasa de aprendizaje, número de estimadores).
+
+Aplicar técnicas de early stopping para evitar sobreajuste, monitoreando la pérdida sobre datos de validación.
+
+6. Evaluación y métricas
+6.1. Evaluación en conjunto de validación
+
+Calcular MAE y RMSE sobre los años 2023.
+
+Visualizar la curva real vs. predicha y confirmar que las tendencias de pico estén correctamente anticipadas.
+
+6.2. Prueba final (2024)
+
+Una vez ajustado el modelo, aplicar sobre el conjunto de prueba (2024).
+
+Informar métricas de desempeño y compararlas con las de validación.
+
+6.3. Hold-out definitivo (2025, opcional)
+
+Si se desea, evaluar finalmente sobre 2025 para medir la robustez fuera de los conjuntos usados en entrenamiento y ajuste.
+
+7. Análisis adicional y entrega
+7.1. Importancia de variables
+
+Extraer importancias (o valores SHAP) para cuantificar la contribución de cada feature (Trends, precipitación, temperatura, humedad, departamento).
+
+7.2. Informe de resultados
+
+Generar un breve reporte con gráficos de desempeño, lead time de anticipación y recomendaciones de uso en salud pública.
+
+7.3. Preparación para producción
+
+Serializar el modelo entrenado.
+
+
+
+
+
+
+
+
+
+
+Documentar pasos y dependencias para su despliegue en un dashboard interactivo (Streamlit, por ejemplo).
