@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predictor de Dengue - CABA y AMBA</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-bug"></i>
+                    <h1>Predictor de Dengue</h1>
+                </div>
+                <p class="subtitle">Sistema de predicción para CABA y AMBA</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Input Form -->
+            <div class="card form-card">
+                <div class="card-header">
+                    <h2><i class="fas fa-chart-line"></i> Parámetros de Predicción</h2>
+                </div>
+                <div class="card-body">
+                    <form id="predictionForm">
+                        <!-- Ubicación -->
+                        <div class="form-section">
+                            <h3><i class="fas fa-map-marker-alt"></i> Ubicación</h3>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="province">Provincia:</label>
+                                    <select id="province" name="province" required>
+                                        <option value="">Seleccionar provincia</option>
+                                        <option value="CABA">CABA</option>
+                                        <option value="Buenos Aires">Buenos Aires</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="department">Departamento/Comuna:</label>
+                                    <select id="department" name="department" required disabled>
+                                        <option value="">Primero selecciona una provincia</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Tiempo -->
+                        <div class="form-section">
+                            <h3><i class="fas fa-calendar-alt"></i> Período</h3>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="year">Año:</label>
+                                    <input type="number" id="year" name="year" min="2024" max="2030" value="2025" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="week">Semana Epidemiológica:</label>
+                                    <input type="number" id="week" name="week" min="1" max="52" value="1" required>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Variables Climáticas -->
+                        <div class="form-section">
+                            <h3><i class="fas fa-cloud-sun"></i> Condiciones Climáticas (2 semanas)</h3>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="temperature">Temperatura Promedio (°C):</label>
+                                    <input type="number" id="temperature" name="temperature" step="0.1" min="0" max="50" value="25" required>
+                                    <small>Temperatura promedio de las últimas 2 semanas</small>
+                                </div>
+                                <div class="form-group">
+                                    <label for="humidity">Humedad Promedio (%):</label>
+                                    <input type="number" id="humidity" name="humidity" step="0.1" min="0" max="100" value="70" required>
+                                    <small>Humedad relativa promedio de las últimas 2 semanas</small>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="precipitation">Precipitación Acumulada (mm):</label>
+                                    <input type="number" id="precipitation" name="precipitation" step="0.1" min="0" max="500" value="30" required>
+                                    <small>Precipitación total de las últimas 2 semanas</small>
+                                </div>
+                                <div class="form-group">
+                                    <label for="trends_dengue">Google Trends "Dengue" (0-100):</label>
+                                    <input type="number" id="trends_dengue" name="trends_dengue" min="0" max="100" value="20" required>
+                                    <small>Interés de búsqueda en Google para "dengue"</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Variables Históricas (Opcional) -->
+                        <div class="form-section">
+                            <h3><i class="fas fa-history"></i> Datos Históricos (Opcional)</h3>
+                            <div class="form-toggle">
+                                <input type="checkbox" id="useHistorical" name="useHistorical">
+                                <label for="useHistorical">Incluir datos históricos de casos</label>
+                            </div>
+                            <div id="historicalData" class="historical-data" style="display: none;">
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <label for="cases_lag1">Casos hace 1 semana:</label>
+                                        <input type="number" id="cases_lag1" name="cases_lag1" min="0" value="0">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="cases_lag2">Casos hace 2 semanas:</label>
+                                        <input type="number" id="cases_lag2" name="cases_lag2" min="0" value="0">
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <label for="cases_lag3">Casos hace 3 semanas:</label>
+                                        <input type="number" id="cases_lag3" name="cases_lag3" min="0" value="0">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="cases_lag4">Casos hace 4 semanas:</label>
+                                        <input type="number" id="cases_lag4" name="cases_lag4" min="0" value="0">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div class="form-actions">
+                            <button type="submit" id="predictBtn" class="btn btn-primary">
+                                <i class="fas fa-chart-line"></i> Predecir Casos de Dengue
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Results -->
+            <div id="resultsCard" class="card results-card" style="display: none;">
+                <div class="card-header">
+                    <h2><i class="fas fa-chart-bar"></i> Resultado de la Predicción</h2>
+                </div>
+                <div class="card-body">
+                    <div id="predictionResult" class="prediction-result">
+                        <!-- Results will be populated here -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Loading -->
+            <div id="loading" class="loading" style="display: none;">
+                <div class="spinner"></div>
+                <p>Procesando predicción...</p>
+            </div>
+
+            <!-- Error Message -->
+            <div id="errorMessage" class="error-message" style="display: none;">
+                <div class="error-content">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    <span id="errorText"></span>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <p>&copy; 2025 Sistema de Predicción de Dengue - Desarrollado para CABA y AMBA</p>
+                <p><small>Basado en datos climáticos, demográficos y de Google Trends</small></p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html> 
