@@ -94,32 +94,28 @@
                             </div>
                         </div>
 
-                        <!-- Variables Históricas (Opcional) -->
+                        <!-- Variables Históricas (Obligatorio) -->
                         <div class="form-section">
-                            <h3><i class="fas fa-history"></i> Datos Históricos (Opcional)</h3>
-                            <div class="form-toggle">
-                                <input type="checkbox" id="useHistorical" name="useHistorical">
-                                <label for="useHistorical">Incluir datos históricos de casos</label>
-                            </div>
-                            <div id="historicalData" class="historical-data" style="display: none;">
+                            <h3><i class="fas fa-history"></i> Datos Históricos <span style="color:red">*</span></h3>
+                            <div id="historicalData" class="historical-data">
                                 <div class="form-row">
                                     <div class="form-group">
                                         <label for="cases_lag1">Casos hace 1 semana:</label>
-                                        <input type="number" id="cases_lag1" name="cases_lag1" min="0" value="0">
+                                        <input type="number" id="cases_lag1" name="cases_lag1" min="0" value="0" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="cases_lag2">Casos hace 2 semanas:</label>
-                                        <input type="number" id="cases_lag2" name="cases_lag2" min="0" value="0">
+                                        <input type="number" id="cases_lag2" name="cases_lag2" min="0" value="0" required>
                                     </div>
                                 </div>
                                 <div class="form-row">
                                     <div class="form-group">
                                         <label for="cases_lag3">Casos hace 3 semanas:</label>
-                                        <input type="number" id="cases_lag3" name="cases_lag3" min="0" value="0">
+                                        <input type="number" id="cases_lag3" name="cases_lag3" min="0" value="0" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="cases_lag4">Casos hace 4 semanas:</label>
-                                        <input type="number" id="cases_lag4" name="cases_lag4" min="0" value="0">
+                                        <input type="number" id="cases_lag4" name="cases_lag4" min="0" value="0" required>
                                     </div>
                                 </div>
                             </div>
@@ -173,4 +169,4 @@
 
     <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
-</html> 
+</html>
