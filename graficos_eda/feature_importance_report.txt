@@ -1,0 +1,63 @@
+REPORTE DE IMPORTANCIA DE VARIABLES - MODELO DE DENGUE
+============================================================
+
+Modelo: XGBRegressor
+Total de variables: 30
+Fecha de análisis: 2025-06-21 21:21:04
+
+TOP 10 VARIABLES MÁS IMPORTANTES:
+----------------------------------------
+14. Media Móvil 3 Semanas (Casos)  Importancia: 0.4372
+ 8. Casos Semana Anterior          Importancia: 0.1832
+15. Máximo Casos 4 Semanas         Importancia: 0.1383
+ 7. Semana del Año (Coseno)        Importancia: 0.0727
+13. Diferencia de Casos            Importancia: 0.0506
+ 3. Temperatura Promedio 2 Semanas Importancia: 0.0494
+10. Casos 3 Semanas Atrás          Importancia: 0.0312
+ 9. Casos 2 Semanas Atrás          Importancia: 0.0086
+ 6. Semana del Año (Seno)          Importancia: 0.0066
+ 1. Google Trends Dengue           Importancia: 0.0036
+
+
+TODAS LAS VARIABLES (ordenadas por importancia):
+--------------------------------------------------
+14. cases_ma_3weeks                     0.437175
+ 8. cases_lag1                          0.183247
+15. cases_max_4weeks                    0.138334
+ 7. week_cos                            0.072655
+13. cases_diff                          0.050628
+ 3. temp_2weeks_avg                     0.049379
+10. cases_lag3                          0.031161
+ 9. cases_lag2                          0.008588
+ 6. week_sin                            0.006644
+ 1. trends_dengue                       0.003563
+11. cases_lag4                          0.003115
+22. dept_2                              0.002496
+ 4. humd_2weeks_avg                     0.002129
+12. trends_lag1                         0.001960
+20. dept_0                              0.001612
+ 5. densidad_pob                        0.001573
+30. dept_10                             0.001532
+23. dept_3                              0.001338
+ 2. prec_2weeks                         0.001319
+27. dept_7                              0.000911
+25. dept_5                              0.000643
+16. extreme_rain                        0.000000
+21. dept_1                              0.000000
+19. dengue_favorable                    0.000000
+17. heat_wave                           0.000000
+18. extreme_humidity                    0.000000
+26. dept_6                              0.000000
+24. dept_4                              0.000000
+28. dept_8                              0.000000
+29. dept_9                              0.000000
+
+
+ESTADÍSTICAS DE IMPORTANCIA:
+------------------------------
+Importancia máxima: 0.437175
+Importancia mínima: 0.000000
+Importancia promedio: 0.033333
+Desviación estándar: 0.087479
+
+Top 10 variables representan: 98.1% de la importancia total
