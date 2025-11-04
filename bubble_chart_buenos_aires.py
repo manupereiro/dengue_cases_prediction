@@ -45,9 +45,9 @@ merged["lat"] = merged.centroid.to_crs(epsg=4326).y
 df_gba = df[df["province"] == "Buenos Aires"].copy()
 
 df_gba["dengue_favorable"] = (
-    (df_gba["temp_2weeks_avg"] > 25) &
-    (df_gba["humd_2weeks_avg"] > 60) &
-    (df_gba["prec_2weeks"] > 20)
+    (df_gba["temp_2weeks_avg"] > 24) &
+    (df_gba["humd_2weeks_avg"] > 50) &
+    (df_gba["prec_2weeks"] > 15)
 ).astype(int)
 
 agg_gba = df_gba.groupby("departament_name").agg({
@@ -108,7 +108,7 @@ fig.add_scattermapbox(
     marker=dict(
         size=merged["target_cases"],
         sizemode="area",
-        sizeref=2.*merged["target_cases"].max()/(40.**2),
+        sizeref=2.*merged["target_cases"].max()/(50.**2),
         sizemin=5,
         color="red",
         opacity=0.6
